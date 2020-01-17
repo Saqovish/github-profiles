@@ -1,0 +1,51 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/33766249?v=4",
+  "login": "Azghour-Saad",
+  "name": "Azghour-Saad",
+  "blog": "https://www.linkedin.com/in/azghour-saad/",
+  "bio": ":octocat:  Self-taught, 💻  I’m a Python  🐍  developer & Django Lover  💘 , JavaScript enthusiastic .\r\n",
+  "public_repos": 35,
+  "total_repos": null,
+  "followers": 46,
+  "following": 20,
+  "url": "https://github.com/Azghour-Saad",
+  "repos_url": "https://api.github.com/users/Azghour-Saad/repos",
+  "languages": [
+    {
+      "HTML": "23.51"
+    },
+    {
+      "CSS": "10.47"
+    },
+    {
+      "JavaScript": "30.21"
+    },
+    {
+      "Python": "35.82"
+    }
+  ],
+  "packages": {
+    "react": 3,
+    "react-dom": 3,
+    "react-scripts": 2,
+    "lodash": 1,
+    "@material-ui/core": 1,
+    "axios": 1,
+    "moment": 1,
+    "expo": 1,
+    "expo-font": 1,
+    "native-base": 1
+  },
+  "devPackages": {
+    "babel-eslint": 1,
+    "eslint-config-standard": 1,
+    "eslint-plugin-flowtype": 1,
+    "eslint-plugin-import": 1,
+    "eslint-plugin-node": 1,
+    "eslint-plugin-promise": 1,
+    "eslint-plugin-react": 1,
+    "eslint-plugin-standard": 1,
+    "standard": 1,
+    "babel-preset-expo": 1
+  }
+}

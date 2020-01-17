@@ -1,0 +1,66 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/26252043?v=4",
+  "login": "MehdiDi",
+  "name": "El Mehdi Diabi",
+  "blog": "",
+  "bio": "Programmer",
+  "public_repos": 8,
+  "total_repos": null,
+  "followers": 2,
+  "following": 2,
+  "url": "https://github.com/MehdiDi",
+  "repos_url": "https://api.github.com/users/MehdiDi/repos",
+  "languages": [
+    {
+      "ShaderLab": "15.47"
+    },
+    {
+      "C#": "64.70"
+    },
+    {
+      "JavaScript": "11.62"
+    },
+    {
+      "Python": "2.24"
+    },
+    {
+      "CSS": "0.35"
+    },
+    {
+      "HTML": "1.65"
+    },
+    {
+      "PHP": "3.93"
+    },
+    {
+      "Vue": "0.02"
+    },
+    {
+      "Mask": "0.01"
+    }
+  ],
+  "packages": {
+    "bcryptjs": 2,
+    "body-parser": 2,
+    "concurrently": 2,
+    "express": 2,
+    "jsonwebtoken": 2,
+    "mongoose": 2,
+    "multer": 1,
+    "socket.io": 1,
+    "cors": 1,
+    "dotenv": 1
+  },
+  "devPackages": {
+    "axios": 1,
+    "bootstrap": 1,
+    "cross-env": 1,
+    "jquery": 1,
+    "laravel-mix": 1,
+    "lodash": 1,
+    "popper.js": 1,
+    "vue": 1,
+    "nodemon": 1,
+    "concurrently": 1
+  }
+}

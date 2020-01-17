@@ -1,0 +1,72 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/9685767?v=4",
+  "login": "bioudi",
+  "name": "Bioudi Mohamed Amine",
+  "blog": "https://aminebioudi.com/",
+  "bio": "Full-stack Web Engineer",
+  "public_repos": 13,
+  "total_repos": null,
+  "followers": 4,
+  "following": 5,
+  "url": "https://github.com/bioudi",
+  "repos_url": "https://api.github.com/users/bioudi/repos",
+  "languages": [
+    {
+      "Vue": "16.65"
+    },
+    {
+      "CSS": "7.20"
+    },
+    {
+      "JavaScript": "16.47"
+    },
+    {
+      "HTML": "3.94"
+    },
+    {
+      "Dockerfile": "0.16"
+    },
+    {
+      "Shell": "10.06"
+    },
+    {
+      "Batchfile": "7.14"
+    },
+    {
+      "Python": "4.78"
+    },
+    {
+      "Java": "7.93"
+    },
+    {
+      "Vim script": "24.79"
+    },
+    {
+      "PHP": "0.88"
+    }
+  ],
+  "packages": {
+    "bootstrap": 1,
+    "bootstrap-vue": 1,
+    "core-js": 1,
+    "vue": 1,
+    "@nuxtjs/sitemap": 1,
+    "@nuxtjs/style-resources": 1,
+    "normalize.css": 1,
+    "nuxt": 1,
+    "nuxt-i18n": 1,
+    "nuxt-webfontloader": 1
+  },
+  "devPackages": {
+    "vue-template-compiler": 2,
+    "@vue/cli-plugin-babel": 1,
+    "@vue/cli-plugin-eslint": 1,
+    "@vue/cli-service": 1,
+    "babel-eslint": 1,
+    "eslint": 1,
+    "eslint-plugin-vue": 1,
+    "bili": 1,
+    "rollup-plugin-vue": 1,
+    "frontmatter-markdown-loader": 1
+  }
+}

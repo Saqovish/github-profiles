@@ -1,0 +1,35 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/43639743?v=4",
+  "login": "AIT-RAMI",
+  "name": "AIT RAMI Mohamed",
+  "blog": "",
+  "bio": "Software Engineering Student",
+  "public_repos": 25,
+  "total_repos": null,
+  "followers": 18,
+  "following": 43,
+  "url": "https://github.com/AIT-RAMI",
+  "repos_url": "https://api.github.com/users/AIT-RAMI/repos",
+  "languages": [
+    {
+      "XSLT": "5.55"
+    },
+    {
+      "Java": "65.65"
+    },
+    {
+      "C++": "24.58"
+    },
+    {
+      "Python": "1.66"
+    },
+    {
+      "C": "2.32"
+    },
+    {
+      "Shell": "0.24"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

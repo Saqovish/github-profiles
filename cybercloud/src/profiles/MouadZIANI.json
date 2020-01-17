@@ -1,0 +1,69 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/29683939?v=4",
+  "login": "MouadZIANI",
+  "name": "Mouad ZIANI ",
+  "blog": "https://mouadziani.github.io",
+  "bio": "Software Engineering Student | Problem solver | Programmer Enthusiast | Full Stack Developer |  Expert in @laravel - @angular - @vuejs - @Ionic-team",
+  "public_repos": 88,
+  "total_repos": null,
+  "followers": 75,
+  "following": 202,
+  "url": "https://github.com/MouadZIANI",
+  "repos_url": "https://api.github.com/users/MouadZIANI/repos",
+  "languages": [
+    {
+      "CSS": "7.80"
+    },
+    {
+      "HTML": "13.51"
+    },
+    {
+      "JavaScript": "64.47"
+    },
+    {
+      "PHP": "3.78"
+    },
+    {
+      "Vue": "0.02"
+    },
+    {
+      "Java": "5.99"
+    },
+    {
+      "CoffeeScript": "1.19"
+    },
+    {
+      "Shell": "0.01"
+    },
+    {
+      "TypeScript": "3.23"
+    },
+    {
+      "Dockerfile": "0.01"
+    }
+  ],
+  "packages": {
+    "@angular/common": 2,
+    "@angular/compiler": 2,
+    "@angular/core": 2,
+    "@angular/forms": 2,
+    "@angular/platform-browser": 2,
+    "@angular/platform-browser-dynamic": 2,
+    "rxjs": 2,
+    "zone.js": 2,
+    "@angular/router": 1,
+    "@fortawesome/angular-fontawesome": 1
+  },
+  "devPackages": {
+    "axios": 2,
+    "bootstrap": 2,
+    "popper.js": 2,
+    "cross-env": 2,
+    "jquery": 2,
+    "laravel-mix": 2,
+    "lodash": 2,
+    "vue": 2,
+    "browser-sync": 2,
+    "typescript": 2
+  }
+}

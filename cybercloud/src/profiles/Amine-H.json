@@ -1,0 +1,53 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/6276978?v=4",
+  "login": "Amine-H",
+  "name": "Amine Hakkou",
+  "blog": "https://hakkou.me",
+  "bio": "Software Developer, OSS believer, FP lover",
+  "public_repos": 30,
+  "total_repos": null,
+  "followers": 60,
+  "following": 21,
+  "url": "https://github.com/Amine-H",
+  "repos_url": "https://api.github.com/users/Amine-H/repos",
+  "languages": [
+    {
+      "CSS": "9.95"
+    },
+    {
+      "JavaScript": "2.23"
+    },
+    {
+      "Objective-C": "0.35"
+    },
+    {
+      "Python": "0.14"
+    },
+    {
+      "Java": "41.13"
+    },
+    {
+      "HTML": "1.57"
+    },
+    {
+      "PHP": "39.42"
+    },
+    {
+      "Clojure": "0.86"
+    },
+    {
+      "Shell": "0.24"
+    },
+    {
+      "Vim script": "0.08"
+    },
+    {
+      "C++": "3.92"
+    },
+    {
+      "Prolog": "0.11"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

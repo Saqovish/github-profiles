@@ -1,0 +1,57 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/30943833?v=4",
+  "login": "mohssineAboutaj",
+  "name": null,
+  "blog": "mohssineAboutaj.github.io",
+  "bio": "Hello, I am Full stack developer, I am serious and dedicated in my work",
+  "public_repos": 29,
+  "total_repos": null,
+  "followers": 2,
+  "following": 1,
+  "url": "https://github.com/mohssineAboutaj",
+  "repos_url": "https://api.github.com/users/mohssineAboutaj/repos",
+  "languages": [
+    {
+      "HTML": "24.98"
+    },
+    {
+      "CSS": "40.14"
+    },
+    {
+      "JavaScript": "19.33"
+    },
+    {
+      "PHP": "14.29"
+    },
+    {
+      "Vue": "0.28"
+    },
+    {
+      "TSQL": "0.99"
+    }
+  ],
+  "packages": {
+    "@fortawesome/fontawesome-free": 5,
+    "bootstrap": 3,
+    "jquery": 3,
+    "popper.js": 3,
+    "gulp-cli": 2,
+    "gulp": 2,
+    "gulp-pug": 2,
+    "gulp-sass": 2,
+    "@fortawesome/fontawesome-svg-core": 2,
+    "@fortawesome/free-brands-svg-icons": 2
+  },
+  "devPackages": {
+    "@babel/core": 5,
+    "@babel/preset-env": 5,
+    "browser-sync": 4,
+    "gulp": 4,
+    "gulp-cli": 4,
+    "gulp-pug": 4,
+    "gulp-sass": 4,
+    "node-sass": 4,
+    "gulp-clean-css": 3,
+    "gulp-concat": 3
+  }
+}

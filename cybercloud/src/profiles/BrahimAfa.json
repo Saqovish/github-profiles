@@ -1,0 +1,32 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/45852443?v=4",
+  "login": "BrahimAfa",
+  "name": "Brahim Afassy",
+  "blog": "",
+  "bio": "I'm a developer, passionate about new technologies and software development, especially Desktop and mobile, Motivated by the need to always do better.",
+  "public_repos": 12,
+  "total_repos": null,
+  "followers": 6,
+  "following": 7,
+  "url": "https://github.com/BrahimAfa",
+  "repos_url": "https://api.github.com/users/BrahimAfa/repos",
+  "languages": [
+    {
+      "Java": "52.11"
+    },
+    {
+      "JavaScript": "3.29"
+    },
+    {
+      "HTML": "0.29"
+    },
+    {
+      "CSS": "0.08"
+    },
+    {
+      "C#": "44.23"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

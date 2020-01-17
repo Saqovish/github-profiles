@@ -1,0 +1,43 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/43700517?v=4",
+  "login": "AWIXOR",
+  "name": "EL HOUCINE AOUASSAR",
+  "blog": "https://awixor.netlify.com/",
+  "bio": "Front-end Web Developer",
+  "public_repos": 32,
+  "total_repos": null,
+  "followers": 6,
+  "following": 38,
+  "url": "https://github.com/AWIXOR",
+  "repos_url": "https://api.github.com/users/AWIXOR/repos",
+  "languages": [
+    {
+      "HTML": "34.90"
+    },
+    {
+      "CSS": "27.83"
+    },
+    {
+      "JavaScript": "36.40"
+    },
+    {
+      "PHP": "0.46"
+    },
+    {
+      "TSQL": "0.41"
+    }
+  ],
+  "packages": {
+    "react": 5,
+    "react-dom": 5,
+    "react-scripts": 5,
+    "@testing-library/jest-dom": 4,
+    "@testing-library/react": 4,
+    "@testing-library/user-event": 4,
+    "node-sass": 2,
+    "bootstrap": 1,
+    "isomorphic-fetch": 1,
+    "moment": 1
+  },
+  "devPackages": {}
+}

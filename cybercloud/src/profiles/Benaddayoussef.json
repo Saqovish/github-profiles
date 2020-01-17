@@ -1,0 +1,53 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/47194351?v=4",
+  "login": "Benaddayoussef",
+  "name": "actX3ng",
+  "blog": "http://youssefbenadda.me",
+  "bio": "Computer Science Student at 1337",
+  "public_repos": 15,
+  "total_repos": null,
+  "followers": 19,
+  "following": 22,
+  "url": "https://github.com/Benaddayoussef",
+  "repos_url": "https://api.github.com/users/Benaddayoussef/repos",
+  "languages": [
+    {
+      "Dockerfile": "0.22"
+    },
+    {
+      "Python": "0.01"
+    },
+    {
+      "Shell": "0.11"
+    },
+    {
+      "TSQL": "58.71"
+    },
+    {
+      "PHP": "7.32"
+    },
+    {
+      "CSS": "4.19"
+    },
+    {
+      "C": "23.08"
+    },
+    {
+      "Makefile": "0.92"
+    },
+    {
+      "C++": "0.43"
+    },
+    {
+      "HTML": "4.66"
+    },
+    {
+      "JavaScript": "0.27"
+    },
+    {
+      "Hack": "0.08"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

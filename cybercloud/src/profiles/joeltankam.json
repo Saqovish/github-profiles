@@ -1,0 +1,61 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/17796723?v=4",
+  "login": "joeltankam",
+  "name": "Joël Tankam",
+  "blog": "https://twitter.com/joeltankam",
+  "bio": "Artist, because coding is art",
+  "public_repos": 20,
+  "total_repos": null,
+  "followers": 5,
+  "following": 48,
+  "url": "https://github.com/joeltankam",
+  "repos_url": "https://api.github.com/users/joeltankam/repos",
+  "languages": [
+    {
+      "JavaScript": "21.02"
+    },
+    {
+      "Dockerfile": "0.20"
+    },
+    {
+      "Shell": "0.01"
+    },
+    {
+      "C#": "6.00"
+    },
+    {
+      "Java": "65.66"
+    },
+    {
+      "Vue": "3.88"
+    },
+    {
+      "TypeScript": "3.02"
+    },
+    {
+      "HTML": "0.21"
+    }
+  ],
+  "packages": {
+    "chalk": 1,
+    "commander": 1,
+    "bootstrap-vue": 1,
+    "jquery": 1,
+    "vue": 1,
+    "vue-class-component": 1,
+    "vue-property-decorator": 1,
+    "vue-router": 1
+  },
+  "devPackages": {
+    "babel-jest": 2,
+    "eslint": 2,
+    "eslint-config-airbnb-base": 2,
+    "eslint-plugin-import": 2,
+    "babel-preset-env": 1,
+    "codacy-coverage": 1,
+    "jest": 1,
+    "jest-junit": 1,
+    "jest-silent-reporter": 1,
+    "jsdom": 1
+  }
+}

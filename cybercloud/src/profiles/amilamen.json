@@ -1,0 +1,57 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/46297789?v=4",
+  "login": "amilamen",
+  "name": "Ezéchiel Amen AGBLA",
+  "blog": "https://www.vyconsulting-group.com",
+  "bio": "Developer Java | Angular | Vue | Ionic | Nodejs | Nestjs | Electronics & Embedded Systems Engineer",
+  "public_repos": 37,
+  "total_repos": null,
+  "followers": 13,
+  "following": 51,
+  "url": "https://github.com/amilamen",
+  "repos_url": "https://api.github.com/users/amilamen/repos",
+  "languages": [
+    {
+      "Python": "5.28"
+    },
+    {
+      "PHP": "3.33"
+    },
+    {
+      "HTML": "19.42"
+    },
+    {
+      "JavaScript": "4.80"
+    },
+    {
+      "CSS": "9.65"
+    },
+    {
+      "TypeScript": "57.53"
+    }
+  ],
+  "packages": {
+    "@angular/common": 2,
+    "@angular/core": 2,
+    "@angular/forms": 2,
+    "@angular/http": 2,
+    "@angular/platform-browser": 2,
+    "@angular/platform-browser-dynamic": 2,
+    "@ionic-native/core": 2,
+    "@ionic-native/splash-screen": 2,
+    "@ionic-native/status-bar": 2,
+    "rxjs": 2
+  },
+  "devPackages": {
+    "typescript": 2,
+    "@angular-devkit/architect": 1,
+    "@angular-devkit/build-angular": 1,
+    "@angular-devkit/core": 1,
+    "@angular-devkit/schematics": 1,
+    "@angular/cli": 1,
+    "@angular/compiler": 1,
+    "@angular/compiler-cli": 1,
+    "@angular/language-service": 1,
+    "@ionic/angular-toolkit": 1
+  }
+}

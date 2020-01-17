@@ -1,0 +1,50 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/42737274?v=4",
+  "login": "ymoustai",
+  "name": "Yassir Moustaine",
+  "blog": "https://www.dipsie.me",
+  "bio": "Student at 1337",
+  "public_repos": 19,
+  "total_repos": null,
+  "followers": 10,
+  "following": 10,
+  "url": "https://github.com/ymoustai",
+  "repos_url": "https://api.github.com/users/ymoustai/repos",
+  "languages": [
+    {
+      "C": "52.16"
+    },
+    {
+      "Shell": "0.11"
+    },
+    {
+      "CSS": "23.21"
+    },
+    {
+      "JavaScript": "15.10"
+    },
+    {
+      "HTML": "2.51"
+    },
+    {
+      "PHP": "0.05"
+    },
+    {
+      "Dockerfile": "0.14"
+    },
+    {
+      "Objective-C": "3.23"
+    },
+    {
+      "Roff": "2.72"
+    },
+    {
+      "Makefile": "0.45"
+    },
+    {
+      "Ruby": "0.33"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

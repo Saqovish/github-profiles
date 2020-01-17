@@ -1,0 +1,26 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/43238801?v=4",
+  "login": "chouhbik",
+  "name": "Kamal Chouhbi",
+  "blog": "https://www.linkedin.com/in/kamal-chouhbi/",
+  "bio": "Masters student (Major in Data Analytics) with strong technical, business, and interpersonal skills.\r\nhttps://medium.com/@chouhbik",
+  "public_repos": 12,
+  "total_repos": null,
+  "followers": 28,
+  "following": 56,
+  "url": "https://github.com/chouhbik",
+  "repos_url": "https://api.github.com/users/chouhbik/repos",
+  "languages": [
+    {
+      "Jupyter Notebook": "69.60"
+    },
+    {
+      "HTML": "30.39"
+    },
+    {
+      "R": "0.02"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

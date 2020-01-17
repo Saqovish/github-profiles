@@ -1,0 +1,45 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/45123407?v=4",
+  "login": "abdelalimah",
+  "name": "Abdelali Mahboub",
+  "blog": "Abdelali@mahboub.digital",
+  "bio": "Spread code ..",
+  "public_repos": 3,
+  "total_repos": null,
+  "followers": 4,
+  "following": 7,
+  "url": "https://github.com/abdelalimah",
+  "repos_url": "https://api.github.com/users/abdelalimah/repos",
+  "languages": [
+    {
+      "Java": "23.48"
+    },
+    {
+      "HTML": "34.22"
+    },
+    {
+      "JavaScript": "42.31"
+    }
+  ],
+  "packages": {
+    "axios": 1,
+    "babel-loader": 1,
+    "babel-polyfill": 1,
+    "fractional": 1,
+    "loader-runner": 1,
+    "serialize-javascript": 1,
+    "uniqid": 1
+  },
+  "devPackages": {
+    "@babel/core": 1,
+    "@babel/plugin-proposal-class-properties": 1,
+    "@babel/polyfill": 1,
+    "@babel/preset-env": 1,
+    "babel-plugin-transform-class-properties": 1,
+    "css-loader": 1,
+    "html-loader": 1,
+    "html-webpack-plugin": 1,
+    "style-loader": 1,
+    "webpack": 1
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/23389104?v=4",
+  "login": "MarouaneSH",
+  "name": "Marouane Souah",
+  "blog": "https://marouane.me/",
+  "bio": "🥇Software engineer",
+  "public_repos": 28,
+  "total_repos": null,
+  "followers": 13,
+  "following": 10,
+  "url": "https://github.com/MarouaneSH",
+  "repos_url": "https://api.github.com/users/MarouaneSH/repos",
+  "languages": [
+    {
+      "TypeScript": "2.92"
+    },
+    {
+      "HTML": "20.35"
+    },
+    {
+      "CSS": "19.69"
+    },
+    {
+      "JavaScript": "2.01"
+    },
+    {
+      "PHP": "49.85"
+    },
+    {
+      "Vue": "4.17"
+    },
+    {
+      "ApacheConf": "0.06"
+    },
+    {
+      "Shell": "0.25"
+    },
+    {
+      "C#": "0.69"
+    }
+  ],
+  "packages": {
+    "@angular/common": 4,
+    "@angular/compiler": 4,
+    "@angular/core": 4,
+    "@angular/forms": 4,
+    "@angular/http": 4,
+    "@angular/platform-browser": 4,
+    "@angular/platform-browser-dynamic": 4,
+    "ionicons": 4,
+    "rxjs": 4,
+    "zone.js": 4
+  },
+  "devPackages": {
+    "axios": 5,
+    "jquery": 5,
+    "laravel-mix": 5,
+    "lodash": 5,
+    "vue": 5,
+    "typescript": 4,
+    "bootstrap-sass": 4,
+    "cross-env": 4,
+    "vue-template-compiler": 2,
+    "@ionic/app-scripts": 2
+  }
+}

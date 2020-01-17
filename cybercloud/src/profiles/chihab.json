@@ -1,0 +1,57 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/196852?v=4",
+  "login": "chihab",
+  "name": "Chihab Otmani",
+  "blog": "https://www.linkedin.com/in/chihab/",
+  "bio": "Independent JavaScript/Cloud | Developer | Coach / Trainer | Organizer @rabatjs & @ngMorocco | KidLabs.io co-founder",
+  "public_repos": 37,
+  "total_repos": null,
+  "followers": 18,
+  "following": 20,
+  "url": "https://github.com/chihab",
+  "repos_url": "https://api.github.com/users/chihab/repos",
+  "languages": [
+    {
+      "TypeScript": "30.17"
+    },
+    {
+      "HTML": "5.86"
+    },
+    {
+      "CSS": "12.90"
+    },
+    {
+      "JavaScript": "46.08"
+    },
+    {
+      "PHP": "3.82"
+    },
+    {
+      "Ruby": "1.17"
+    }
+  ],
+  "packages": {
+    "@angular/common": 4,
+    "@angular/compiler": 4,
+    "@angular/core": 4,
+    "@angular/forms": 4,
+    "@angular/platform-browser": 4,
+    "@angular/platform-browser-dynamic": 4,
+    "@angular/router": 4,
+    "core-js": 4,
+    "rxjs": 4,
+    "zone.js": 4
+  },
+  "devPackages": {
+    "@angular-devkit/build-angular": 4,
+    "@angular/cli": 4,
+    "@angular/compiler-cli": 4,
+    "@angular/language-service": 4,
+    "@types/node": 4,
+    "@types/jasmine": 4,
+    "@types/jasminewd2": 4,
+    "codelyzer": 4,
+    "jasmine-core": 4,
+    "jasmine-spec-reporter": 4
+  }
+}

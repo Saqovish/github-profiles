@@ -1,0 +1,32 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/17384627?v=4",
+  "login": "Rachid-Oubaoug",
+  "name": "OUBAOUG Rachid",
+  "blog": "",
+  "bio": "InfoSec Geek - CTF Player - Volunteer https://www.linkedin.com/in/rachid-oubaoug-368760b5/\r\nhttps://ctftime.org/team/38712",
+  "public_repos": 5,
+  "total_repos": null,
+  "followers": 3,
+  "following": 2,
+  "url": "https://github.com/Rachid-Oubaoug",
+  "repos_url": "https://api.github.com/users/Rachid-Oubaoug/repos",
+  "languages": [
+    {
+      "HTML": "34.72"
+    },
+    {
+      "Python": "26.33"
+    },
+    {
+      "PHP": "0.30"
+    },
+    {
+      "JavaScript": "23.98"
+    },
+    {
+      "CSS": "14.67"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

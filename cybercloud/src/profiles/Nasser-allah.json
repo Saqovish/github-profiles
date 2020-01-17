@@ -1,0 +1,54 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/23226046?v=4",
+  "login": "Nasser-allah",
+  "name": "Mohamed Nasser-allah",
+  "blog": "https://twitter.com/med_nasserallah",
+  "bio": "Web Developer, Laravel Artisan, Vue.js Lover :) TailwindCSS <3",
+  "public_repos": 9,
+  "total_repos": null,
+  "followers": 5,
+  "following": 24,
+  "url": "https://github.com/Nasser-allah",
+  "repos_url": "https://api.github.com/users/Nasser-allah/repos",
+  "languages": [
+    {
+      "PHP": "79.41"
+    },
+    {
+      "HTML": "5.29"
+    },
+    {
+      "Vue": "7.31"
+    },
+    {
+      "JavaScript": "1.30"
+    },
+    {
+      "CSS": "6.69"
+    }
+  ],
+  "packages": {
+    "core-js": 2,
+    "vue": 2,
+    "tailwindcss": 1,
+    "@fortawesome/fontawesome-free": 1,
+    "moment": 1,
+    "textarea-caret": 1,
+    "vue-at": 1,
+    "vue-instantsearch": 1,
+    "nuxt": 1,
+    "axios": 1
+  },
+  "devPackages": {
+    "vue-template-compiler": 3,
+    "@vue/cli-plugin-babel": 2,
+    "@vue/cli-plugin-eslint": 2,
+    "@vue/cli-service": 2,
+    "babel-eslint": 2,
+    "eslint": 2,
+    "eslint-plugin-vue": 2,
+    "@tailwindcss/custom-forms": 1,
+    "axios": 1,
+    "bootstrap": 1
+  }
+}

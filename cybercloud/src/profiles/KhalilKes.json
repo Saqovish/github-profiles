@@ -1,0 +1,66 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/44404385?v=4",
+  "login": "KhalilKes",
+  "name": null,
+  "blog": "",
+  "bio": null,
+  "public_repos": 12,
+  "total_repos": null,
+  "followers": 6,
+  "following": 4,
+  "url": "https://github.com/KhalilKes",
+  "repos_url": "https://api.github.com/users/KhalilKes/repos",
+  "languages": [
+    {
+      "HTML": "8.00"
+    },
+    {
+      "TypeScript": "1.11"
+    },
+    {
+      "JavaScript": "16.20"
+    },
+    {
+      "CSS": "66.79"
+    },
+    {
+      "Java": "2.75"
+    },
+    {
+      "PHP": "2.82"
+    },
+    {
+      "Hack": "1.46"
+    },
+    {
+      "TSQL": "0.32"
+    },
+    {
+      "Python": "0.54"
+    }
+  ],
+  "packages": {
+    "node-sass": 1,
+    "@angular/animations": 1,
+    "@angular/common": 1,
+    "@angular/compiler": 1,
+    "@angular/core": 1,
+    "@angular/forms": 1,
+    "@angular/platform-browser": 1,
+    "@angular/platform-browser-dynamic": 1,
+    "@angular/router": 1,
+    "rxjs": 1
+  },
+  "devPackages": {
+    "@angular-devkit/build-angular": 1,
+    "@angular/cli": 1,
+    "@angular/compiler-cli": 1,
+    "@angular/language-service": 1,
+    "@types/node": 1,
+    "@types/jasmine": 1,
+    "@types/jasminewd2": 1,
+    "codelyzer": 1,
+    "jasmine-core": 1,
+    "jasmine-spec-reporter": 1
+  }
+}

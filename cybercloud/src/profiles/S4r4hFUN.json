@@ -1,0 +1,46 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/52857308?v=4",
+  "login": "S4r4hFUN",
+  "name": "Sara HAMIDA",
+  "blog": "@INSEAIT",
+  "bio": "Having fun being a Data Scientist ",
+  "public_repos": 5,
+  "total_repos": null,
+  "followers": 9,
+  "following": 127,
+  "url": "https://github.com/S4r4hFUN",
+  "repos_url": "https://api.github.com/users/S4r4hFUN/repos",
+  "languages": [
+    {
+      "JavaScript": "16.37"
+    },
+    {
+      "HTML": "9.36"
+    },
+    {
+      "CSS": "0.52"
+    },
+    {
+      "Python": "67.95"
+    },
+    {
+      "Shell": "2.19"
+    },
+    {
+      "Prolog": "3.61"
+    }
+  ],
+  "packages": {
+    "content-based-recommender": 1,
+    "convert-csv-to-json": 1,
+    "cors": 1,
+    "express": 1,
+    "mongodb": 1,
+    "seneca": 1,
+    "seneca-balance-client": 1,
+    "seneca-entity": 1,
+    "seneca-mesh": 1,
+    "seneca-mongo-store": 1
+  },
+  "devPackages": {}
+}

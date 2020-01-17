@@ -1,0 +1,63 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/12874619?v=4",
+  "login": "amranidev",
+  "name": "Houssain Amrani",
+  "blog": "",
+  "bio": "An open minded web developer",
+  "public_repos": 43,
+  "total_repos": null,
+  "followers": 97,
+  "following": 0,
+  "url": "https://github.com/amranidev",
+  "repos_url": "https://api.github.com/users/amranidev/repos",
+  "languages": [
+    {
+      "PHP": "28.56"
+    },
+    {
+      "HTML": "36.10"
+    },
+    {
+      "JavaScript": "13.70"
+    },
+    {
+      "ApacheConf": "0.04"
+    },
+    {
+      "CSS": "14.41"
+    },
+    {
+      "C": "0.14"
+    },
+    {
+      "C++": "0.03"
+    },
+    {
+      "Vue": "7.02"
+    }
+  ],
+  "packages": {
+    "axios": 2,
+    "firebase": 2,
+    "myfirebase": 2,
+    "sw-precache-webpack-plugin": 2,
+    "vue": 2,
+    "vue-firestore": 2,
+    "vue-router": 2,
+    "vuefire": 2,
+    "vuex": 2,
+    "vue-material": 1
+  },
+  "devPackages": {
+    "cross-env": 3,
+    "autoprefixer": 2,
+    "babel-core": 2,
+    "babel-loader": 2,
+    "babel-plugin-istanbul": 2,
+    "babel-plugin-transform-runtime": 2,
+    "babel-preset-env": 2,
+    "babel-preset-stage-2": 2,
+    "babel-register": 2,
+    "bootstrap-sass": 2
+  }
+}

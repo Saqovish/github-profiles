@@ -1,0 +1,47 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/3282340?v=4",
+  "login": "arcanedev-maroc",
+  "name": "ARCANEDEV ",
+  "blog": "http://www.arcanedev.net",
+  "bio": "Hi. I'm a web agency based in Casablanca - Morocco.",
+  "public_repos": 19,
+  "total_repos": null,
+  "followers": 85,
+  "following": 46,
+  "url": "https://github.com/arcanedev-maroc",
+  "repos_url": "https://api.github.com/users/arcanedev-maroc/repos",
+  "languages": [
+    {
+      "PHP": "74.52"
+    },
+    {
+      "HTML": "13.26"
+    },
+    {
+      "TypeScript": "4.79"
+    },
+    {
+      "CSS": "4.85"
+    },
+    {
+      "Vue": "2.43"
+    },
+    {
+      "JavaScript": "0.10"
+    },
+    {
+      "Dockerfile": "0.03"
+    },
+    {
+      "ApacheConf": "0.03"
+    }
+  ],
+  "packages": {
+    "laravel-elixir": 1
+  },
+  "devPackages": {
+    "gulp": 1,
+    "laravel-elixir-vueify": 1,
+    "vue": 1
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/17890577?v=4",
+  "login": "jaouadballat",
+  "name": "Jaouad Ballat",
+  "blog": "https://jaouadballat.github.io",
+  "bio": "Full Stack Web Developer  from Morocco. Telecommunications Engineering graduate. Been working in web development since graduation.",
+  "public_repos": 52,
+  "total_repos": null,
+  "followers": 38,
+  "following": 15,
+  "url": "https://github.com/jaouadballat",
+  "repos_url": "https://api.github.com/users/jaouadballat/repos",
+  "languages": [
+    {
+      "PHP": "57.35"
+    },
+    {
+      "HTML": "22.15"
+    },
+    {
+      "CSS": "0.49"
+    },
+    {
+      "Vue": "1.40"
+    },
+    {
+      "Ruby": "0.01"
+    },
+    {
+      "JavaScript": "18.49"
+    },
+    {
+      "ApacheConf": "0.12"
+    }
+  ],
+  "packages": {
+    "vue": 6,
+    "axios": 3,
+    "vue-router": 3,
+    "body-parser": 2,
+    "cookie-parser": 2,
+    "debug": 2,
+    "express": 2,
+    "mongoose": 2,
+    "morgan": 2,
+    "passport": 2
+  },
+  "devPackages": {
+    "jquery": 9,
+    "lodash": 9,
+    "vue": 9,
+    "cross-env": 9,
+    "bootstrap-sass": 8,
+    "vue-template-compiler": 6,
+    "babel-core": 6,
+    "babel-loader": 6,
+    "babel-preset-env": 6,
+    "axios": 5
+  }
+}

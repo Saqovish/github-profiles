@@ -1,0 +1,57 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/17694380?v=4",
+  "login": "saadaouad",
+  "name": "Saad Aouad",
+  "blog": "https://saadaouad.net/",
+  "bio": "Keep it simple, show what matters and make it actionable.",
+  "public_repos": 11,
+  "total_repos": null,
+  "followers": 34,
+  "following": 34,
+  "url": "https://github.com/saadaouad",
+  "repos_url": "https://api.github.com/users/saadaouad/repos",
+  "languages": [
+    {
+      "JavaScript": "42.23"
+    },
+    {
+      "HTML": "42.70"
+    },
+    {
+      "Python": "4.50"
+    },
+    {
+      "CSS": "10.28"
+    },
+    {
+      "Dockerfile": "0.13"
+    },
+    {
+      "Shell": "0.15"
+    }
+  ],
+  "packages": {
+    "prop-types": 3,
+    "react": 3,
+    "react-dom": 3,
+    "lodash": 3,
+    "node-sass-chokidar": 2,
+    "react-app-polyfill": 2,
+    "react-scripts": 2,
+    "express": 2,
+    "react-helmet": 1,
+    "react-redux": 1
+  },
+  "devPackages": {
+    "babel-cli": 2,
+    "babel-core": 2,
+    "babel-loader": 2,
+    "babel-polyfill": 2,
+    "babel-preset-es2015": 2,
+    "babel-preset-stage-0": 2,
+    "babel-register": 2,
+    "css-loader": 2,
+    "enzyme": 2,
+    "node-sass": 2
+  }
+}

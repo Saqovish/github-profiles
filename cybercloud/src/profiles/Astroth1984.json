@@ -1,0 +1,63 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/47123273?v=4",
+  "login": "Astroth1984",
+  "name": "ElMounirOthmane",
+  "blog": "",
+  "bio": "Software engineering student at the National School for Computer Science and Systems Analysis (ENSIAS)",
+  "public_repos": 7,
+  "total_repos": null,
+  "followers": 8,
+  "following": 12,
+  "url": "https://github.com/Astroth1984",
+  "repos_url": "https://api.github.com/users/Astroth1984/repos",
+  "languages": [
+    {
+      "Java": "32.06"
+    },
+    {
+      "TypeScript": "0.24"
+    },
+    {
+      "CSS": "10.96"
+    },
+    {
+      "HTML": "6.57"
+    },
+    {
+      "JavaScript": "50.10"
+    },
+    {
+      "C++": "0.03"
+    },
+    {
+      "Shell": "0.02"
+    },
+    {
+      "Makefile": "0.01"
+    }
+  ],
+  "packages": {
+    "@angular/animations": 1,
+    "@angular/cdk": 1,
+    "@angular/common": 1,
+    "@angular/compiler": 1,
+    "@angular/core": 1,
+    "@angular/forms": 1,
+    "@angular/http": 1,
+    "@angular/material": 1,
+    "@angular/platform-browser": 1,
+    "@angular/platform-browser-dynamic": 1
+  },
+  "devPackages": {
+    "@angular-devkit/build-angular": 1,
+    "@angular/cli": 1,
+    "@angular/compiler-cli": 1,
+    "@angular/language-service": 1,
+    "@types/node": 1,
+    "@types/jasmine": 1,
+    "@types/jasminewd2": 1,
+    "codelyzer": 1,
+    "jasmine-core": 1,
+    "jasmine-spec-reporter": 1
+  }
+}

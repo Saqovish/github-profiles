@@ -1,0 +1,35 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/20879597?v=4",
+  "login": "YassinAJDI",
+  "name": "Yassin AJDI",
+  "blog": "",
+  "bio": "Android Developer ♡ Passionate about mobile development ♡ Clean Code ♡ Material Design ♡ UI/UX. #AndroidDev",
+  "public_repos": 56,
+  "total_repos": null,
+  "followers": 84,
+  "following": 161,
+  "url": "https://github.com/YassinAJDI",
+  "repos_url": "https://api.github.com/users/YassinAJDI/repos",
+  "languages": [
+    {
+      "Kotlin": "11.57"
+    },
+    {
+      "Java": "28.34"
+    },
+    {
+      "HTML": "32.82"
+    },
+    {
+      "CSS": "24.66"
+    },
+    {
+      "Ruby": "2.01"
+    },
+    {
+      "Shell": "0.61"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

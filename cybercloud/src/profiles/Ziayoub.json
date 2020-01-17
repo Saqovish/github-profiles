@@ -1,0 +1,54 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/28715327?v=4",
+  "login": "Ziayoub",
+  "name": "Ayoub Ziani",
+  "blog": "",
+  "bio": null,
+  "public_repos": 5,
+  "total_repos": null,
+  "followers": 2,
+  "following": 7,
+  "url": "https://github.com/Ziayoub",
+  "repos_url": "https://api.github.com/users/Ziayoub/repos",
+  "languages": [
+    {
+      "PHP": "26.04"
+    },
+    {
+      "HTML": "46.05"
+    },
+    {
+      "CSS": "23.51"
+    },
+    {
+      "JavaScript": "4.13"
+    },
+    {
+      "Vue": "0.26"
+    }
+  ],
+  "packages": {
+    "live-server": 1,
+    "core-js": 1,
+    "vue": 1,
+    "vue-router": 1,
+    "animate.css": 1,
+    "@fortawesome/fontawesome-free": 1,
+    "@fullcalendar/bootstrap": 1,
+    "@fullcalendar/core": 1,
+    "@fullcalendar/daygrid": 1,
+    "@fullcalendar/interaction": 1
+  },
+  "devPackages": {
+    "node-sass": 2,
+    "autoprefixer": 1,
+    "concat": 1,
+    "npm-run-all": 1,
+    "postcss-cli": 1,
+    "@vue/cli-plugin-babel": 1,
+    "@vue/cli-plugin-eslint": 1,
+    "@vue/cli-plugin-router": 1,
+    "@vue/cli-service": 1,
+    "babel-eslint": 1
+  }
+}

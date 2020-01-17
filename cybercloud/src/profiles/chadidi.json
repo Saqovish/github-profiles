@@ -1,0 +1,53 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/9916806?v=4",
+  "login": "chadidi",
+  "name": "Abdellah Chadidi",
+  "blog": "chadidi.dev",
+  "bio": "Founder @fevrok and developer at Devinweb, sometimes contributer to @LaravelArab and other open source projects...\r\n",
+  "public_repos": 52,
+  "total_repos": null,
+  "followers": 17,
+  "following": 69,
+  "url": "https://github.com/chadidi",
+  "repos_url": "https://api.github.com/users/chadidi/repos",
+  "languages": [
+    {
+      "HTML": "16.12"
+    },
+    {
+      "CSS": "7.75"
+    },
+    {
+      "JavaScript": "6.60"
+    },
+    {
+      "PHP": "61.28"
+    },
+    {
+      "Vue": "8.25"
+    }
+  ],
+  "packages": {
+    "lodash": 2,
+    "enhanced-resolve": 1,
+    "firebase": 1,
+    "vue": 1,
+    "vue-router": 1,
+    "@nuxtjs/apollo": 1,
+    "@nuxtjs/dotenv": 1,
+    "graphql-tag": 1,
+    "nuxt": 1
+  },
+  "devPackages": {
+    "axios": 2,
+    "cross-env": 2,
+    "laravel-mix": 2,
+    "lodash": 2,
+    "autoprefixer": 1,
+    "babel-core": 1,
+    "babel-loader": 1,
+    "babel-plugin-transform-runtime": 1,
+    "babel-preset-env": 1,
+    "babel-preset-stage-2": 1
+  }
+}

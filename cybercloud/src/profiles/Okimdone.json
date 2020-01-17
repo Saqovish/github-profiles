@@ -1,0 +1,65 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/6020670?v=4",
+  "login": "Okimdone",
+  "name": "BOUGADRE Achraf",
+  "blog": "",
+  "bio": "a fan of knowledge, and a man of culture aswell..",
+  "public_repos": 12,
+  "total_repos": null,
+  "followers": 2,
+  "following": 4,
+  "url": "https://github.com/Okimdone",
+  "repos_url": "https://api.github.com/users/Okimdone/repos",
+  "languages": [
+    {
+      "Python": "1.07"
+    },
+    {
+      "Smarty": "0.31"
+    },
+    {
+      "C": "3.93"
+    },
+    {
+      "PHP": "88.83"
+    },
+    {
+      "HTML": "0.08"
+    },
+    {
+      "CSS": "0.09"
+    },
+    {
+      "JavaScript": "0.42"
+    },
+    {
+      "Makefile": "0.14"
+    },
+    {
+      "Assembly": "0.02"
+    },
+    {
+      "C++": "0.01"
+    },
+    {
+      "Shell": "0.16"
+    },
+    {
+      "Java": "3.82"
+    },
+    {
+      "Ruby": "0.56"
+    },
+    {
+      "Batchfile": "0.41"
+    },
+    {
+      "Go": "0.12"
+    },
+    {
+      "C#": "0.04"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

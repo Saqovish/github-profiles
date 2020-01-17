@@ -1,0 +1,87 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/6693263?v=4",
+  "login": "yasahmed",
+  "name": "JNAH Ahmed",
+  "blog": "https://www.linkedin.com/in/jnahahmed/",
+  "bio": "FullStack Developer",
+  "public_repos": 34,
+  "total_repos": null,
+  "followers": 2,
+  "following": 3,
+  "url": "https://github.com/yasahmed",
+  "repos_url": "https://api.github.com/users/yasahmed/repos",
+  "languages": [
+    {
+      "Python": "1.07"
+    },
+    {
+      "PowerShell": "1.60"
+    },
+    {
+      "JavaScript": "65.44"
+    },
+    {
+      "C#": "0.46"
+    },
+    {
+      "ApacheConf": "0.44"
+    },
+    {
+      "CSS": "3.22"
+    },
+    {
+      "HTML": "22.98"
+    },
+    {
+      "PHP": "0.16"
+    },
+    {
+      "Smarty": "0.02"
+    },
+    {
+      "Shell": "0.02"
+    },
+    {
+      "Java": "3.87"
+    },
+    {
+      "Rust": "0.45"
+    },
+    {
+      "Groovy": "0.23"
+    },
+    {
+      "TypeScript": "0.01"
+    },
+    {
+      "Dockerfile": "0.02"
+    },
+    {
+      "Go": "0.01"
+    }
+  ],
+  "packages": {
+    "react": 5,
+    "react-dom": 5,
+    "react-scripts": 3,
+    "react-redux": 2,
+    "redux": 2,
+    "axios": 2,
+    "formik": 1,
+    "yup": 1,
+    "express": 1,
+    "jade": 1
+  },
+  "devPackages": {
+    "@babel/core": 1,
+    "@babel/plugin-syntax-dynamic-import": 1,
+    "@babel/plugin-transform-runtime": 1,
+    "@babel/preset-env": 1,
+    "@babel/preset-react": 1,
+    "babel-eslint": 1,
+    "babel-jest": 1,
+    "babel-loader": 1,
+    "babel-preset-es2015": 1,
+    "babel-preset-stage-2": 1
+  }
+}

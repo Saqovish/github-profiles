@@ -1,0 +1,54 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/19539254?v=4",
+  "login": "salah7eddine",
+  "name": "Abousaid Salah-Eddine",
+  "blog": "https://salah7eddine.github.io/modern_portfolio",
+  "bio": "Junior Java Developer / Architect / Jee | Angular, I master the implementation in these areas both front-end and back-end. As far as back-end development",
+  "public_repos": 130,
+  "total_repos": null,
+  "followers": 10,
+  "following": 37,
+  "url": "https://github.com/salah7eddine",
+  "repos_url": "https://api.github.com/users/salah7eddine/repos",
+  "languages": [
+    {
+      "CSS": "15.91"
+    },
+    {
+      "HTML": "10.88"
+    },
+    {
+      "JavaScript": "55.74"
+    },
+    {
+      "Java": "0.82"
+    },
+    {
+      "TypeScript": "16.65"
+    }
+  ],
+  "packages": {
+    "@angular/common": 11,
+    "@angular/core": 11,
+    "@angular/forms": 11,
+    "@angular/platform-browser": 11,
+    "@angular/platform-browser-dynamic": 11,
+    "@angular/router": 11,
+    "rxjs": 11,
+    "zone.js": 11,
+    "@angular/animations": 10,
+    "@angular/compiler": 10
+  },
+  "devPackages": {
+    "@angular/cli": 11,
+    "@angular/compiler-cli": 11,
+    "@angular/language-service": 11,
+    "@types/node": 11,
+    "@types/jasmine": 11,
+    "@types/jasminewd2": 11,
+    "codelyzer": 11,
+    "jasmine-core": 11,
+    "jasmine-spec-reporter": 11,
+    "karma": 11
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/8593284?v=4",
+  "login": "obb12",
+  "name": "Omar Benchbana",
+  "blog": "",
+  "bio": null,
+  "public_repos": 81,
+  "total_repos": null,
+  "followers": 3,
+  "following": 0,
+  "url": "https://github.com/obb12",
+  "repos_url": "https://api.github.com/users/obb12/repos",
+  "languages": [
+    {
+      "Python": "0.06"
+    },
+    {
+      "JavaScript": "86.91"
+    },
+    {
+      "Perl": "0.00"
+    },
+    {
+      "TypeScript": "2.40"
+    },
+    {
+      "CSS": "2.03"
+    },
+    {
+      "HTML": "5.01"
+    },
+    {
+      "SaltStack": "0.01"
+    },
+    {
+      "PHP": "3.40"
+    },
+    {
+      "Shell": "0.13"
+    },
+    {
+      "Batchfile": "0.03"
+    },
+    {
+      "ApacheConf": "0.02"
+    }
+  ],
+  "packages": {
+    "react": 5,
+    "react-dom": 5,
+    "react-scripts": 3,
+    "bootstrap": 2,
+    "@angular/common": 2,
+    "@angular/compiler": 2,
+    "@angular/core": 2,
+    "@angular/forms": 2,
+    "@angular/http": 2,
+    "@angular/platform-browser": 2
+  },
+  "devPackages": {
+    "typescript": 2,
+    "prettier": 2,
+    "@angular-devkit/build-angular": 1,
+    "@angular/cli": 1,
+    "@angular/compiler-cli": 1,
+    "@angular/platform-server": 1,
+    "@types/jasmine": 1,
+    "@types/jasminewd2": 1,
+    "@types/node": 1,
+    "jasmine-core": 1
+  }
+}

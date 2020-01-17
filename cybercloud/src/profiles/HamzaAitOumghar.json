@@ -1,0 +1,60 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/32310504?v=4",
+  "login": "HamzaAitOumghar",
+  "name": "Hamza Ait Oumghar",
+  "blog": "",
+  "bio": null,
+  "public_repos": 23,
+  "total_repos": null,
+  "followers": 5,
+  "following": 32,
+  "url": "https://github.com/HamzaAitOumghar",
+  "repos_url": "https://api.github.com/users/HamzaAitOumghar/repos",
+  "languages": [
+    {
+      "HTML": "54.57"
+    },
+    {
+      "CSS": "16.37"
+    },
+    {
+      "JavaScript": "14.62"
+    },
+    {
+      "Java": "4.36"
+    },
+    {
+      "TypeScript": "8.21"
+    },
+    {
+      "C#": "0.50"
+    },
+    {
+      "PHP": "1.38"
+    }
+  ],
+  "packages": {
+    "bootstrap": 7,
+    "@angular/animations": 6,
+    "@angular/common": 6,
+    "@angular/compiler": 6,
+    "@angular/core": 6,
+    "@angular/forms": 6,
+    "@angular/http": 6,
+    "@angular/platform-browser": 6,
+    "@angular/platform-browser-dynamic": 6,
+    "rxjs": 6
+  },
+  "devPackages": {
+    "typescript": 6,
+    "@angular/cli": 4,
+    "@angular/compiler-cli": 4,
+    "@angular/language-service": 4,
+    "@types/jasmine": 4,
+    "@types/jasminewd2": 4,
+    "@types/node": 4,
+    "codelyzer": 4,
+    "jasmine-core": 4,
+    "jasmine-spec-reporter": 4
+  }
+}

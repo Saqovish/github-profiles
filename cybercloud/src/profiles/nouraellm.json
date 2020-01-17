@@ -1,0 +1,41 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/26191219?v=4",
+  "login": "nouraellm",
+  "name": "El Allam Noura",
+  "blog": "https://ranouel.com/",
+  "bio": "Pythonista, Born to contribute!",
+  "public_repos": 15,
+  "total_repos": null,
+  "followers": 155,
+  "following": 855,
+  "url": "https://github.com/nouraellm",
+  "repos_url": "https://api.github.com/users/nouraellm/repos",
+  "languages": [
+    {
+      "C": "42.37"
+    },
+    {
+      "Shell": "0.11"
+    },
+    {
+      "Makefile": "0.80"
+    },
+    {
+      "JavaScript": "4.99"
+    },
+    {
+      "PHP": "5.82"
+    },
+    {
+      "HTML": "5.28"
+    },
+    {
+      "CSS": "2.45"
+    },
+    {
+      "C#": "38.18"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

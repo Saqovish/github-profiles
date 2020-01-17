@@ -1,0 +1,69 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2952507?v=4",
+  "login": "AlaaZorkane",
+  "name": "Alaa Zorkane",
+  "blog": "",
+  "bio": "Dev | Student @1337_MA (42 Network)",
+  "public_repos": 30,
+  "total_repos": null,
+  "followers": 26,
+  "following": 28,
+  "url": "https://github.com/AlaaZorkane",
+  "repos_url": "https://api.github.com/users/AlaaZorkane/repos",
+  "languages": [
+    {
+      "Vue": "0.31"
+    },
+    {
+      "JavaScript": "92.57"
+    },
+    {
+      "HTML": "0.08"
+    },
+    {
+      "CSS": "5.40"
+    },
+    {
+      "C": "1.56"
+    },
+    {
+      "CMake": "0.03"
+    },
+    {
+      "Makefile": "0.03"
+    },
+    {
+      "Objective-C": "0.01"
+    },
+    {
+      "Shell": "0.00"
+    },
+    {
+      "Python": "0.01"
+    }
+  ],
+  "packages": {
+    "react": 5,
+    "react-dom": 5,
+    "react-scripts": 4,
+    "express": 3,
+    "got": 3,
+    "vuetify": 2,
+    "nuxt": 2,
+    "discord.js": 2,
+    "howler": 2,
+    "json-beautify": 2
+  },
+  "devPackages": {
+    "babel-eslint": 2,
+    "eslint": 2,
+    "eslint-plugin-vue": 2,
+    "stylus": 2,
+    "stylus-loader": 2,
+    "nodemon": 2,
+    "@vue/cli-plugin-babel": 1,
+    "@vue/cli-plugin-eslint": 1,
+    "@vue/cli-service": 1,
+    "vue-cli-plugin-vuetify": 1
+  }
+}

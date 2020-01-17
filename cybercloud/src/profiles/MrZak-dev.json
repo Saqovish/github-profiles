@@ -1,0 +1,51 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/27586088?v=4",
+  "login": "MrZak-dev",
+  "name": "Zakaria Guenna",
+  "blog": "",
+  "bio": "Computer engineering Bachelor's Degree .",
+  "public_repos": 15,
+  "total_repos": null,
+  "followers": 6,
+  "following": 2,
+  "url": "https://github.com/MrZak-dev",
+  "repos_url": "https://api.github.com/users/MrZak-dev/repos",
+  "languages": [
+    {
+      "PHP": "17.06"
+    },
+    {
+      "CSS": "0.47"
+    },
+    {
+      "HTML": "78.89"
+    },
+    {
+      "Hack": "0.00"
+    },
+    {
+      "C#": "0.37"
+    },
+    {
+      "JavaScript": "2.13"
+    },
+    {
+      "Java": "0.88"
+    },
+    {
+      "Python": "0.00"
+    },
+    {
+      "GDScript": "0.19"
+    }
+  ],
+  "packages": {
+    "axios": 1,
+    "react": 1,
+    "react-dom": 1,
+    "react-router-dom": 1,
+    "react-scripts": 1,
+    "uuid": 1
+  },
+  "devPackages": {}
+}

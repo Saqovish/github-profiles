@@ -1,0 +1,57 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/24990394?v=4",
+  "login": "matboud",
+  "name": "Matboud",
+  "blog": "https://www.matboud.com",
+  "bio": "Im MATBOUD and im a coder, I work as a full-stack JS engineer & team leader at SPORTIME company .. i travel a lot, play guitar, and i surf ^^",
+  "public_repos": 10,
+  "total_repos": null,
+  "followers": 13,
+  "following": 38,
+  "url": "https://github.com/matboud",
+  "repos_url": "https://api.github.com/users/matboud/repos",
+  "languages": [
+    {
+      "JavaScript": "33.89"
+    },
+    {
+      "Java": "11.90"
+    },
+    {
+      "HTML": "9.10"
+    },
+    {
+      "CSS": "24.96"
+    },
+    {
+      "Batchfile": "0.71"
+    },
+    {
+      "PHP": "18.62"
+    },
+    {
+      "Objective-C": "0.49"
+    },
+    {
+      "Ruby": "0.11"
+    },
+    {
+      "Python": "0.22"
+    }
+  ],
+  "packages": {
+    "react": 2,
+    "react-dom": 2,
+    "react-navigation": 1,
+    "cordova-android": 1,
+    "cordova-plugin-whitelist": 1,
+    "react-scripts": 1,
+    "@babel/core": 1,
+    "@babel/preset-env": 1,
+    "@babel/preset-react": 1,
+    "babel-cli": 1
+  },
+  "devPackages": {
+    "webpack-cli": 1
+  }
+}

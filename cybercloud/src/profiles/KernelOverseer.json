@@ -1,0 +1,56 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/43656267?v=4",
+  "login": "KernelOverseer",
+  "name": "Aymane Biri",
+  "blog": "",
+  "bio": "a student @ 1337",
+  "public_repos": 18,
+  "total_repos": null,
+  "followers": 51,
+  "following": 60,
+  "url": "https://github.com/KernelOverseer",
+  "repos_url": "https://api.github.com/users/KernelOverseer/repos",
+  "languages": [
+    {
+      "C": "95.81"
+    },
+    {
+      "C++": "3.03"
+    },
+    {
+      "Makefile": "0.49"
+    },
+    {
+      "Objective-C": "0.25"
+    },
+    {
+      "Python": "0.03"
+    },
+    {
+      "CMake": "0.01"
+    },
+    {
+      "Shell": "0.02"
+    },
+    {
+      "Roff": "0.10"
+    },
+    {
+      "Perl": "0.00"
+    },
+    {
+      "JavaScript": "0.03"
+    },
+    {
+      "HTML": "0.00"
+    },
+    {
+      "PHP": "0.20"
+    },
+    {
+      "CSS": "0.04"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

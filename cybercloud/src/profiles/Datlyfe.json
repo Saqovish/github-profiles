@@ -1,0 +1,63 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/38252859?v=4",
+  "login": "Datlyfe",
+  "name": "Bouaggad Moez",
+  "blog": "https://bouaggadmoez.netlify.com/",
+  "bio": "Full Stack Web Developer | JsLover",
+  "public_repos": 13,
+  "total_repos": null,
+  "followers": 21,
+  "following": 6,
+  "url": "https://github.com/Datlyfe",
+  "repos_url": "https://api.github.com/users/Datlyfe/repos",
+  "languages": [
+    {
+      "Vue": "16.69"
+    },
+    {
+      "CSS": "14.97"
+    },
+    {
+      "JavaScript": "18.99"
+    },
+    {
+      "HTML": "3.16"
+    },
+    {
+      "Dart": "32.03"
+    },
+    {
+      "Java": "1.11"
+    },
+    {
+      "Objective-C": "0.39"
+    },
+    {
+      "TypeScript": "12.66"
+    }
+  ],
+  "packages": {
+    "vue": 6,
+    "vue-router": 4,
+    "vuex": 4,
+    "font-awesome": 3,
+    "axios": 2,
+    "boxicons": 2,
+    "fetch-jsonp": 2,
+    "core-js": 2,
+    "vue-mq": 1,
+    "@webcomponents/webcomponentsjs": 1
+  },
+  "devPackages": {
+    "@vue/cli-service": 6,
+    "vue-template-compiler": 6,
+    "@vue/cli-plugin-babel": 5,
+    "@vue/cli-plugin-eslint": 5,
+    "sass-loader": 5,
+    "@vue/eslint-config-prettier": 4,
+    "node-sass": 4,
+    "typescript": 4,
+    "babel-eslint": 3,
+    "eslint": 3
+  }
+}

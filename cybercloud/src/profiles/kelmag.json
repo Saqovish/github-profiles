@@ -1,0 +1,54 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/29312717?v=4",
+  "login": "kelmag",
+  "name": "Khalil El Maghraoui",
+  "blog": "",
+  "bio": null,
+  "public_repos": 7,
+  "total_repos": null,
+  "followers": 15,
+  "following": 58,
+  "url": "https://github.com/kelmag",
+  "repos_url": "https://api.github.com/users/kelmag/repos",
+  "languages": [
+    {
+      "CSS": "12.69"
+    },
+    {
+      "JavaScript": "78.91"
+    },
+    {
+      "Objective-C": "2.69"
+    },
+    {
+      "Python": "1.43"
+    },
+    {
+      "Java": "1.05"
+    },
+    {
+      "HTML": "3.24"
+    }
+  ],
+  "packages": {
+    "react": 5,
+    "react-dom": 4,
+    "react-scripts": 3,
+    "recompose": 2,
+    "styled-components": 2,
+    "font-awesome": 1,
+    "@reach/router": 1,
+    "@expo/vector-icons": 1,
+    "babel-eslint": 1,
+    "color": 1
+  },
+  "devPackages": {
+    "babel-core": 1,
+    "babel-jest": 1,
+    "jest": 1,
+    "metro-react-native-babel-preset": 1,
+    "react-test-renderer": 1,
+    "eslint-plugin-react": 1,
+    "prettier": 1
+  }
+}

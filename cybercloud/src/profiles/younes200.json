@@ -1,0 +1,53 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/198514?v=4",
+  "login": "younes200",
+  "name": "Younes",
+  "blog": "www.interactive-object.com",
+  "bio": "CTO @ Interactive Object - Paris/Casablanca",
+  "public_repos": 47,
+  "total_repos": null,
+  "followers": 11,
+  "following": 21,
+  "url": "https://github.com/younes200",
+  "repos_url": "https://api.github.com/users/younes200/repos",
+  "languages": [
+    {
+      "HTML": "2.30"
+    },
+    {
+      "Python": "0.88"
+    },
+    {
+      "Makefile": "0.08"
+    },
+    {
+      "Shell": "1.06"
+    },
+    {
+      "JavaScript": "93.70"
+    },
+    {
+      "CoffeeScript": "0.04"
+    },
+    {
+      "C#": "1.94"
+    }
+  ],
+  "packages": {
+    "express": 2,
+    "socket.io": 2,
+    "axios": 1,
+    "babel-cli": 1,
+    "babel-core": 1,
+    "babel-loader": 1,
+    "babel-plugin-transform-async-to-generator": 1,
+    "babel-polyfill": 1,
+    "babel-preset-es2015": 1,
+    "babel-preset-latest": 1
+  },
+  "devPackages": {
+    "eslint": 1,
+    "eslint-plugin-react": 1,
+    "electron-prebuilt": 1
+  }
+}

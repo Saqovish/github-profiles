@@ -1,0 +1,63 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/19289396?v=4",
+  "login": "medaimane",
+  "name": "Mohamed Aimane Skhairi",
+  "blog": "https://medaimane.github.io",
+  "bio": "Hi! I'm a mobile & frontend software engineer, current stack: ReactNative, React, TypeScript/JavaScript, GraphQL (Java, Python), Practicing TDD and Clean Code.",
+  "public_repos": 88,
+  "total_repos": null,
+  "followers": 13,
+  "following": 82,
+  "url": "https://github.com/medaimane",
+  "repos_url": "https://api.github.com/users/medaimane/repos",
+  "languages": [
+    {
+      "TypeScript": "9.87"
+    },
+    {
+      "HTML": "7.20"
+    },
+    {
+      "JavaScript": "5.76"
+    },
+    {
+      "CSS": "14.76"
+    },
+    {
+      "PHP": "26.78"
+    },
+    {
+      "Vue": "5.82"
+    },
+    {
+      "Java": "29.42"
+    },
+    {
+      "TSQL": "0.38"
+    }
+  ],
+  "packages": {
+    "@angular/animations": 3,
+    "@angular/common": 3,
+    "@angular/compiler": 3,
+    "@angular/core": 3,
+    "@angular/forms": 3,
+    "@angular/http": 3,
+    "@angular/platform-browser": 3,
+    "@angular/platform-browser-dynamic": 3,
+    "@angular/router": 3,
+    "core-js": 3
+  },
+  "devPackages": {
+    "@angular-devkit/build-angular": 3,
+    "@angular/cli": 3,
+    "@angular/compiler-cli": 3,
+    "@angular/language-service": 3,
+    "@types/jasmine": 3,
+    "@types/jasminewd2": 3,
+    "@types/node": 3,
+    "codelyzer": 3,
+    "jasmine-core": 3,
+    "jasmine-spec-reporter": 3
+  }
+}

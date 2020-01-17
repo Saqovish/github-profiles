@@ -1,0 +1,77 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1588632?v=4",
+  "login": "Maroc-OS",
+  "name": "Yahya Lmallas",
+  "blog": "www.merruk.com",
+  "bio": null,
+  "public_repos": 54,
+  "total_repos": null,
+  "followers": 132,
+  "following": 11,
+  "url": "https://github.com/Maroc-OS",
+  "repos_url": "https://api.github.com/users/Maroc-OS/repos",
+  "languages": [
+    {
+      "C++": "2.17"
+    },
+    {
+      "Cuda": "0.02"
+    },
+    {
+      "C": "94.11"
+    },
+    {
+      "Makefile": "0.00"
+    },
+    {
+      "Dockerfile": "0.00"
+    },
+    {
+      "Shell": "0.07"
+    },
+    {
+      "Assembly": "2.11"
+    },
+    {
+      "Objective-C": "0.92"
+    },
+    {
+      "Perl": "0.56"
+    },
+    {
+      "Python": "0.01"
+    },
+    {
+      "Scilab": "0.01"
+    },
+    {
+      "Awk": "0.00"
+    },
+    {
+      "SuperCollider": "0.00"
+    },
+    {
+      "JavaScript": "0.00"
+    },
+    {
+      "Graphviz (DOT)": "0.00"
+    },
+    {
+      "ASP": "0.00"
+    },
+    {
+      "Ruby": "0.00"
+    },
+    {
+      "XML": "0.00"
+    },
+    {
+      "Racket": "0.00"
+    },
+    {
+      "Vim script": "0.00"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

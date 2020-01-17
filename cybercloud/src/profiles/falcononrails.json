@@ -1,0 +1,60 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/20015250?v=4",
+  "login": "falcononrails",
+  "name": "Anas Limouri",
+  "blog": "",
+  "bio": "Coding enthusiast and mega curious",
+  "public_repos": 35,
+  "total_repos": null,
+  "followers": 4,
+  "following": 43,
+  "url": "https://github.com/falcononrails",
+  "repos_url": "https://api.github.com/users/falcononrails/repos",
+  "languages": [
+    {
+      "C++": "46.80"
+    },
+    {
+      "C": "13.31"
+    },
+    {
+      "Java": "20.81"
+    },
+    {
+      "HTML": "3.83"
+    },
+    {
+      "CSS": "3.47"
+    },
+    {
+      "TypeScript": "9.44"
+    },
+    {
+      "JavaScript": "2.35"
+    }
+  ],
+  "packages": {
+    "@angular/common": 1,
+    "@angular/core": 1,
+    "@angular/forms": 1,
+    "@angular/http": 1,
+    "@angular/platform-browser": 1,
+    "@angular/platform-browser-dynamic": 1,
+    "@angular/router": 1,
+    "@ionic-native/core": 1,
+    "@ionic-native/splash-screen": 1,
+    "@ionic-native/status-bar": 1
+  },
+  "devPackages": {
+    "@angular-devkit/architect": 1,
+    "@angular-devkit/build-angular": 1,
+    "@angular-devkit/core": 1,
+    "@angular-devkit/schematics": 1,
+    "@angular/cli": 1,
+    "@angular/compiler": 1,
+    "@angular/compiler-cli": 1,
+    "@angular/language-service": 1,
+    "@ionic/angular-toolkit": 1,
+    "@types/jasmine": 1
+  }
+}

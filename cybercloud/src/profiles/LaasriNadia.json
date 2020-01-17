@@ -1,0 +1,37 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/49839827?v=4",
+  "login": "LaasriNadia",
+  "name": "Nadia",
+  "blog": "",
+  "bio": "Front-end developer",
+  "public_repos": 6,
+  "total_repos": null,
+  "followers": 6,
+  "following": 6,
+  "url": "https://github.com/LaasriNadia",
+  "repos_url": "https://api.github.com/users/LaasriNadia/repos",
+  "languages": [
+    {
+      "JavaScript": "20.56"
+    },
+    {
+      "HTML": "34.39"
+    },
+    {
+      "CSS": "45.05"
+    }
+  ],
+  "packages": {
+    "@material-ui/core": 1,
+    "@material-ui/icons": 1,
+    "axios": 1,
+    "html2canvas": 1,
+    "react": 1,
+    "react-dom": 1,
+    "react-reveal": 1,
+    "react-scripts": 1,
+    "react-scroll": 1,
+    "cheerio": 1
+  },
+  "devPackages": {}
+}

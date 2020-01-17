@@ -1,0 +1,44 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/32304244?v=4",
+  "login": "DgrinderHZ",
+  "name": "Hassan Zekkouri",
+  "blog": "https://icpc.baylor.edu/ICPCID/WWBV5FSYUFE3",
+  "bio": "Action cures fear! focus on what YOU want and take action!\r\n[I am planning to organize my repos sooner]\r\n",
+  "public_repos": 46,
+  "total_repos": null,
+  "followers": 10,
+  "following": 72,
+  "url": "https://github.com/DgrinderHZ",
+  "repos_url": "https://api.github.com/users/DgrinderHZ/repos",
+  "languages": [
+    {
+      "JavaScript": "4.42"
+    },
+    {
+      "Python": "6.55"
+    },
+    {
+      "C++": "36.60"
+    },
+    {
+      "C": "1.42"
+    },
+    {
+      "Coq": "0.00"
+    },
+    {
+      "Jupyter Notebook": "1.65"
+    },
+    {
+      "Java": "4.26"
+    },
+    {
+      "HTML": "12.26"
+    },
+    {
+      "CSS": "32.84"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

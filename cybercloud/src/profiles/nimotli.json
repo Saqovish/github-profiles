@@ -1,0 +1,64 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/15093308?v=4",
+  "login": "nimotli",
+  "name": "Nouamane Bitor",
+  "blog": "",
+  "bio": null,
+  "public_repos": 20,
+  "total_repos": null,
+  "followers": 2,
+  "following": 1,
+  "url": "https://github.com/nimotli",
+  "repos_url": "https://api.github.com/users/nimotli/repos",
+  "languages": [
+    {
+      "JavaScript": "2.36"
+    },
+    {
+      "HTML": "70.78"
+    },
+    {
+      "Python": "1.11"
+    },
+    {
+      "CSS": "1.81"
+    },
+    {
+      "C#": "3.22"
+    },
+    {
+      "ShaderLab": "0.52"
+    },
+    {
+      "HLSL": "0.07"
+    },
+    {
+      "PHP": "16.46"
+    },
+    {
+      "Hack": "1.23"
+    },
+    {
+      "MATLAB": "0.76"
+    },
+    {
+      "Java": "1.69"
+    }
+  ],
+  "packages": {
+    "jquery": 2,
+    "bootstrap": 1,
+    "font-awesome": 1,
+    "jquery.easing": 1
+  },
+  "devPackages": {
+    "electron": 1,
+    "browser-sync": 1,
+    "gulp": 1,
+    "gulp-clean-css": 1,
+    "gulp-header": 1,
+    "gulp-rename": 1,
+    "gulp-sass": 1,
+    "gulp-uglify": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/18006381?v=4",
+  "login": "mikoumed",
+  "name": "mohammed mikou",
+  "blog": "",
+  "bio": "Back-End Developer\r\n",
+  "public_repos": 41,
+  "total_repos": null,
+  "followers": 3,
+  "following": 0,
+  "url": "https://github.com/mikoumed",
+  "repos_url": "https://api.github.com/users/mikoumed/repos",
+  "languages": [
+    {
+      "Python": "51.06"
+    },
+    {
+      "CSS": "27.15"
+    },
+    {
+      "JavaScript": "15.44"
+    },
+    {
+      "HTML": "2.65"
+    },
+    {
+      "Shell": "0.16"
+    },
+    {
+      "PowerShell": "0.06"
+    },
+    {
+      "Makefile": "0.07"
+    },
+    {
+      "Ruby": "3.17"
+    },
+    {
+      "CoffeeScript": "0.10"
+    },
+    {
+      "Dockerfile": "0.01"
+    },
+    {
+      "HCL": "0.14"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

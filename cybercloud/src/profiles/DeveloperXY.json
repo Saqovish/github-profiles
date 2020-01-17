@@ -1,0 +1,53 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/13763478?v=4",
+  "login": "DeveloperXY",
+  "name": "Mohammed Aouf ZOUAG",
+  "blog": "",
+  "bio": "Java / Android developer & mentor. Fond of great UI experiences.",
+  "public_repos": 21,
+  "total_repos": null,
+  "followers": 40,
+  "following": 7,
+  "url": "https://github.com/DeveloperXY",
+  "repos_url": "https://api.github.com/users/DeveloperXY/repos",
+  "languages": [
+    {
+      "Java": "64.25"
+    },
+    {
+      "CSS": "1.95"
+    },
+    {
+      "PHP": "4.00"
+    },
+    {
+      "JavaScript": "14.59"
+    },
+    {
+      "HTML": "0.75"
+    },
+    {
+      "Python": "1.88"
+    },
+    {
+      "Kotlin": "12.58"
+    }
+  ],
+  "packages": {
+    "react": 2,
+    "react-dom": 2,
+    "socket.io": 2,
+    "expo": 1,
+    "moment": 1,
+    "moment-timezone": 1,
+    "react-native": 1,
+    "react-native-gesture-handler": 1,
+    "react-native-material-ripple": 1,
+    "react-native-paper": 1
+  },
+  "devPackages": {
+    "babel-preset-expo": 1,
+    "prop-types": 1,
+    "redux-immutable-state-invariant": 1
+  }
+}

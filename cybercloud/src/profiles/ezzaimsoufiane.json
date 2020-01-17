@@ -1,0 +1,41 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/47340309?v=4",
+  "login": "ezzaimsoufiane",
+  "name": "Ezzaim",
+  "blog": "https://www.linkedin.com/in/soufiane-ezzaim/",
+  "bio": "If you are copy-pasting from here, you should seriously consider your attendance %",
+  "public_repos": 11,
+  "total_repos": null,
+  "followers": 11,
+  "following": 9,
+  "url": "https://github.com/ezzaimsoufiane",
+  "repos_url": "https://api.github.com/users/ezzaimsoufiane/repos",
+  "languages": [
+    {
+      "Lua": "3.32"
+    },
+    {
+      "Python": "75.45"
+    },
+    {
+      "Shell": "0.17"
+    },
+    {
+      "Jupyter Notebook": "20.48"
+    },
+    {
+      "Assembly": "0.39"
+    },
+    {
+      "Makefile": "0.05"
+    },
+    {
+      "C++": "0.04"
+    },
+    {
+      "Dockerfile": "0.10"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

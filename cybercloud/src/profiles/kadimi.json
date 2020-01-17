@@ -1,0 +1,63 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/225615?v=4",
+  "login": "kadimi",
+  "name": "Nabil Kadimi",
+  "blog": "https://kadimi.com",
+  "bio": "Independent Web Developer",
+  "public_repos": 48,
+  "total_repos": null,
+  "followers": 19,
+  "following": 3,
+  "url": "https://github.com/kadimi",
+  "repos_url": "https://api.github.com/users/kadimi/repos",
+  "languages": [
+    {
+      "PHP": "23.33"
+    },
+    {
+      "HTML": "2.44"
+    },
+    {
+      "JavaScript": "10.63"
+    },
+    {
+      "CSS": "63.21"
+    },
+    {
+      "Shell": "0.01"
+    },
+    {
+      "Smarty": "0.03"
+    },
+    {
+      "Dockerfile": "0.03"
+    },
+    {
+      "Hack": "0.20"
+    },
+    {
+      "Vue": "0.02"
+    },
+    {
+      "ApacheConf": "0.02"
+    },
+    {
+      "Visual Basic": "0.08"
+    }
+  ],
+  "packages": {
+    "turbolinks": 1
+  },
+  "devPackages": {
+    "gulp": 3,
+    "jquery": 2,
+    "browser-sync": 1,
+    "gulp-less": 1,
+    "gulp-rename": 1,
+    "gulp-replace": 1,
+    "bootstrap-sass": 1,
+    "laravel-elixir": 1,
+    "laravel-elixir-vue-2": 1,
+    "laravel-elixir-webpack-official": 1
+  }
+}

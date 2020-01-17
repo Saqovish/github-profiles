@@ -1,0 +1,72 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/4972714?v=4",
+  "login": "eissasoubhi",
+  "name": "Eissa Soubhi",
+  "blog": "http://eissa-soubhi.com/",
+  "bio": "Full-stack web developer (php & javascript)",
+  "public_repos": 20,
+  "total_repos": null,
+  "followers": 12,
+  "following": 54,
+  "url": "https://github.com/eissasoubhi",
+  "repos_url": "https://api.github.com/users/eissasoubhi/repos",
+  "languages": [
+    {
+      "PHP": "11.74"
+    },
+    {
+      "HTML": "26.46"
+    },
+    {
+      "JavaScript": "36.21"
+    },
+    {
+      "Vue": "0.47"
+    },
+    {
+      "CSS": "24.50"
+    },
+    {
+      "Ruby": "0.13"
+    },
+    {
+      "ApacheConf": "0.01"
+    },
+    {
+      "Python": "0.11"
+    },
+    {
+      "PowerShell": "0.01"
+    },
+    {
+      "Shell": "0.04"
+    },
+    {
+      "ActionScript": "0.33"
+    }
+  ],
+  "packages": {
+    "bootstrap": 3,
+    "font-awesome": 2,
+    "jquery": 2,
+    "react": 1,
+    "react-dom": 1,
+    "react-router-dom": 1,
+    "react-scripts": 1,
+    "gulp": 1,
+    "gulp-print": 1,
+    "gulp-rename": 1
+  },
+  "devPackages": {
+    "angular-mocks": 1,
+    "angular-nicescroll": 1,
+    "babel-core": 1,
+    "babel-loader": 1,
+    "babel-plugin-transform-runtime": 1,
+    "babel-polyfill": 1,
+    "babel-preset-es2015": 1,
+    "babel-preset-stage-0": 1,
+    "babel-register": 1,
+    "babel-runtime": 1
+  }
+}

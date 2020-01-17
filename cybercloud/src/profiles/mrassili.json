@@ -1,0 +1,51 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/25288435?v=4",
+  "login": "mrassili",
+  "name": "Marouane R",
+  "blog": "https://mrassili.com",
+  "bio": "Front-End Web Developer living in Morocco.",
+  "public_repos": 40,
+  "total_repos": null,
+  "followers": 22,
+  "following": 55,
+  "url": "https://github.com/mrassili",
+  "repos_url": "https://api.github.com/users/mrassili/repos",
+  "languages": [
+    {
+      "JavaScript": "61.75"
+    },
+    {
+      "CSS": "32.68"
+    },
+    {
+      "HTML": "4.38"
+    },
+    {
+      "Vim script": "1.18"
+    }
+  ],
+  "packages": {
+    "react": 4,
+    "react-dom": 4,
+    "@reach/router": 2,
+    "animate.css": 2,
+    "classnames": 2,
+    "gatsby": 2,
+    "gatsby-plugin-react-helmet": 2,
+    "react-helmet": 2,
+    "react-transition-group": 2,
+    "react-redux": 2
+  },
+  "devPackages": {
+    "eslint-plugin-react": 4,
+    "prettier": 4,
+    "babel-eslint": 3,
+    "eslint": 3,
+    "eslint-plugin-import": 3,
+    "eslint-config-prettier": 2,
+    "eslint-plugin-jsx-a11y": 2,
+    "babel-core": 2,
+    "browser-sync": 2,
+    "gulp": 2
+  }
+}

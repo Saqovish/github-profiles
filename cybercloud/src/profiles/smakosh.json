@@ -1,0 +1,66 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/20082141?v=4",
+  "login": "smakosh",
+  "name": "Ismail Ghallou ",
+  "blog": "https://smakosh.com",
+  "bio": "Self-taught Full Stack JavaScript Developer, I help founders add value to society through technology, I love open source and micro startups.",
+  "public_repos": 72,
+  "total_repos": null,
+  "followers": 270,
+  "following": 77,
+  "url": "https://github.com/smakosh",
+  "repos_url": "https://api.github.com/users/smakosh/repos",
+  "languages": [
+    {
+      "HTML": "1.56"
+    },
+    {
+      "Ruby": "6.93"
+    },
+    {
+      "JavaScript": "76.74"
+    },
+    {
+      "Objective-C": "0.44"
+    },
+    {
+      "Java": "0.41"
+    },
+    {
+      "Python": "0.26"
+    },
+    {
+      "Dockerfile": "0.02"
+    },
+    {
+      "CSS": "12.01"
+    },
+    {
+      "TypeScript": "1.63"
+    }
+  ],
+  "packages": {
+    "react": 15,
+    "react-dom": 14,
+    "styled-components": 12,
+    "react-helmet": 12,
+    "dotenv": 10,
+    "axios": 9,
+    "gatsby": 9,
+    "gatsby-image": 9,
+    "gatsby-plugin-react-helmet": 9,
+    "gatsby-plugin-sharp": 9
+  },
+  "devPackages": {
+    "prettier": 11,
+    "eslint": 10,
+    "eslint-plugin-import": 10,
+    "babel-eslint": 8,
+    "eslint-plugin-jsx-a11y": 8,
+    "eslint-plugin-react": 8,
+    "eslint-config-airbnb": 6,
+    "eslint-config-prettier": 5,
+    "eslint-plugin-prettier": 5,
+    "eslint-plugin-react-hooks": 5
+  }
+}

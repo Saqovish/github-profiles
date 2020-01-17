@@ -1,0 +1,42 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/33162745?v=4",
+  "login": "nsoufian",
+  "name": "soufiane nassih",
+  "blog": "bit.ly/2r5gjzF",
+  "bio": "I love coding 🏷 🏷 🏷 ",
+  "public_repos": 7,
+  "total_repos": null,
+  "followers": 6,
+  "following": 3,
+  "url": "https://github.com/nsoufian",
+  "repos_url": "https://api.github.com/users/nsoufian/repos",
+  "languages": [
+    {
+      "JavaScript": "74.35"
+    },
+    {
+      "Python": "14.69"
+    },
+    {
+      "HTML": "10.15"
+    },
+    {
+      "Dockerfile": "0.81"
+    }
+  ],
+  "packages": {
+    "@babel/core": 1,
+    "@material-ui/core": 1,
+    "@material-ui/icons": 1,
+    "@svgr/webpack": 1,
+    "apollo-boost": 1,
+    "babel-core": 1,
+    "babel-eslint": 1,
+    "babel-jest": 1,
+    "babel-loader": 1,
+    "babel-plugin-named-asset-import": 1
+  },
+  "devPackages": {
+    "webpack-bundle-tracker": 1
+  }
+}

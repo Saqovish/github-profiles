@@ -1,0 +1,26 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/42617188?v=4",
+  "login": "iliassjabali",
+  "name": "Iliass JABALI",
+  "blog": "",
+  "bio": "Al Akhawayn University, BS in computer Science",
+  "public_repos": 2,
+  "total_repos": null,
+  "followers": 2,
+  "following": 5,
+  "url": "https://github.com/iliassjabali",
+  "repos_url": "https://api.github.com/users/iliassjabali/repos",
+  "languages": [
+    {
+      "C": "99.68"
+    },
+    {
+      "C++": "0.17"
+    },
+    {
+      "Python": "0.15"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

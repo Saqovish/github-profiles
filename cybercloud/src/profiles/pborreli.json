@@ -1,0 +1,26 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/77759?v=4",
+  "login": "pborreli",
+  "name": "Pascal Borreli",
+  "blog": "http://twitter.com/pborreli",
+  "bio": "CEO of my life, CTO of my localhost, co-founder of my son and daughter, Symfony evangelist, impulsive typo fixer.",
+  "public_repos": 963,
+  "total_repos": null,
+  "followers": 325,
+  "following": 119,
+  "url": "https://github.com/pborreli",
+  "repos_url": "https://api.github.com/users/pborreli/repos",
+  "languages": [
+    {
+      "HTML": "78.82"
+    },
+    {
+      "CSS": "15.76"
+    },
+    {
+      "JavaScript": "5.43"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

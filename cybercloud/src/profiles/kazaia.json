@@ -1,0 +1,23 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/25322346?v=4",
+  "login": "kazaia",
+  "name": "kaoutar ZAIA",
+  "blog": "http://kaoutarzaia.com/",
+  "bio": "Software Engineer | Designing algorithms & data Structures with ❤️ | Writing clean code | Software Craftsmanship",
+  "public_repos": 27,
+  "total_repos": null,
+  "followers": 9,
+  "following": 29,
+  "url": "https://github.com/kazaia",
+  "repos_url": "https://api.github.com/users/kazaia/repos",
+  "languages": [
+    {
+      "Python": "77.57"
+    },
+    {
+      "Java": "22.43"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

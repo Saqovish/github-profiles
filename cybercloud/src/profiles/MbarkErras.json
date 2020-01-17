@@ -1,0 +1,26 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/34131485?v=4",
+  "login": "MbarkErras",
+  "name": "M'bark Erras",
+  "blog": "",
+  "bio": null,
+  "public_repos": 9,
+  "total_repos": null,
+  "followers": 27,
+  "following": 26,
+  "url": "https://github.com/MbarkErras",
+  "repos_url": "https://api.github.com/users/MbarkErras/repos",
+  "languages": [
+    {
+      "C": "96.42"
+    },
+    {
+      "Makefile": "2.89"
+    },
+    {
+      "C++": "0.69"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

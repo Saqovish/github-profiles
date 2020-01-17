@@ -1,0 +1,44 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/33462223?v=4",
+  "login": "TrickyO99",
+  "name": "TRIKI Othmane",
+  "blog": "twitter.com/Tricky_O",
+  "bio": "Moroccan student @ Epitech Bordeaux (Promo 2022)",
+  "public_repos": 30,
+  "total_repos": null,
+  "followers": 8,
+  "following": 10,
+  "url": "https://github.com/TrickyO99",
+  "repos_url": "https://api.github.com/users/TrickyO99/repos",
+  "languages": [
+    {
+      "Python": "29.74"
+    },
+    {
+      "Shell": "4.95"
+    },
+    {
+      "Gnuplot": "0.02"
+    },
+    {
+      "C": "53.59"
+    },
+    {
+      "Assembly": "0.77"
+    },
+    {
+      "Makefile": "2.26"
+    },
+    {
+      "C++": "2.71"
+    },
+    {
+      "Processing": "3.21"
+    },
+    {
+      "Perl": "2.74"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

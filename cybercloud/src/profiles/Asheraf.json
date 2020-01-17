@@ -1,0 +1,26 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/14294215?v=4",
+  "login": "Asheraf",
+  "name": "Asheraf",
+  "blog": "",
+  "bio": null,
+  "public_repos": 15,
+  "total_repos": null,
+  "followers": 19,
+  "following": 1,
+  "url": "https://github.com/Asheraf",
+  "repos_url": "https://api.github.com/users/Asheraf/repos",
+  "languages": [
+    {
+      "C++": "91.79"
+    },
+    {
+      "C": "7.05"
+    },
+    {
+      "QMake": "1.16"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

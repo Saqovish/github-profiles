@@ -1,0 +1,31 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/32587697?v=4",
+  "login": "Jinzulen",
+  "name": "Khalil G.",
+  "blog": "https://khalilg.com",
+  "bio": "I make stuff when I get bored.",
+  "public_repos": 6,
+  "total_repos": null,
+  "followers": 8,
+  "following": 13,
+  "url": "https://github.com/Jinzulen",
+  "repos_url": "https://api.github.com/users/Jinzulen/repos",
+  "languages": [
+    {
+      "JavaScript": "100.00"
+    }
+  ],
+  "packages": {
+    "underscore": 2,
+    "moment": 2,
+    "colors": 2,
+    "node-file-cache": 1,
+    "commander": 1,
+    "console.table": 1,
+    "jszip": 1,
+    "request": 1,
+    "discord.js": 1,
+    "discord.js-commando": 1
+  },
+  "devPackages": {}
+}

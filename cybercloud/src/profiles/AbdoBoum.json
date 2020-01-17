@@ -1,0 +1,62 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/41730760?v=4",
+  "login": "AbdoBoum",
+  "name": "ABDERRAHIM BOUMAHDI",
+  "blog": "https://www.linkedin.com/in/abdo-boumahdi/",
+  "bio": "Software engineering student.",
+  "public_repos": 20,
+  "total_repos": null,
+  "followers": 19,
+  "following": 20,
+  "url": "https://github.com/AbdoBoum",
+  "repos_url": "https://api.github.com/users/AbdoBoum/repos",
+  "languages": [
+    {
+      "Java": "18.95"
+    },
+    {
+      "TypeScript": "0.28"
+    },
+    {
+      "JavaScript": "48.41"
+    },
+    {
+      "HTML": "0.11"
+    },
+    {
+      "Dockerfile": "0.02"
+    },
+    {
+      "CSS": "31.06"
+    },
+    {
+      "C": "0.29"
+    },
+    {
+      "R": "0.40"
+    },
+    {
+      "Python": "0.47"
+    },
+    {
+      "Makefile": "0.00"
+    }
+  ],
+  "packages": {
+    "react": 2,
+    "react-dom": 2,
+    "react-scripts": 2,
+    "axios": 1,
+    "express": 1,
+    "express-favicon": 1,
+    "path": 1,
+    "react-redux": 1,
+    "react-router-dom": 1,
+    "redux": 1
+  },
+  "devPackages": {
+    "enzyme": 1,
+    "jest-styled-components": 1,
+    "react-addons-test-utils": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7027812?v=4",
+  "login": "iharti",
+  "name": "Adil El Harti",
+  "blog": "",
+  "bio": null,
+  "public_repos": 16,
+  "total_repos": null,
+  "followers": 16,
+  "following": 19,
+  "url": "https://github.com/iharti",
+  "repos_url": "https://api.github.com/users/iharti/repos",
+  "languages": [
+    {
+      "JavaScript": "62.96"
+    },
+    {
+      "Shell": "0.48"
+    },
+    {
+      "Dockerfile": "1.44"
+    },
+    {
+      "Vue": "33.75"
+    },
+    {
+      "HTML": "1.37"
+    }
+  ],
+  "packages": {
+    "axios": 2,
+    "buefy": 2,
+    "eslint-plugin-jest": 2,
+    "jest-junit": 2,
+    "register-service-worker": 2,
+    "vue": 2,
+    "vue-axios": 2,
+    "vue-browser-geolocation": 2,
+    "vue-cookie": 2,
+    "vue-head": 2
+  },
+  "devPackages": {
+    "babel-jest": 4,
+    "eslint": 4,
+    "babel-core": 3,
+    "@vue/cli-plugin-babel": 2,
+    "@vue/cli-plugin-eslint": 2,
+    "@vue/cli-plugin-pwa": 2,
+    "@vue/cli-plugin-unit-jest": 2,
+    "@vue/cli-service": 2,
+    "@vue/eslint-config-standard": 2,
+    "@vue/test-utils": 2
+  }
+}

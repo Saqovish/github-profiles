@@ -1,0 +1,38 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/35668889?v=4",
+  "login": "oussamanm",
+  "name": "Oussama Nm",
+  "blog": "",
+  "bio": "Twitter : @oussama_nm",
+  "public_repos": 7,
+  "total_repos": null,
+  "followers": 2,
+  "following": 4,
+  "url": "https://github.com/oussamanm",
+  "repos_url": "https://api.github.com/users/oussamanm/repos",
+  "languages": [
+    {
+      "C": "80.79"
+    },
+    {
+      "Makefile": "1.64"
+    },
+    {
+      "HTML": "13.23"
+    },
+    {
+      "CSS": "1.19"
+    },
+    {
+      "PHP": "2.78"
+    },
+    {
+      "JavaScript": "0.37"
+    },
+    {
+      "TSQL": "0.01"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

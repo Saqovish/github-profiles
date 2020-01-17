@@ -1,0 +1,42 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/7893147?v=4",
+  "login": "elhardoum",
+  "name": "Samuel Elh",
+  "blog": "https://elhardoum.github.io",
+  "bio": null,
+  "public_repos": 54,
+  "total_repos": null,
+  "followers": 26,
+  "following": 25,
+  "url": "https://github.com/elhardoum",
+  "repos_url": "https://api.github.com/users/elhardoum/repos",
+  "languages": [
+    {
+      "JavaScript": "76.90"
+    },
+    {
+      "CSS": "1.94"
+    },
+    {
+      "HTML": "6.46"
+    },
+    {
+      "TSQL": "0.06"
+    },
+    {
+      "Shell": "1.67"
+    },
+    {
+      "PHP": "11.18"
+    },
+    {
+      "Python": "1.79"
+    }
+  ],
+  "packages": {
+    "lockfile": 1
+  },
+  "devPackages": {
+    "mocha": 1
+  }
+}

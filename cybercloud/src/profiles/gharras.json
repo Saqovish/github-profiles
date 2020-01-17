@@ -1,0 +1,57 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/34078670?v=4",
+  "login": "gharras",
+  "name": null,
+  "blog": "",
+  "bio": null,
+  "public_repos": 22,
+  "total_repos": null,
+  "followers": 4,
+  "following": 13,
+  "url": "https://github.com/gharras",
+  "repos_url": "https://api.github.com/users/gharras/repos",
+  "languages": [
+    {
+      "Java": "68.91"
+    },
+    {
+      "HTML": "2.63"
+    },
+    {
+      "TypeScript": "25.17"
+    },
+    {
+      "JavaScript": "1.24"
+    },
+    {
+      "CSS": "0.34"
+    },
+    {
+      "Kotlin": "1.70"
+    }
+  ],
+  "packages": {
+    "@angular/animations": 1,
+    "@angular/common": 1,
+    "@angular/compiler": 1,
+    "@angular/core": 1,
+    "@angular/forms": 1,
+    "@angular/platform-browser": 1,
+    "@angular/platform-browser-dynamic": 1,
+    "@angular/router": 1,
+    "core-js": 1,
+    "ngf-bootstrap": 1
+  },
+  "devPackages": {
+    "@angular-devkit/build-angular": 1,
+    "@angular/cli": 1,
+    "@angular/compiler-cli": 1,
+    "@angular/language-service": 1,
+    "@types/node": 1,
+    "@types/jasmine": 1,
+    "@types/jasminewd2": 1,
+    "codelyzer": 1,
+    "jasmine-core": 1,
+    "jasmine-spec-reporter": 1
+  }
+}

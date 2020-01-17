@@ -1,0 +1,59 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/17690147?v=4",
+  "login": "chermehdi",
+  "name": "Mehdi Cheracher",
+  "blog": "https://chermehdi.com/",
+  "bio": "Full stack developer, Java enthusiast and competitive programmer .",
+  "public_repos": 35,
+  "total_repos": null,
+  "followers": 32,
+  "following": 32,
+  "url": "https://github.com/chermehdi",
+  "repos_url": "https://api.github.com/users/chermehdi/repos",
+  "languages": [
+    {
+      "JavaScript": "42.28"
+    },
+    {
+      "Java": "9.29"
+    },
+    {
+      "CSS": "41.68"
+    },
+    {
+      "HTML": "2.61"
+    },
+    {
+      "Vue": "2.72"
+    },
+    {
+      "Python": "0.87"
+    },
+    {
+      "C++": "0.10"
+    },
+    {
+      "Go": "0.10"
+    },
+    {
+      "PHP": "0.07"
+    },
+    {
+      "ApacheConf": "0.00"
+    },
+    {
+      "PureBasic": "0.26"
+    }
+  ],
+  "packages": {
+    "body-parser": 1,
+    "ejs": 1,
+    "express": 1,
+    "express-session": 1,
+    "multer": 1,
+    "socket.io": 1,
+    "unzipper": 1,
+    "mongoose": 1
+  },
+  "devPackages": {}
+}

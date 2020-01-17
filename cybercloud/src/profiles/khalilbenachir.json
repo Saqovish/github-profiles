@@ -1,0 +1,72 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/39462325?v=4",
+  "login": "khalilbenachir",
+  "name": "BENACHIR KHALIL",
+  "blog": "https://www.linkedin.com/in/khalil-benachir-797228155/",
+  "bio": "Computer science engineering student at Nationale School of Applied Science",
+  "public_repos": 51,
+  "total_repos": null,
+  "followers": 6,
+  "following": 37,
+  "url": "https://github.com/khalilbenachir",
+  "repos_url": "https://api.github.com/users/khalilbenachir/repos",
+  "languages": [
+    {
+      "Dart": "9.22"
+    },
+    {
+      "Ruby": "0.49"
+    },
+    {
+      "Objective-C": "0.94"
+    },
+    {
+      "Java": "19.93"
+    },
+    {
+      "JavaScript": "31.16"
+    },
+    {
+      "Python": "0.21"
+    },
+    {
+      "CSS": "7.46"
+    },
+    {
+      "HTML": "10.85"
+    },
+    {
+      "PHP": "19.59"
+    },
+    {
+      "Vue": "0.12"
+    },
+    {
+      "Dockerfile": "0.03"
+    }
+  ],
+  "packages": {
+    "react": 7,
+    "react-dom": 6,
+    "react-scripts": 5,
+    "dotenv": 4,
+    "react-router-dom": 4,
+    "express": 3,
+    "babel-loader": 2,
+    "graphql": 2,
+    "node-sass": 2,
+    "react-redux": 2
+  },
+  "devPackages": {
+    "jquery": 3,
+    "axios": 2,
+    "bootstrap": 2,
+    "cross-env": 2,
+    "laravel-mix": 2,
+    "lodash": 2,
+    "popper.js": 2,
+    "resolve-url-loader": 2,
+    "sass": 2,
+    "sass-loader": 2
+  }
+}

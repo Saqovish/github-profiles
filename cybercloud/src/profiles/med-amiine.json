@@ -1,0 +1,29 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/6832330?v=4",
+  "login": "med-amiine",
+  "name": "med amine idmoussi",
+  "blog": "",
+  "bio": null,
+  "public_repos": 11,
+  "total_repos": null,
+  "followers": 2,
+  "following": 0,
+  "url": "https://github.com/med-amiine",
+  "repos_url": "https://api.github.com/users/med-amiine/repos",
+  "languages": [
+    {
+      "R": "6.65"
+    },
+    {
+      "Roff": "0.58"
+    },
+    {
+      "Python": "87.02"
+    },
+    {
+      "JavaScript": "5.75"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

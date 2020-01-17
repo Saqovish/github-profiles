@@ -1,0 +1,35 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/12532940?v=4",
+  "login": "M-Boukhlouf",
+  "name": "Mohammed Boukhlouf",
+  "blog": "",
+  "bio": null,
+  "public_repos": 18,
+  "total_repos": null,
+  "followers": 7,
+  "following": 14,
+  "url": "https://github.com/M-Boukhlouf",
+  "repos_url": "https://api.github.com/users/M-Boukhlouf/repos",
+  "languages": [
+    {
+      "C#": "1.59"
+    },
+    {
+      "JavaScript": "72.33"
+    },
+    {
+      "CSS": "13.80"
+    },
+    {
+      "HTML": "11.36"
+    },
+    {
+      "Ruby": "0.00"
+    },
+    {
+      "Visual Basic": "0.92"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

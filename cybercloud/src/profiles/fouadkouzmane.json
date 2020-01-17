@@ -1,0 +1,48 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/47762202?v=4",
+  "login": "fouadkouzmane",
+  "name": "fouad ",
+  "blog": "",
+  "bio": "A computer science student, passionate by creating new things for the open source community !\r\nConsultant at\r\n @INSEAIT ",
+  "public_repos": 15,
+  "total_repos": null,
+  "followers": 8,
+  "following": 5,
+  "url": "https://github.com/fouadkouzmane",
+  "repos_url": "https://api.github.com/users/fouadkouzmane/repos",
+  "languages": [
+    {
+      "HTML": "13.20"
+    },
+    {
+      "CSS": "9.14"
+    },
+    {
+      "JavaScript": "4.87"
+    },
+    {
+      "Python": "4.65"
+    },
+    {
+      "Jupyter Notebook": "68.14"
+    }
+  ],
+  "packages": {
+    "@fortawesome/fontawesome-free": 1,
+    "bootstrap": 1,
+    "jquery": 1,
+    "jquery.easing": 1
+  },
+  "devPackages": {
+    "browser-sync": 1,
+    "del": 1,
+    "gulp": 1,
+    "gulp-autoprefixer": 1,
+    "gulp-clean-css": 1,
+    "gulp-header": 1,
+    "gulp-plumber": 1,
+    "gulp-rename": 1,
+    "gulp-sass": 1,
+    "gulp-uglify": 1
+  }
+}

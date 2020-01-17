@@ -1,0 +1,51 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/29843674?v=4",
+  "login": "ahmed-gz",
+  "name": "Ahmed Gazimi",
+  "blog": "https://www.linkedin.com/in/ahmed-gazimi/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BiSme%2FGYqTvSwQZyEtu91rg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-nav.settings_view_profile",
+  "bio": "Senior Front-End Engineer",
+  "public_repos": 4,
+  "total_repos": null,
+  "followers": 2,
+  "following": 8,
+  "url": "https://github.com/ahmed-gz",
+  "repos_url": "https://api.github.com/users/ahmed-gz/repos",
+  "languages": [
+    {
+      "JavaScript": "66.96"
+    },
+    {
+      "CSS": "8.60"
+    },
+    {
+      "HTML": "5.11"
+    },
+    {
+      "Vue": "19.33"
+    }
+  ],
+  "packages": {
+    "axios": 3,
+    "vue": 2,
+    "vue-router": 2,
+    "vuetify": 2,
+    "react": 2,
+    "react-dom": 2,
+    "react-router-dom": 2,
+    "babel-polyfill": 1,
+    "core-js": 1,
+    "es6-promise": 1
+  },
+  "devPackages": {
+    "sass-loader": 3,
+    "eslint-plugin-prettier": 3,
+    "prettier": 3,
+    "@babel/preset-env": 2,
+    "css-loader": 2,
+    "node-sass": 2,
+    "style-loader": 2,
+    "vue-template-compiler": 2,
+    "webpack": 2,
+    "webpack-cli": 2
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/11878924?v=4",
+  "login": "thedroidgeek",
+  "name": "Sami Alaoui",
+  "blog": "0x41.cf",
+  "bio": null,
+  "public_repos": 10,
+  "total_repos": null,
+  "followers": 12,
+  "following": 33,
+  "url": "https://github.com/thedroidgeek",
+  "repos_url": "https://api.github.com/users/thedroidgeek/repos",
+  "languages": [
+    {
+      "CSS": "2.24"
+    },
+    {
+      "HTML": "1.64"
+    },
+    {
+      "Ruby": "0.11"
+    },
+    {
+      "C++": "80.10"
+    },
+    {
+      "C": "1.10"
+    },
+    {
+      "Objective-C": "0.01"
+    },
+    {
+      "Python": "1.59"
+    },
+    {
+      "C#": "0.88"
+    },
+    {
+      "Java": "6.93"
+    },
+    {
+      "PowerShell": "2.60"
+    },
+    {
+      "Swift": "2.24"
+    },
+    {
+      "Shell": "0.56"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

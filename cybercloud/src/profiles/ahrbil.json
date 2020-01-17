@@ -1,0 +1,51 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/16563523?v=4",
+  "login": "ahrbil",
+  "name": "ahrbil",
+  "blog": "linkedin.com/in/ahrbil",
+  "bio": null,
+  "public_repos": 14,
+  "total_repos": null,
+  "followers": 4,
+  "following": 5,
+  "url": "https://github.com/ahrbil",
+  "repos_url": "https://api.github.com/users/ahrbil/repos",
+  "languages": [
+    {
+      "JavaScript": "85.08"
+    },
+    {
+      "HTML": "6.74"
+    },
+    {
+      "CSS": "7.69"
+    },
+    {
+      "TypeScript": "0.50"
+    }
+  ],
+  "packages": {
+    "react": 5,
+    "react-dom": 5,
+    "react-scripts": 5,
+    "styled-components": 5,
+    "prop-types": 4,
+    "react-router-dom": 2,
+    "dayjs": 1,
+    "@atlaskit/spinner": 1,
+    "react-content-loader": 1,
+    "react-infinite-scroller": 1
+  },
+  "devPackages": {
+    "eslint": 5,
+    "eslint-config-airbnb": 5,
+    "eslint-plugin-import": 5,
+    "eslint-plugin-jsx-a11y": 5,
+    "eslint-plugin-react": 5,
+    "eslint-config-prettier": 3,
+    "eslint-plugin-prettier": 3,
+    "husky": 3,
+    "prettier": 3,
+    "pretty-quick": 3
+  }
+}

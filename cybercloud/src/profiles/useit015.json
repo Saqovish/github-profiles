@@ -1,0 +1,86 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/32947386?v=4",
+  "login": "useit015",
+  "name": "Oussama N.",
+  "blog": "",
+  "bio": null,
+  "public_repos": 30,
+  "total_repos": null,
+  "followers": 27,
+  "following": 39,
+  "url": "https://github.com/useit015",
+  "repos_url": "https://api.github.com/users/useit015/repos",
+  "languages": [
+    {
+      "JavaScript": "5.24"
+    },
+    {
+      "CSS": "1.80"
+    },
+    {
+      "HTML": "0.48"
+    },
+    {
+      "PureBasic": "0.01"
+    },
+    {
+      "Objective-C": "1.80"
+    },
+    {
+      "C": "86.49"
+    },
+    {
+      "Shell": "0.01"
+    },
+    {
+      "PHP": "0.22"
+    },
+    {
+      "Vim script": "0.01"
+    },
+    {
+      "Python": "0.02"
+    },
+    {
+      "Makefile": "0.33"
+    },
+    {
+      "Vue": "0.83"
+    },
+    {
+      "Dockerfile": "0.01"
+    },
+    {
+      "PLpgSQL": "1.19"
+    },
+    {
+      "C++": "1.54"
+    },
+    {
+      "CMake": "0.02"
+    }
+  ],
+  "packages": {
+    "express": 5,
+    "ejs": 3,
+    "bcryptjs": 2,
+    "cors": 2,
+    "dotenv": 2,
+    "jsonwebtoken": 2,
+    "moment": 2,
+    "nodemailer": 2,
+    "passport": 2,
+    "passport-google-oauth20": 2
+  },
+  "devPackages": {
+    "node-sass": 3,
+    "nodemon": 3,
+    "autoprefixer": 2,
+    "npm-run-all": 2,
+    "postcss-cli": 2,
+    "concat": 1,
+    "browser-sync": 1,
+    "gulp": 1,
+    "gulp-sass": 1
+  }
+}

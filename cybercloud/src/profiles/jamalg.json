@@ -1,0 +1,47 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/16517855?v=4",
+  "login": "jamalg",
+  "name": "Jamal",
+  "blog": "http://notes.jgourinda.com",
+  "bio": null,
+  "public_repos": 8,
+  "total_repos": null,
+  "followers": 2,
+  "following": 0,
+  "url": "https://github.com/jamalg",
+  "repos_url": "https://api.github.com/users/jamalg/repos",
+  "languages": [
+    {
+      "Python": "3.95"
+    },
+    {
+      "JavaScript": "2.51"
+    },
+    {
+      "CSS": "0.26"
+    },
+    {
+      "HTML": "0.14"
+    },
+    {
+      "Makefile": "0.04"
+    },
+    {
+      "Mako": "0.03"
+    },
+    {
+      "Dockerfile": "0.00"
+    },
+    {
+      "C": "92.03"
+    },
+    {
+      "C++": "0.83"
+    },
+    {
+      "GLSL": "0.20"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

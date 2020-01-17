@@ -1,0 +1,47 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/19323431?v=4",
+  "login": "hamza-makraz",
+  "name": "Hamza Makraz",
+  "blog": "https://makraz.com",
+  "bio": null,
+  "public_repos": 18,
+  "total_repos": null,
+  "followers": 10,
+  "following": 14,
+  "url": "https://github.com/hamza-makraz",
+  "repos_url": "https://api.github.com/users/hamza-makraz/repos",
+  "languages": [
+    {
+      "PHP": "78.17"
+    },
+    {
+      "HTML": "18.24"
+    },
+    {
+      "Dockerfile": "1.74"
+    },
+    {
+      "Vue": "1.47"
+    },
+    {
+      "JavaScript": "0.38"
+    }
+  ],
+  "packages": {
+    "vue": 1,
+    "vue-router": 1,
+    "vuex": 1
+  },
+  "devPackages": {
+    "axios": 2,
+    "bootstrap": 2,
+    "cross-env": 2,
+    "jquery": 2,
+    "laravel-mix": 2,
+    "lodash": 2,
+    "popper.js": 2,
+    "resolve-url-loader": 2,
+    "sass": 2,
+    "sass-loader": 2
+  }
+}

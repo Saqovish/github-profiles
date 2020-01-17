@@ -1,0 +1,44 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/51997893?v=4",
+  "login": "m-elkhou",
+  "name": "Mohammed EL KHOU",
+  "blog": "https://www.linkedin.com/in/m-elkhou/",
+  "bio": "Master's Student. Futur Data Scientist. I have a passion for science, programming , data .",
+  "public_repos": 14,
+  "total_repos": null,
+  "followers": 3,
+  "following": 3,
+  "url": "https://github.com/m-elkhou",
+  "repos_url": "https://api.github.com/users/m-elkhou/repos",
+  "languages": [
+    {
+      "Jupyter Notebook": "83.50"
+    },
+    {
+      "Java": "13.47"
+    },
+    {
+      "CSS": "1.32"
+    },
+    {
+      "JavaScript": "0.65"
+    },
+    {
+      "HTML": "0.05"
+    },
+    {
+      "Python": "0.55"
+    },
+    {
+      "PHP": "0.33"
+    },
+    {
+      "TSQL": "0.10"
+    },
+    {
+      "C++": "0.05"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

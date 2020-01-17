@@ -1,0 +1,69 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1580426?v=4",
+  "login": "Lazhari",
+  "name": "Lazhari",
+  "blog": "https://gist.github.com/Lazhari",
+  "bio": "Software Architect | Full Stack Developer (JavaScript/Node.js/React/React Native) | MongoDB DBA | Blockchain Developer",
+  "public_repos": 104,
+  "total_repos": null,
+  "followers": 59,
+  "following": 42,
+  "url": "https://github.com/Lazhari",
+  "repos_url": "https://api.github.com/users/Lazhari/repos",
+  "languages": [
+    {
+      "JavaScript": "15.76"
+    },
+    {
+      "HTML": "48.59"
+    },
+    {
+      "CSS": "2.55"
+    },
+    {
+      "TypeScript": "0.11"
+    },
+    {
+      "Dockerfile": "0.14"
+    },
+    {
+      "Shell": "0.01"
+    },
+    {
+      "Makefile": "0.00"
+    },
+    {
+      "Vue": "0.00"
+    },
+    {
+      "PHP": "29.85"
+    },
+    {
+      "ApacheConf": "2.98"
+    }
+  ],
+  "packages": {
+    "express": 4,
+    "mongoose": 4,
+    "body-parser": 3,
+    "nodemon": 2,
+    "passport": 2,
+    "systemjs": 2,
+    "reflect-metadata": 2,
+    "rxjs": 2,
+    "zone.js": 2,
+    "morgan": 2
+  },
+  "devPackages": {
+    "eslint": 3,
+    "eslint-config-prettier": 3,
+    "concurrently": 2,
+    "lite-server": 2,
+    "typescript": 2,
+    "eslint-plugin-prettier": 2,
+    "prettier": 2,
+    "canonical-path": 1,
+    "http-server": 1,
+    "tslint": 1
+  }
+}

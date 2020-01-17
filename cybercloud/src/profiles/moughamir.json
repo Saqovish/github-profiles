@@ -1,0 +1,63 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/8163598?v=4",
+  "login": "moughamir",
+  "name": "Mohamed Moughamir",
+  "blog": "https://omnizya.com",
+  "bio": "Frontend developer, Esports enthusiast, Auto-entrepreneur .\r\n9:14:20:16::1",
+  "public_repos": 139,
+  "total_repos": null,
+  "followers": 48,
+  "following": 210,
+  "url": "https://github.com/moughamir",
+  "repos_url": "https://api.github.com/users/moughamir/repos",
+  "languages": [
+    {
+      "Python": "0.03"
+    },
+    {
+      "CSS": "20.70"
+    },
+    {
+      "PHP": "19.26"
+    },
+    {
+      "HTML": "9.38"
+    },
+    {
+      "JavaScript": "4.54"
+    },
+    {
+      "Vue": "0.04"
+    },
+    {
+      "Jupyter Notebook": "38.09"
+    },
+    {
+      "Shell": "7.51"
+    },
+    {
+      "Vim script": "0.44"
+    }
+  ],
+  "packages": {
+    "react": 3,
+    "react-dom": 3,
+    "react-scripts": 3,
+    "axios": 1,
+    "md5": 1,
+    "moment": 1,
+    "socket.io": 1
+  },
+  "devPackages": {
+    "gulp": 1,
+    "gulp-autoprefixer": 1,
+    "gulp-clean-css": 1,
+    "gulp-imagemin": 1,
+    "gulp-sass": 1,
+    "gulp-sourcemaps": 1,
+    "@fortawesome/fontawesome": 1,
+    "axios": 1,
+    "babel-preset-react": 1,
+    "bootstrap": 1
+  }
+}

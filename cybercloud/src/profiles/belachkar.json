@@ -1,0 +1,90 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/34995109?v=4",
+  "login": "belachkar",
+  "name": "Ali Belachkar",
+  "blog": "https://belachkar.github.io/",
+  "bio": null,
+  "public_repos": 64,
+  "total_repos": null,
+  "followers": 3,
+  "following": 0,
+  "url": "https://github.com/belachkar",
+  "repos_url": "https://api.github.com/users/belachkar/repos",
+  "languages": [
+    {
+      "Java": "2.42"
+    },
+    {
+      "TypeScript": "12.00"
+    },
+    {
+      "JavaScript": "10.10"
+    },
+    {
+      "HTML": "12.70"
+    },
+    {
+      "CSS": "3.60"
+    },
+    {
+      "Python": "8.80"
+    },
+    {
+      "ShaderLab": "11.93"
+    },
+    {
+      "HLSL": "1.73"
+    },
+    {
+      "C#": "2.15"
+    },
+    {
+      "PHP": "19.02"
+    },
+    {
+      "TSQL": "1.55"
+    },
+    {
+      "Dart": "9.56"
+    },
+    {
+      "Objective-C": "1.02"
+    },
+    {
+      "Ruby": "0.13"
+    },
+    {
+      "Mako": "0.09"
+    },
+    {
+      "PowerShell": "3.09"
+    },
+    {
+      "Vue": "0.11"
+    }
+  ],
+  "packages": {
+    "@angular/animations": 4,
+    "@angular/common": 4,
+    "@angular/compiler": 4,
+    "@angular/core": 4,
+    "@angular/forms": 4,
+    "@angular/platform-browser": 4,
+    "@angular/platform-browser-dynamic": 4,
+    "@angular/router": 4,
+    "rxjs": 4,
+    "zone.js": 4
+  },
+  "devPackages": {
+    "@angular-devkit/build-angular": 4,
+    "@angular/cli": 4,
+    "@angular/compiler-cli": 4,
+    "@angular/language-service": 4,
+    "@types/jasmine": 4,
+    "@types/jasminewd2": 4,
+    "@types/node": 4,
+    "codelyzer": 4,
+    "jasmine-core": 4,
+    "jasmine-spec-reporter": 4
+  }
+}

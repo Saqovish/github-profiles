@@ -1,0 +1,81 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1266755?v=4",
+  "login": "rmkpatchaa",
+  "name": "Raymond Médédé KPATCHAA",
+  "blog": "https://rmkpatchaa.com",
+  "bio": "🇹🇬Learning with ❤️",
+  "public_repos": 21,
+  "total_repos": null,
+  "followers": 17,
+  "following": 4,
+  "url": "https://github.com/rmkpatchaa",
+  "repos_url": "https://api.github.com/users/rmkpatchaa/repos",
+  "languages": [
+    {
+      "JavaScript": "7.07"
+    },
+    {
+      "HTML": "7.16"
+    },
+    {
+      "Shell": "2.03"
+    },
+    {
+      "PHP": "29.01"
+    },
+    {
+      "CSS": "8.03"
+    },
+    {
+      "ApacheConf": "0.02"
+    },
+    {
+      "Dockerfile": "0.02"
+    },
+    {
+      "Python": "43.88"
+    },
+    {
+      "R": "0.06"
+    },
+    {
+      "Makefile": "0.01"
+    },
+    {
+      "Smarty": "0.09"
+    },
+    {
+      "Ruby": "2.13"
+    },
+    {
+      "Objective-C": "0.35"
+    },
+    {
+      "Java": "0.13"
+    }
+  ],
+  "packages": {
+    "react": 5,
+    "react-dom": 3,
+    "react-native": 2,
+    "uuid": 2,
+    "lodash": 2,
+    "prop-types": 2,
+    "babel-preset-es2015": 1,
+    "babel-preset-react": 1,
+    "babelify": 1,
+    "bootstrap-sass": 1
+  },
+  "devPackages": {
+    "babel-jest": 5,
+    "jest": 5,
+    "eslint": 4,
+    "react-test-renderer": 3,
+    "@babel/core": 3,
+    "@babel/preset-env": 3,
+    "babel-core": 3,
+    "babel-eslint": 3,
+    "eslint-config-prettier": 3,
+    "eslint-plugin-prettier": 3
+  }
+}

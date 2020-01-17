@@ -1,0 +1,66 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/27561160?v=4",
+  "login": "iamanas20",
+  "name": "Anas Latique",
+  "blog": "",
+  "bio": "Hi, I'm a dev, let's create something awesome!",
+  "public_repos": 39,
+  "total_repos": null,
+  "followers": 5,
+  "following": 11,
+  "url": "https://github.com/iamanas20",
+  "repos_url": "https://api.github.com/users/iamanas20/repos",
+  "languages": [
+    {
+      "JavaScript": "16.33"
+    },
+    {
+      "PowerShell": "1.28"
+    },
+    {
+      "HTML": "60.51"
+    },
+    {
+      "C#": "17.11"
+    },
+    {
+      "CSS": "1.67"
+    },
+    {
+      "ASP": "1.39"
+    },
+    {
+      "Pascal": "0.06"
+    },
+    {
+      "Kotlin": "0.02"
+    },
+    {
+      "CMake": "0.02"
+    },
+    {
+      "C++": "0.00"
+    },
+    {
+      "PHP": "1.61"
+    },
+    {
+      "Vue": "0.01"
+    }
+  ],
+  "packages": {
+    "react": 2,
+    "react-dom": 2,
+    "react-scripts": 2,
+    "axios": 1,
+    "formik": 1,
+    "moment": 1,
+    "react-redux": 1,
+    "react-router-dom": 1,
+    "redux": 1,
+    "redux-saga": 1
+  },
+  "devPackages": {
+    "gulp": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/13302268?v=4",
+  "login": "SimoMazil",
+  "name": "Mohammed Mazil",
+  "blog": "http://simomazil.github.io/",
+  "bio": "Javascript Developer",
+  "public_repos": 15,
+  "total_repos": null,
+  "followers": 9,
+  "following": 13,
+  "url": "https://github.com/SimoMazil",
+  "repos_url": "https://api.github.com/users/SimoMazil/repos",
+  "languages": [
+    {
+      "TypeScript": "9.03"
+    },
+    {
+      "JavaScript": "54.73"
+    },
+    {
+      "HTML": "15.70"
+    },
+    {
+      "CSS": "11.99"
+    },
+    {
+      "PHP": "8.55"
+    }
+  ],
+  "packages": {
+    "react": 7,
+    "react-dom": 7,
+    "react-scripts": 7,
+    "semantic-ui-css": 3,
+    "semantic-ui-react": 3,
+    "react-router-dom": 3,
+    "axios": 2,
+    "react-redux": 2,
+    "redux": 2,
+    "redux-thunk": 2
+  },
+  "devPackages": {
+    "redux-devtools-extension": 1,
+    "gulp": 1,
+    "gulp-sass": 1,
+    "@angular-devkit/build-angular": 1,
+    "@angular/cli": 1,
+    "@angular/compiler-cli": 1,
+    "@angular/language-service": 1,
+    "@types/node": 1,
+    "@types/jasmine": 1,
+    "@types/jasminewd2": 1
+  }
+}

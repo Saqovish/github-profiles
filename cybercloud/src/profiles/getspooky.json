@@ -1,0 +1,54 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/37160072?v=4",
+  "login": "getspooky",
+  "name": "Yasser Ameur el idrissi",
+  "blog": "https://getspooky.github.io/hello-world/",
+  "bio": "FullStack Developer - I love programming",
+  "public_repos": 30,
+  "total_repos": null,
+  "followers": 64,
+  "following": 514,
+  "url": "https://github.com/getspooky",
+  "repos_url": "https://api.github.com/users/getspooky/repos",
+  "languages": [
+    {
+      "PHP": "72.97"
+    },
+    {
+      "HTML": "1.44"
+    },
+    {
+      "Vue": "0.77"
+    },
+    {
+      "TypeScript": "7.21"
+    },
+    {
+      "JavaScript": "17.62"
+    }
+  ],
+  "packages": {
+    "dotenv": 2,
+    "path": 2,
+    "randomstring": 2,
+    "react": 2,
+    "react-dom": 2,
+    "react-redux": 2,
+    "react-router-dom": 2,
+    "redux": 2,
+    "redux-thunk": 2,
+    "sha256": 2
+  },
+  "devPackages": {
+    "cross-env": 4,
+    "webpack": 4,
+    "webpack-cli": 4,
+    "axios": 3,
+    "bootstrap": 3,
+    "jquery": 3,
+    "laravel-mix": 3,
+    "lodash": 3,
+    "popper.js": 3,
+    "vue": 3
+  }
+}

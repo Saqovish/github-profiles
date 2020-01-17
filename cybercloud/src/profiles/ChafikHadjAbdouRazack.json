@@ -1,0 +1,43 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/24951221?v=4",
+  "login": "ChafikHadjAbdouRazack",
+  "name": "Chafik HADJ ABDOU RAZACK",
+  "blog": "https://vyconsulting-group.com",
+  "bio": "Web artisan, Cyber security and SysAdmin lover. I use PHP and Python to build awesome things.",
+  "public_repos": 63,
+  "total_repos": null,
+  "followers": 13,
+  "following": 124,
+  "url": "https://github.com/ChafikHadjAbdouRazack",
+  "repos_url": "https://api.github.com/users/ChafikHadjAbdouRazack/repos",
+  "languages": [
+    {
+      "PHP": "47.79"
+    },
+    {
+      "HTML": "11.50"
+    },
+    {
+      "Vue": "0.16"
+    },
+    {
+      "JavaScript": "37.79"
+    },
+    {
+      "Python": "2.76"
+    }
+  ],
+  "packages": {},
+  "devPackages": {
+    "axios": 1,
+    "bootstrap": 1,
+    "cross-env": 1,
+    "jquery": 1,
+    "laravel-mix": 1,
+    "lodash": 1,
+    "popper.js": 1,
+    "resolve-url-loader": 1,
+    "sass": 1,
+    "sass-loader": 1
+  }
+}

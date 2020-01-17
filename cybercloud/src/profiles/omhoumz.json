@@ -1,0 +1,72 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7444066?v=4",
+  "login": "omhoumz",
+  "name": "Omar Houmz",
+  "blog": "https://omarhoumz.com/",
+  "bio": null,
+  "public_repos": 39,
+  "total_repos": null,
+  "followers": 6,
+  "following": 3,
+  "url": "https://github.com/omhoumz",
+  "repos_url": "https://api.github.com/users/omhoumz/repos",
+  "languages": [
+    {
+      "PHP": "5.58"
+    },
+    {
+      "CSS": "17.94"
+    },
+    {
+      "JavaScript": "32.31"
+    },
+    {
+      "HTML": "18.93"
+    },
+    {
+      "TypeScript": "1.40"
+    },
+    {
+      "Dart": "14.78"
+    },
+    {
+      "Objective-C": "1.06"
+    },
+    {
+      "Java": "0.59"
+    },
+    {
+      "Python": "6.89"
+    },
+    {
+      "Ruby": "0.44"
+    },
+    {
+      "Swift": "0.08"
+    }
+  ],
+  "packages": {
+    "react": 8,
+    "react-dom": 8,
+    "react-scripts": 5,
+    "react-helmet": 3,
+    "gatsby": 2,
+    "gatsby-image": 2,
+    "gatsby-plugin-manifest": 2,
+    "gatsby-plugin-offline": 2,
+    "gatsby-plugin-react-helmet": 2,
+    "gatsby-plugin-sharp": 2
+  },
+  "devPackages": {
+    "prettier": 3,
+    "eslint": 2,
+    "babel-cli": 1,
+    "babel-preset-env": 1,
+    "@types/react": 1,
+    "@types/react-dom": 1,
+    "eslint-config-prettier": 1,
+    "eslint-plugin-prettier": 1,
+    "standard": 1,
+    "coveralls": 1
+  }
+}

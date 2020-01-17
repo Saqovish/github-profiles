@@ -1,0 +1,105 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/5616165?v=4",
+  "login": "dermoumi",
+  "name": "Dermoumi S.",
+  "blog": "",
+  "bio": null,
+  "public_repos": 25,
+  "total_repos": null,
+  "followers": 21,
+  "following": 45,
+  "url": "https://github.com/dermoumi",
+  "repos_url": "https://api.github.com/users/dermoumi/repos",
+  "languages": [
+    {
+      "Go": "0.30"
+    },
+    {
+      "Dockerfile": "0.00"
+    },
+    {
+      "JavaScript": "3.00"
+    },
+    {
+      "CSS": "0.23"
+    },
+    {
+      "HTML": "1.10"
+    },
+    {
+      "Java": "0.82"
+    },
+    {
+      "TypeScript": "0.40"
+    },
+    {
+      "Python": "0.18"
+    },
+    {
+      "Shell": "0.01"
+    },
+    {
+      "C": "72.95"
+    },
+    {
+      "C++": "11.35"
+    },
+    {
+      "Lua": "2.69"
+    },
+    {
+      "Objective-C": "1.22"
+    },
+    {
+      "C#": "0.47"
+    },
+    {
+      "Perl": "0.16"
+    },
+    {
+      "Makefile": "0.11"
+    },
+    {
+      "CMake": "0.06"
+    },
+    {
+      "Batchfile": "0.04"
+    },
+    {
+      "GLSL": "0.02"
+    },
+    {
+      "Roff": "0.01"
+    },
+    {
+      "PHP": "4.89"
+    },
+    {
+      "ApacheConf": "0.00"
+    }
+  ],
+  "packages": {
+    "local-web-server": 2,
+    "babel-plugin-styled-components": 1,
+    "enzyme": 1,
+    "enzyme-adapter-react-16": 1,
+    "enzyme-to-json": 1,
+    "eslint-config-react-app": 1,
+    "husky": 1,
+    "jest-styled-components": 1,
+    "lint-staged": 1,
+    "prettier": 1
+  },
+  "devPackages": {
+    "@typescript-eslint/eslint-plugin": 2,
+    "@typescript-eslint/parser": 2,
+    "clean-webpack-plugin": 2,
+    "css-loader": 2,
+    "eslint": 2,
+    "file-loader": 2,
+    "html-webpack-plugin": 2,
+    "terser-webpack-plugin": 2,
+    "ts-loader": 2,
+    "typescript": 2
+  }
+}

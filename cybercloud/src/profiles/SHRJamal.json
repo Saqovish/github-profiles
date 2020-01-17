@@ -1,0 +1,54 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/31532251?v=4",
+  "login": "SHRJamal",
+  "name": "Jamal .S",
+  "blog": "",
+  "bio": null,
+  "public_repos": 38,
+  "total_repos": null,
+  "followers": 5,
+  "following": 28,
+  "url": "https://github.com/SHRJamal",
+  "repos_url": "https://api.github.com/users/SHRJamal/repos",
+  "languages": [
+    {
+      "HTML": "3.21"
+    },
+    {
+      "CSS": "2.02"
+    },
+    {
+      "Dart": "66.55"
+    },
+    {
+      "Ruby": "2.60"
+    },
+    {
+      "Swift": "6.11"
+    },
+    {
+      "Kotlin": "0.32"
+    },
+    {
+      "Objective-C": "0.03"
+    },
+    {
+      "JavaScript": "19.17"
+    }
+  ],
+  "packages": {
+    "bulma": 1,
+    "gatsby": 1,
+    "gatsby-image": 1,
+    "gatsby-plugin-google-adsense": 1,
+    "gatsby-plugin-netlify": 1,
+    "gatsby-plugin-netlify-cms": 1,
+    "gatsby-plugin-purgecss": 1,
+    "gatsby-plugin-react-helmet": 1,
+    "gatsby-plugin-sass": 1,
+    "gatsby-plugin-sharp": 1
+  },
+  "devPackages": {
+    "prettier": 1
+  }
+}

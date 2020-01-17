@@ -1,0 +1,29 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/42227565?v=4",
+  "login": "yahyasemih",
+  "name": "Yahya Ez-zainabi",
+  "blog": "https://matcha1337.herokuapp.com",
+  "bio": "Student at 1337 Coding School",
+  "public_repos": 7,
+  "total_repos": null,
+  "followers": 15,
+  "following": 10,
+  "url": "https://github.com/yahyasemih",
+  "repos_url": "https://api.github.com/users/yahyasemih/repos",
+  "languages": [
+    {
+      "C++": "74.40"
+    },
+    {
+      "Python": "0.10"
+    },
+    {
+      "C": "24.99"
+    },
+    {
+      "Makefile": "0.50"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}
