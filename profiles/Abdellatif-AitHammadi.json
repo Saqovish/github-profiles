@@ -1,0 +1,23 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/57833816?v=4",
+  "login": "Abdellatif-AitHammadi",
+  "name": "Abdellatif AitHammadi",
+  "blog": "",
+  "bio": "Artificial Intelligence Student",
+  "public_repos": 7,
+  "total_repos": null,
+  "followers": 3,
+  "following": 8,
+  "url": "https://github.com/Abdellatif-AitHammadi",
+  "repos_url": "https://api.github.com/users/Abdellatif-AitHammadi/repos",
+  "languages": [
+    {
+      "Python": "54.07"
+    },
+    {
+      "C++": "45.93"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

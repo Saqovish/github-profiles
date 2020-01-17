@@ -1,0 +1,63 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/11523791?v=4",
+  "login": "AbderrahimSoubaiElidrissi",
+  "name": "soubai",
+  "blog": "https://packagist.org/packages/soubai",
+  "bio": "This field intentionally left blank.\r\n",
+  "public_repos": 30,
+  "total_repos": null,
+  "followers": 57,
+  "following": 112,
+  "url": "https://github.com/AbderrahimSoubaiElidrissi",
+  "repos_url": "https://api.github.com/users/AbderrahimSoubaiElidrissi/repos",
+  "languages": [
+    {
+      "TypeScript": "7.47"
+    },
+    {
+      "HTML": "3.08"
+    },
+    {
+      "CSS": "68.01"
+    },
+    {
+      "JavaScript": "17.60"
+    },
+    {
+      "Python": "0.30"
+    },
+    {
+      "Shell": "0.34"
+    },
+    {
+      "Smarty": "1.28"
+    },
+    {
+      "PHP": "1.92"
+    }
+  ],
+  "packages": {
+    "express": 4,
+    "body-parser": 3,
+    "bluebird": 2,
+    "moment": 2,
+    "react": 2,
+    "react-dom": 2,
+    "compression": 2,
+    "cors": 2,
+    "dotenv": 2,
+    "mongoose": 2
+  },
+  "devPackages": {
+    "@types/node": 3,
+    "ts-node": 3,
+    "tslint": 3,
+    "typescript": 3,
+    "eslint": 2,
+    "@babel/core": 2,
+    "concurrently": 2,
+    "rimraf": 2,
+    "pre-commit": 1,
+    "prettier": 1
+  }
+}

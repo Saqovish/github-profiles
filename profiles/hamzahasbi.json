@@ -1,0 +1,65 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/16267585?v=4",
+  "login": "hamzahasbi",
+  "name": "Hasbi Hamza",
+  "blog": "http://hamzaahasbi.blogspot.com/",
+  "bio": null,
+  "public_repos": 37,
+  "total_repos": null,
+  "followers": 30,
+  "following": 79,
+  "url": "https://github.com/hamzahasbi",
+  "repos_url": "https://api.github.com/users/hamzahasbi/repos",
+  "languages": [
+    {
+      "C++": "0.60"
+    },
+    {
+      "Ruby": "0.08"
+    },
+    {
+      "Python": "0.02"
+    },
+    {
+      "JavaScript": "41.11"
+    },
+    {
+      "HTML": "31.63"
+    },
+    {
+      "CSS": "24.72"
+    },
+    {
+      "Java": "0.86"
+    },
+    {
+      "CoffeeScript": "0.63"
+    },
+    {
+      "PHP": "0.28"
+    },
+    {
+      "ApacheConf": "0.00"
+    },
+    {
+      "Shell": "0.03"
+    },
+    {
+      "ASP": "0.00"
+    },
+    {
+      "Batchfile": "0.00"
+    },
+    {
+      "QMake": "0.00"
+    },
+    {
+      "Dockerfile": "0.02"
+    }
+  ],
+  "packages": {
+    "axios": 1,
+    "slackbots": 1
+  },
+  "devPackages": {}
+}

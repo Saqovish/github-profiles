@@ -1,0 +1,66 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/455114?v=4",
+  "login": "karim88",
+  "name": "Karim Oulad Chalha",
+  "blog": "https://karimslab.com",
+  "bio": "Experienced Web Developer with a demonstrated history of working in the computer software industry. Skilled in Python, PHP, Typescript, Translation, and jQuery.",
+  "public_repos": 38,
+  "total_repos": null,
+  "followers": 3,
+  "following": 6,
+  "url": "https://github.com/karim88",
+  "repos_url": "https://api.github.com/users/karim88/repos",
+  "languages": [
+    {
+      "CSS": "5.94"
+    },
+    {
+      "JavaScript": "5.60"
+    },
+    {
+      "HTML": "1.67"
+    },
+    {
+      "PHP": "15.27"
+    },
+    {
+      "TypeScript": "2.31"
+    },
+    {
+      "Vue": "0.84"
+    },
+    {
+      "Python": "68.15"
+    },
+    {
+      "Shell": "0.20"
+    },
+    {
+      "ApacheConf": "0.03"
+    }
+  ],
+  "packages": {
+    "bootstrap": 2,
+    "jquery": 2,
+    "body-parser": 2,
+    "express": 2,
+    "mongoose": 2,
+    "request": 2,
+    "@vuejs-pt/vue-alert": 1,
+    "vue": 1,
+    "vue-resource": 1,
+    "vue-router": 1
+  },
+  "devPackages": {
+    "babel-loader": 2,
+    "eslint": 2,
+    "shelljs": 2,
+    "webpack": 2,
+    "jquery": 2,
+    "lodash": 2,
+    "vue": 2,
+    "@types/node": 2,
+    "tslint": 2,
+    "typescript": 2
+  }
+}

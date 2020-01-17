@@ -1,0 +1,60 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/40798653?v=4",
+  "login": "MarchWorks",
+  "name": "Nabil Boussouf",
+  "blog": "http://twitter.com/marchworks",
+  "bio": "Math Student . Web Developer & a machine learning novice",
+  "public_repos": 16,
+  "total_repos": null,
+  "followers": 9,
+  "following": 4,
+  "url": "https://github.com/MarchWorks",
+  "repos_url": "https://api.github.com/users/MarchWorks/repos",
+  "languages": [
+    {
+      "JavaScript": "52.29"
+    },
+    {
+      "PHP": "27.65"
+    },
+    {
+      "HTML": "13.47"
+    },
+    {
+      "CSS": "6.20"
+    },
+    {
+      "Shell": "0.05"
+    },
+    {
+      "Makefile": "0.02"
+    },
+    {
+      "Python": "0.32"
+    }
+  ],
+  "packages": {
+    "next": 2,
+    "react": 2,
+    "react-dom": 2,
+    "electron-is-dev": 2,
+    "electron-next": 2,
+    "electron-store": 2,
+    "@material-ui/core": 1,
+    "prop-types": 1,
+    "styled-components": 1,
+    "@fortawesome/fontawesome-svg-core": 1
+  },
+  "devPackages": {
+    "babel-eslint": 3,
+    "eslint": 3,
+    "husky": 3,
+    "lint-staged": 3,
+    "prettier": 3,
+    "cross-env": 3,
+    "react": 3,
+    "react-dom": 3,
+    "electron": 2,
+    "electron-builder": 2
+  }
+}

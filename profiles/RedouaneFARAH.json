@@ -1,0 +1,54 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/50687682?v=4",
+  "login": "RedouaneFARAH",
+  "name": "Redouane FARAH",
+  "blog": "",
+  "bio": "Web Developer, Designer and System Administrator",
+  "public_repos": 17,
+  "total_repos": null,
+  "followers": 3,
+  "following": 3,
+  "url": "https://github.com/RedouaneFARAH",
+  "repos_url": "https://api.github.com/users/RedouaneFARAH/repos",
+  "languages": [
+    {
+      "JavaScript": "29.26"
+    },
+    {
+      "CSS": "64.14"
+    },
+    {
+      "HTML": "3.87"
+    },
+    {
+      "Java": "0.43"
+    },
+    {
+      "Vue": "2.30"
+    }
+  ],
+  "packages": {
+    "react": 5,
+    "react-dom": 5,
+    "react-scripts": 5,
+    "express": 5,
+    "mongoose": 4,
+    "axios": 3,
+    "multer": 3,
+    "@testing-library/jest-dom": 3,
+    "@testing-library/react": 3,
+    "@testing-library/user-event": 3
+  },
+  "devPackages": {
+    "nodemon": 2,
+    "concurrently": 1,
+    "enzyme": 1,
+    "enzyme-adapter-react-16": 1,
+    "react-test-renderer": 1,
+    "babel-core": 1,
+    "babel-loader": 1,
+    "babel-preset-env": 1,
+    "babel-preset-stage-3": 1,
+    "cross-env": 1
+  }
+}

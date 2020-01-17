@@ -1,0 +1,69 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/22135357?v=4",
+  "login": "ValdesChe",
+  "name": "Valdor",
+  "blog": "https://www.linkedin.com/in/valdesche03/",
+  "bio": "%{ :ok , me } |> futureEngineer()",
+  "public_repos": 55,
+  "total_repos": null,
+  "followers": 12,
+  "following": 21,
+  "url": "https://github.com/ValdesChe",
+  "repos_url": "https://api.github.com/users/ValdesChe/repos",
+  "languages": [
+    {
+      "Java": "19.54"
+    },
+    {
+      "CSS": "19.04"
+    },
+    {
+      "Elixir": "4.92"
+    },
+    {
+      "Vue": "1.45"
+    },
+    {
+      "JavaScript": "32.91"
+    },
+    {
+      "HTML": "16.46"
+    },
+    {
+      "C#": "5.39"
+    },
+    {
+      "PHP": "0.03"
+    },
+    {
+      "Python": "0.08"
+    },
+    {
+      "TSQL": "0.18"
+    }
+  ],
+  "packages": {
+    "vue": 3,
+    "semantic-ui": 1,
+    "vue-resource": 1,
+    "vue-router": 1,
+    "moment": 1,
+    "moment-range": 1,
+    "es6": 1,
+    "phoenix": 1,
+    "phoenix_html": 1,
+    "bootstrap": 1
+  },
+  "devPackages": {
+    "babel-core": 3,
+    "babel-loader": 3,
+    "babel-preset-env": 3,
+    "css-loader": 3,
+    "file-loader": 3,
+    "vue-loader": 3,
+    "vue-template-compiler": 3,
+    "webpack": 3,
+    "webpack-dev-server": 3,
+    "autoprefixer": 2
+  }
+}

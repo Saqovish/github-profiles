@@ -1,0 +1,51 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/19809072?v=4",
+  "login": "simoebenhida",
+  "name": "Mohamed Benhida",
+  "blog": "http://mohamedbenhida.com/",
+  "bio": "Laravel/Vuejs/Tailwindcss Developer",
+  "public_repos": 92,
+  "total_repos": null,
+  "followers": 67,
+  "following": 19,
+  "url": "https://github.com/simoebenhida",
+  "repos_url": "https://api.github.com/users/simoebenhida/repos",
+  "languages": [
+    {
+      "PHP": "40.24"
+    },
+    {
+      "ApacheConf": "0.17"
+    },
+    {
+      "HTML": "6.83"
+    },
+    {
+      "JavaScript": "3.00"
+    },
+    {
+      "CSS": "48.83"
+    },
+    {
+      "Vue": "0.82"
+    },
+    {
+      "Go": "0.10"
+    }
+  ],
+  "packages": {
+    "vue": 1
+  },
+  "devPackages": {
+    "cross-env": 5,
+    "lodash": 5,
+    "vue": 5,
+    "axios": 4,
+    "laravel-mix": 4,
+    "bootstrap-sass": 3,
+    "jquery": 3,
+    "tailwindcss": 3,
+    "laravel-mix-purgecss": 2,
+    "postcss-import": 2
+  }
+}

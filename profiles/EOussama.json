@@ -1,0 +1,67 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/22644543?v=4",
+  "login": "EOussama",
+  "name": "Oussama Essamadi",
+  "blog": "https://www.youtube.com/channel/UCw2ptm5qXBr61Jn8QingQFQ",
+  "bio": "Typing some code...",
+  "public_repos": 61,
+  "total_repos": null,
+  "followers": 21,
+  "following": 6,
+  "url": "https://github.com/EOussama",
+  "repos_url": "https://api.github.com/users/EOussama/repos",
+  "languages": [
+    {
+      "C": "0.17"
+    },
+    {
+      "Makefile": "0.02"
+    },
+    {
+      "Visual Basic": "1.97"
+    },
+    {
+      "CSS": "3.47"
+    },
+    {
+      "JavaScript": "1.20"
+    },
+    {
+      "HTML": "0.61"
+    },
+    {
+      "PHP": "47.08"
+    },
+    {
+      "C#": "4.00"
+    },
+    {
+      "Lua": "1.74"
+    },
+    {
+      "Pawn": "38.62"
+    },
+    {
+      "SourcePawn": "0.68"
+    },
+    {
+      "Shell": "0.23"
+    },
+    {
+      "Python": "0.21"
+    }
+  ],
+  "packages": {},
+  "devPackages": {
+    "@babel/core": 1,
+    "@babel/preset-env": 1,
+    "gulp": 1,
+    "gulp-babel": 1,
+    "gulp-beautify": 1,
+    "gulp-rename": 1,
+    "gulp-uglify": 1,
+    "jest": 1,
+    "less": 1,
+    "less-watch-compiler": 1
+  }
+}

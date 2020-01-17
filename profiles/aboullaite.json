@@ -1,0 +1,50 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2836850?v=4",
+  "login": "aboullaite",
+  "name": "Aboullaite Mohammed",
+  "blog": "http://aboullaite.me",
+  "bio": "Developer, OSS and community, full-time DJ ( Docker & Java), part-time blogger.\r\n",
+  "public_repos": 44,
+  "total_repos": null,
+  "followers": 179,
+  "following": 3,
+  "url": "https://github.com/aboullaite",
+  "repos_url": "https://api.github.com/users/aboullaite/repos",
+  "languages": [
+    {
+      "Java": "40.02"
+    },
+    {
+      "HTML": "2.53"
+    },
+    {
+      "Shell": "1.12"
+    },
+    {
+      "Dockerfile": "0.27"
+    },
+    {
+      "Groovy": "7.67"
+    },
+    {
+      "JavaScript": "36.17"
+    },
+    {
+      "Smarty": "0.21"
+    },
+    {
+      "CSS": "1.61"
+    },
+    {
+      "XSLT": "5.99"
+    },
+    {
+      "Scala": "2.21"
+    },
+    {
+      "TypeScript": "2.21"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

@@ -1,0 +1,43 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/20845375?v=4",
+  "login": "SuicV",
+  "name": "Idriss Oulahbib",
+  "blog": "",
+  "bio": null,
+  "public_repos": 4,
+  "total_repos": null,
+  "followers": 2,
+  "following": 7,
+  "url": "https://github.com/SuicV",
+  "repos_url": "https://api.github.com/users/SuicV/repos",
+  "languages": [
+    {
+      "JavaScript": "31.33"
+    },
+    {
+      "C": "22.23"
+    },
+    {
+      "Python": "28.37"
+    },
+    {
+      "HTML": "14.57"
+    },
+    {
+      "CSS": "3.51"
+    }
+  ],
+  "packages": {},
+  "devPackages": {
+    "@babel/core": 1,
+    "@babel/preset-env": 1,
+    "babel-loader": 1,
+    "eslint": 1,
+    "eslint-config-standard": 1,
+    "eslint-loader": 1,
+    "eslint-plugin-import": 1,
+    "eslint-plugin-node": 1,
+    "eslint-plugin-promise": 1,
+    "eslint-plugin-standard": 1
+  }
+}

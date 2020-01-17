@@ -1,0 +1,48 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/6617326?v=4",
+  "login": "aissa-bouguern",
+  "name": "Aissa BOUGUERN",
+  "blog": "https://www.tutomena.com",
+  "bio": "Senior frontend web developer",
+  "public_repos": 4,
+  "total_repos": null,
+  "followers": 9,
+  "following": 4,
+  "url": "https://github.com/aissa-bouguern",
+  "repos_url": "https://api.github.com/users/aissa-bouguern/repos",
+  "languages": [
+    {
+      "JavaScript": "57.03"
+    },
+    {
+      "CSS": "42.93"
+    },
+    {
+      "HTML": "0.04"
+    }
+  ],
+  "packages": {
+    "@mdx-js/mdx": 1,
+    "@mdx-js/react": 1,
+    "disqus-react": 1,
+    "eslint-utils": 1,
+    "gatsby": 1,
+    "gatsby-image": 1,
+    "gatsby-plugin-catch-links": 1,
+    "gatsby-plugin-feed-mdx": 1,
+    "gatsby-plugin-google-analytics": 1,
+    "gatsby-plugin-mailchimp": 1
+  },
+  "devPackages": {
+    "babel-eslint": 1,
+    "cli-glob": 1,
+    "eslint": 1,
+    "eslint-config-airbnb": 1,
+    "eslint-config-prettier": 1,
+    "eslint-plugin-import": 1,
+    "eslint-plugin-jsx-a11y": 1,
+    "eslint-plugin-react": 1,
+    "prettier": 1,
+    "remark-cli": 1
+  }
+}

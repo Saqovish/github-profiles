@@ -1,0 +1,51 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/19931469?v=4",
+  "login": "mohcinenazrhan",
+  "name": "Mohcine NAZRHAN",
+  "blog": "https://twitter.com/MNazrhan",
+  "bio": "Mobile Web Specialist | Full-Stack Dev with a Front-end Focus interested in #PWA, #Performance, #UX and Web accessibility #a11y",
+  "public_repos": 63,
+  "total_repos": null,
+  "followers": 10,
+  "following": 114,
+  "url": "https://github.com/mohcinenazrhan",
+  "repos_url": "https://api.github.com/users/mohcinenazrhan/repos",
+  "languages": [
+    {
+      "JavaScript": "63.69"
+    },
+    {
+      "HTML": "13.84"
+    },
+    {
+      "CSS": "18.32"
+    },
+    {
+      "TypeScript": "4.16"
+    }
+  ],
+  "packages": {
+    "react": 5,
+    "react-dom": 5,
+    "react-scripts": 3,
+    "lodash.shuffle": 1,
+    "react-router": 1,
+    "react-router-dom": 1,
+    "semantic-ui-css": 1,
+    "semantic-ui-react": 1,
+    "validator": 1,
+    "gatsby": 1
+  },
+  "devPackages": {
+    "babel-core": 2,
+    "babel-preset-env": 2,
+    "eslint-config-airbnb": 1,
+    "eslint-config-prettier": 1,
+    "eslint-plugin-prettier": 1,
+    "prettier": 1,
+    "browser-sync": 1,
+    "gulp": 1,
+    "gulp-autoprefixer": 1,
+    "gulp-babel": 1
+  }
+}

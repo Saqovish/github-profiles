@@ -1,0 +1,40 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/16366008?v=4",
+  "login": "razouq",
+  "name": "ANASS BENDARSI",
+  "blog": "",
+  "bio": null,
+  "public_repos": 7,
+  "total_repos": null,
+  "followers": 5,
+  "following": 5,
+  "url": "https://github.com/razouq",
+  "repos_url": "https://api.github.com/users/razouq/repos",
+  "languages": [
+    {
+      "C++": "1.00"
+    },
+    {
+      "Java": "63.41"
+    },
+    {
+      "JavaScript": "33.33"
+    },
+    {
+      "HTML": "2.26"
+    }
+  ],
+  "packages": {
+    "axios": 1,
+    "bootstrap": 1,
+    "http-proxy-middleware": 1,
+    "jwt-decode": 1,
+    "lodash": 1,
+    "react": 1,
+    "react-dom": 1,
+    "react-redux": 1,
+    "react-router-dom": 1,
+    "react-scripts": 1
+  },
+  "devPackages": {}
+}

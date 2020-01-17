@@ -1,0 +1,72 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/13737185?v=4",
+  "login": "ayoubserti",
+  "name": "Ayoub Serti",
+  "blog": "",
+  "bio": "Senior C++ developer, JS Fun",
+  "public_repos": 53,
+  "total_repos": null,
+  "followers": 24,
+  "following": 15,
+  "url": "https://github.com/ayoubserti",
+  "repos_url": "https://api.github.com/users/ayoubserti/repos",
+  "languages": [
+    {
+      "C++": "3.94"
+    },
+    {
+      "Makefile": "0.16"
+    },
+    {
+      "CMake": "0.04"
+    },
+    {
+      "JavaScript": "92.24"
+    },
+    {
+      "Shell": "0.01"
+    },
+    {
+      "TypeScript": "0.91"
+    },
+    {
+      "CSS": "0.09"
+    },
+    {
+      "HTML": "1.20"
+    },
+    {
+      "C": "1.40"
+    },
+    {
+      "Dockerfile": "0.00"
+    },
+    {
+      "Python": "0.00"
+    }
+  ],
+  "packages": {
+    "@types/uuid": 1,
+    "fast-xml-parser": 1,
+    "uuid": 1,
+    "vscode-textmate": 1,
+    "command-line-args": 1,
+    "mysql": 1,
+    "bindings": 1,
+    "ace-code-editor": 1,
+    "bootstrap": 1,
+    "electron": 1
+  },
+  "devPackages": {
+    "@types/glob": 1,
+    "@types/mocha": 1,
+    "@types/node": 1,
+    "@types/vscode": 1,
+    "electron-rebuild": 1,
+    "glob": 1,
+    "mocha": 1,
+    "ts-loader": 1,
+    "tslint": 1,
+    "typescript": 1
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/39305045?v=4",
+  "login": "konshensx16",
+  "name": "Mohammed BAZA",
+  "blog": "",
+  "bio": "Youtube Channel: \r\nOverseas Media",
+  "public_repos": 25,
+  "total_repos": null,
+  "followers": 51,
+  "following": 2,
+  "url": "https://github.com/konshensx16",
+  "repos_url": "https://api.github.com/users/konshensx16/repos",
+  "languages": [
+    {
+      "JavaScript": "85.78"
+    },
+    {
+      "C++": "0.02"
+    },
+    {
+      "PHP": "4.16"
+    },
+    {
+      "HTML": "0.80"
+    },
+    {
+      "CSS": "8.29"
+    },
+    {
+      "Vue": "0.37"
+    },
+    {
+      "Makefile": "0.00"
+    },
+    {
+      "Java": "0.57"
+    }
+  ],
+  "packages": {
+    "axios": 3,
+    "vue": 3,
+    "vuex": 3,
+    "cropperjs": 2,
+    "core-js": 2,
+    "lodash": 2,
+    "vue-router": 2,
+    "tinymce": 2,
+    "vuetify": 1,
+    "webpack-notifier": 1
+  },
+  "devPackages": {
+    "@symfony/webpack-encore": 6,
+    "vue-template-compiler": 3,
+    "@vue/cli-plugin-babel": 2,
+    "@vue/cli-plugin-eslint": 2,
+    "@vue/cli-service": 2,
+    "babel-eslint": 2,
+    "eslint": 2,
+    "eslint-plugin-vue": 2,
+    "webpack-notifier": 2,
+    "vue": 1
+  }
+}

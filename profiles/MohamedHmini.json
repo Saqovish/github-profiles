@@ -1,0 +1,35 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/28758767?v=4",
+  "login": "MohamedHmini",
+  "name": "Mohamed Hmini",
+  "blog": "https://www.linkedin.com/in/mohamed-hmini-305ab9139/",
+  "bio": "Self-proclaimed liberal 🐼🖖\r\n\r\nA.I enthusiast, connectionist A.I preacher, SWE\r\n\r\nThe only way to achieve global utopia is definitely through and by A.I",
+  "public_repos": 17,
+  "total_repos": null,
+  "followers": 4,
+  "following": 14,
+  "url": "https://github.com/MohamedHmini",
+  "repos_url": "https://api.github.com/users/MohamedHmini/repos",
+  "languages": [
+    {
+      "C": "24.06"
+    },
+    {
+      "Python": "56.04"
+    },
+    {
+      "JavaScript": "5.42"
+    },
+    {
+      "C++": "0.25"
+    },
+    {
+      "Jupyter Notebook": "13.87"
+    },
+    {
+      "Batchfile": "0.37"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

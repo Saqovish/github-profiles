@@ -1,0 +1,64 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/32547160?v=4",
+  "login": "saidtechnology",
+  "name": "Said Ouarrak",
+  "blog": "",
+  "bio": null,
+  "public_repos": 16,
+  "total_repos": null,
+  "followers": 4,
+  "following": 17,
+  "url": "https://github.com/saidtechnology",
+  "repos_url": "https://api.github.com/users/saidtechnology/repos",
+  "languages": [
+    {
+      "Dart": "22.39"
+    },
+    {
+      "Makefile": "20.35"
+    },
+    {
+      "Ruby": "0.84"
+    },
+    {
+      "Java": "0.57"
+    },
+    {
+      "Objective-C": "0.25"
+    },
+    {
+      "Shell": "0.17"
+    },
+    {
+      "Swift": "0.26"
+    },
+    {
+      "Kotlin": "0.65"
+    },
+    {
+      "HTML": "16.53"
+    },
+    {
+      "PHP": "35.66"
+    },
+    {
+      "Vue": "0.18"
+    },
+    {
+      "CSS": "2.15"
+    }
+  ],
+  "packages": {},
+  "devPackages": {
+    "axios": 1,
+    "bootstrap": 1,
+    "cross-env": 1,
+    "jquery": 1,
+    "laravel-mix": 1,
+    "lodash": 1,
+    "popper.js": 1,
+    "resolve-url-loader": 1,
+    "sass": 1,
+    "sass-loader": 1
+  }
+}

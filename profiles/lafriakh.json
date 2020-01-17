@@ -1,0 +1,32 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3150015?v=4",
+  "login": "lafriakh",
+  "name": "Rachid Lafriakh",
+  "blog": "https://rlf.me",
+  "bio": null,
+  "public_repos": 3,
+  "total_repos": null,
+  "followers": 5,
+  "following": 90,
+  "url": "https://github.com/lafriakh",
+  "repos_url": "https://api.github.com/users/lafriakh/repos",
+  "languages": [
+    {
+      "Vim script": "20.94"
+    },
+    {
+      "Shell": "0.34"
+    },
+    {
+      "Ruby": "0.27"
+    },
+    {
+      "Go": "78.32"
+    },
+    {
+      "HTML": "0.14"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

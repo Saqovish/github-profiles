@@ -1,0 +1,51 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1470318?v=4",
+  "login": "abennouna",
+  "name": "Abdelaziz Bennouna",
+  "blog": "http://tellibus.com",
+  "bio": "Founder / Developer @tellibus ",
+  "public_repos": 30,
+  "total_repos": null,
+  "followers": 12,
+  "following": 11,
+  "url": "https://github.com/abennouna",
+  "repos_url": "https://api.github.com/users/abennouna/repos",
+  "languages": [
+    {
+      "HTML": "30.33"
+    },
+    {
+      "CSS": "15.12"
+    },
+    {
+      "TypeScript": "47.17"
+    },
+    {
+      "JavaScript": "7.38"
+    }
+  ],
+  "packages": {
+    "@angular/common": 2,
+    "@angular/core": 2,
+    "@angular/forms": 2,
+    "@angular/http": 2,
+    "@angular/platform-browser": 2,
+    "@angular/platform-browser-dynamic": 2,
+    "@angular/router": 2,
+    "@ionic-native/core": 2,
+    "@ionic-native/splash-screen": 2,
+    "@ionic-native/status-bar": 2
+  },
+  "devPackages": {
+    "@angular-devkit/architect": 2,
+    "@angular-devkit/build-angular": 2,
+    "@angular-devkit/core": 2,
+    "@angular-devkit/schematics": 2,
+    "@angular/cli": 2,
+    "@angular/compiler": 2,
+    "@angular/compiler-cli": 2,
+    "@angular/language-service": 2,
+    "@ionic/angular-toolkit": 2,
+    "@types/node": 2
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/49118568?v=4",
+  "login": "hichambendarbi",
+  "name": null,
+  "blog": "",
+  "bio": "I am a full stack web developer specializing mostly in JavaScript/Node.js but also work with C# .Net and sql server.",
+  "public_repos": 16,
+  "total_repos": null,
+  "followers": 6,
+  "following": 42,
+  "url": "https://github.com/hichambendarbi",
+  "repos_url": "https://api.github.com/users/hichambendarbi/repos",
+  "languages": [
+    {
+      "JavaScript": "21.20"
+    },
+    {
+      "CSS": "77.37"
+    },
+    {
+      "HTML": "1.43"
+    }
+  ],
+  "packages": {
+    "bootstrap": 5,
+    "react": 5,
+    "react-dom": 5,
+    "react-scripts": 5,
+    "reactstrap": 5,
+    "styled-components": 4,
+    "react-router-dom": 3,
+    "react-redux": 2,
+    "redux-thunk": 2,
+    "aos": 1
+  },
+  "devPackages": {
+    "typescript": 3,
+    "nodemon": 1,
+    "@babel/core": 1,
+    "@babel/preset-env": 1,
+    "babel-loader": 1,
+    "webpack": 1
+  }
+}

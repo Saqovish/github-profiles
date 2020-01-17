@@ -1,0 +1,54 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/12121506?v=4",
+  "login": "TAnas0",
+  "name": "Anas TIOUR",
+  "blog": "",
+  "bio": null,
+  "public_repos": 17,
+  "total_repos": null,
+  "followers": 13,
+  "following": 61,
+  "url": "https://github.com/TAnas0",
+  "repos_url": "https://api.github.com/users/TAnas0/repos",
+  "languages": [
+    {
+      "TypeScript": "7.62"
+    },
+    {
+      "JavaScript": "87.10"
+    },
+    {
+      "Dockerfile": "0.38"
+    },
+    {
+      "HTML": "3.91"
+    },
+    {
+      "CSS": "0.98"
+    }
+  ],
+  "packages": {
+    "@graphql-modules/core": 2,
+    "apollo-server": 2,
+    "graphql": 2,
+    "merge-graphql-schemas": 2,
+    "@babel/plugin-transform-runtime": 1,
+    "@babel/runtime": 1,
+    "config": 1,
+    "js-yaml": 1,
+    "prisma-client-lib": 1,
+    "@now/node": 1
+  },
+  "devPackages": {
+    "@types/node": 2,
+    "eslint": 2,
+    "typescript": 2,
+    "@babel/core": 1,
+    "@babel/preset-env": 1,
+    "@commitlint/config-angular": 1,
+    "@commitlint/prompt": 1,
+    "@types/graphql": 1,
+    "babel-eslint": 1,
+    "babel-loader": 1
+  }
+}

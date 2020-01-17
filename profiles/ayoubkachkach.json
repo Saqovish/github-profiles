@@ -1,0 +1,44 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/16275973?v=4",
+  "login": "ayoubkachkach",
+  "name": "Ayoub Kachkach",
+  "blog": "",
+  "bio": "I am majoring in Computer Science at Al Akhawayn University in Ifrane. I am passionate about AI, history and music.",
+  "public_repos": 18,
+  "total_repos": null,
+  "followers": 16,
+  "following": 25,
+  "url": "https://github.com/ayoubkachkach",
+  "repos_url": "https://api.github.com/users/ayoubkachkach/repos",
+  "languages": [
+    {
+      "Python": "28.58"
+    },
+    {
+      "PowerShell": "0.18"
+    },
+    {
+      "Shell": "0.09"
+    },
+    {
+      "HTML": "52.12"
+    },
+    {
+      "JavaScript": "12.50"
+    },
+    {
+      "CSS": "0.41"
+    },
+    {
+      "SQLPL": "0.16"
+    },
+    {
+      "Jupyter Notebook": "5.37"
+    },
+    {
+      "Haskell": "0.60"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

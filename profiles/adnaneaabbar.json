@@ -1,0 +1,57 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/44345798?v=4",
+  "login": "adnaneaabbar",
+  "name": "Adnane Aabbar",
+  "blog": "https://www.linkedin.com/in/adnane-aabbar/",
+  "bio": "Software Engineer in the making.",
+  "public_repos": 21,
+  "total_repos": null,
+  "followers": 20,
+  "following": 29,
+  "url": "https://github.com/adnaneaabbar",
+  "repos_url": "https://api.github.com/users/adnaneaabbar/repos",
+  "languages": [
+    {
+      "Java": "1.01"
+    },
+    {
+      "C++": "7.23"
+    },
+    {
+      "CSS": "13.22"
+    },
+    {
+      "HTML": "0.95"
+    },
+    {
+      "JavaScript": "76.49"
+    },
+    {
+      "Objective-C": "0.38"
+    },
+    {
+      "C#": "0.13"
+    },
+    {
+      "C": "0.59"
+    }
+  ],
+  "packages": {
+    "ejs": 3,
+    "express": 3,
+    "body-parser": 2,
+    "express-sanitizer": 2,
+    "method-override": 2,
+    "mongoose": 2,
+    "gulp": 1,
+    "gulp-sass": 1,
+    "gulp-concat": 1,
+    "gulp-minify-css": 1
+  },
+  "devPackages": {
+    "@ionic/v1-toolkit": 1,
+    "bower": 1,
+    "gulp-util": 1,
+    "shelljs": 1
+  }
+}

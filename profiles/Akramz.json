@@ -1,0 +1,46 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/11509740?v=4",
+  "login": "Akramz",
+  "name": "Akram Zaytar",
+  "blog": "http://www.akramz.space/",
+  "bio": "CS Ph.D. Student. Interned @IBMResearch. Climate Change • Low-Resource Natural Language Processing.",
+  "public_repos": 31,
+  "total_repos": null,
+  "followers": 30,
+  "following": 41,
+  "url": "https://github.com/Akramz",
+  "repos_url": "https://api.github.com/users/Akramz/repos",
+  "languages": [
+    {
+      "Java": "0.38"
+    },
+    {
+      "Ruby": "0.01"
+    },
+    {
+      "HTML": "0.12"
+    },
+    {
+      "JavaScript": "3.19"
+    },
+    {
+      "CSS": "1.99"
+    },
+    {
+      "Jupyter Notebook": "94.24"
+    },
+    {
+      "Python": "0.07"
+    },
+    {
+      "Makefile": "0.00"
+    }
+  ],
+  "packages": {
+    "bootstrap": 1,
+    "react": 1,
+    "react-dom": 1,
+    "react-scripts": 1
+  },
+  "devPackages": {}
+}

@@ -1,0 +1,36 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/20648104?v=4",
+  "login": "ahendouz",
+  "name": "Hicham Ahendouz",
+  "blog": "https://www.linkedin.com/in/ahendouz/",
+  "bio": "Full-Stack developer ",
+  "public_repos": 11,
+  "total_repos": null,
+  "followers": 8,
+  "following": 12,
+  "url": "https://github.com/ahendouz",
+  "repos_url": "https://api.github.com/users/ahendouz/repos",
+  "languages": [
+    {
+      "JavaScript": "95.93"
+    },
+    {
+      "HTML": "3.08"
+    },
+    {
+      "CSS": "0.99"
+    }
+  ],
+  "packages": {
+    "react": 5,
+    "react-dom": 5,
+    "react-scripts": 5,
+    "prop-types": 4,
+    "styled-components": 4,
+    "styled-icons": 3,
+    "react-router-dom": 2,
+    "react-redux": 1,
+    "redux": 1
+  },
+  "devPackages": {}
+}

@@ -1,0 +1,68 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/45685744?v=4",
+  "login": "mohammedSlimani",
+  "name": "Slimani Mohammed",
+  "blog": "",
+  "bio": "Software engineer and Javascript enthusiast. ",
+  "public_repos": 25,
+  "total_repos": null,
+  "followers": 47,
+  "following": 31,
+  "url": "https://github.com/mohammedSlimani",
+  "repos_url": "https://api.github.com/users/mohammedSlimani/repos",
+  "languages": [
+    {
+      "JavaScript": "51.44"
+    },
+    {
+      "CSS": "4.64"
+    },
+    {
+      "HTML": "10.51"
+    },
+    {
+      "TypeScript": "7.67"
+    },
+    {
+      "Java": "20.30"
+    },
+    {
+      "Dockerfile": "0.06"
+    },
+    {
+      "Python": "0.95"
+    },
+    {
+      "Objective-C": "0.49"
+    },
+    {
+      "Ruby": "0.27"
+    },
+    {
+      "C": "3.67"
+    }
+  ],
+  "packages": {
+    "react": 6,
+    "react-dom": 5,
+    "react-scripts": 5,
+    "express": 3,
+    "@babel/core": 2,
+    "@babel/node": 2,
+    "@babel/preset-env": 2,
+    "body-parser": 2,
+    "mongodb": 2,
+    "react-router-dom": 2
+  },
+  "devPackages": {
+    "@babel/core": 1,
+    "@babel/runtime": 1,
+    "@react-native-community/eslint-config": 1,
+    "babel-jest": 1,
+    "jest": 1,
+    "metro-react-native-babel-preset": 1,
+    "react-test-renderer": 1,
+    "eslint-config-prettier": 1,
+    "eslint-plugin-prettier": 1
+  }
+}

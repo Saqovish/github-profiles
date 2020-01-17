@@ -1,0 +1,55 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/30635693?v=4",
+  "login": "AXeL-dev",
+  "name": "AXeL",
+  "blog": "https://axel-dev.github.io/",
+  "bio": "Geek, thinker, full stack developer & open source enthusiast.",
+  "public_repos": 92,
+  "total_repos": null,
+  "followers": 75,
+  "following": 204,
+  "url": "https://github.com/AXeL-dev",
+  "repos_url": "https://api.github.com/users/AXeL-dev/repos",
+  "languages": [
+    {
+      "C": "1.66"
+    },
+    {
+      "JavaScript": "18.84"
+    },
+    {
+      "TypeScript": "0.01"
+    },
+    {
+      "HTML": "3.64"
+    },
+    {
+      "CSS": "14.91"
+    },
+    {
+      "PHP": "53.51"
+    },
+    {
+      "ASP": "0.14"
+    },
+    {
+      "C#": "4.11"
+    },
+    {
+      "Python": "3.19"
+    },
+    {
+      "Smarty": "0.00"
+    }
+  ],
+  "packages": {
+    "gulp": 1,
+    "gulp-file": 1,
+    "gulp-shell": 1,
+    "yargs": 1
+  },
+  "devPackages": {
+    "@angular/cli": 1,
+    "gulp-cli": 1
+  }
+}

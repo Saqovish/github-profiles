@@ -1,0 +1,42 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/45046748?v=4",
+  "login": "benhadinehoussam",
+  "name": "HoussamBenhadine",
+  "blog": "",
+  "bio": "Software engineering student at the National School for Computer Science and Systems Analysis (ENSIAS)",
+  "public_repos": 9,
+  "total_repos": null,
+  "followers": 4,
+  "following": 8,
+  "url": "https://github.com/benhadinehoussam",
+  "repos_url": "https://api.github.com/users/benhadinehoussam/repos",
+  "languages": [
+    {
+      "Java": "13.79"
+    },
+    {
+      "HTML": "6.70"
+    },
+    {
+      "JavaScript": "77.28"
+    },
+    {
+      "CSS": "2.23"
+    }
+  ],
+  "packages": {
+    "express": 5,
+    "cors": 4,
+    "axios": 3,
+    "cookie-parser": 2,
+    "debug": 2,
+    "http-errors": 2,
+    "jade": 2,
+    "jsonwebtoken": 2,
+    "mongoose": 2,
+    "morgan": 2
+  },
+  "devPackages": {
+    "nodemon": 1
+  }
+}

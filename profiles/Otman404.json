@@ -1,0 +1,41 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/43283622?v=4",
+  "login": "Otman404",
+  "name": null,
+  "blog": "",
+  "bio": "A Curious Computer Science Student  (  - .... .. -. -.- .-- . .-.. .-.. )",
+  "public_repos": 54,
+  "total_repos": null,
+  "followers": 29,
+  "following": 112,
+  "url": "https://github.com/Otman404",
+  "repos_url": "https://api.github.com/users/Otman404/repos",
+  "languages": [
+    {
+      "C": "0.09"
+    },
+    {
+      "C#": "2.50"
+    },
+    {
+      "JavaScript": "96.34"
+    },
+    {
+      "HTML": "0.74"
+    },
+    {
+      "Python": "0.18"
+    },
+    {
+      "CSS": "0.06"
+    },
+    {
+      "Dockerfile": "0.02"
+    },
+    {
+      "SQLPL": "0.06"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

@@ -1,0 +1,63 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/23082235?v=4",
+  "login": "salah3x",
+  "name": "Salah E. Loukili",
+  "blog": "https://linkedin.com/in/salah3x/",
+  "bio": "Full stack developer and open source enthusiast.",
+  "public_repos": 16,
+  "total_repos": null,
+  "followers": 10,
+  "following": 34,
+  "url": "https://github.com/salah3x",
+  "repos_url": "https://api.github.com/users/salah3x/repos",
+  "languages": [
+    {
+      "TypeScript": "32.42"
+    },
+    {
+      "HTML": "24.83"
+    },
+    {
+      "JavaScript": "5.23"
+    },
+    {
+      "CSS": "3.82"
+    },
+    {
+      "Java": "28.13"
+    },
+    {
+      "Python": "4.59"
+    },
+    {
+      "C++": "0.90"
+    },
+    {
+      "QMake": "0.06"
+    }
+  ],
+  "packages": {
+    "@angular/common": 4,
+    "@angular/core": 4,
+    "@angular/forms": 4,
+    "@angular/platform-browser": 4,
+    "@angular/platform-browser-dynamic": 4,
+    "@angular/router": 4,
+    "core-js": 4,
+    "rxjs": 4,
+    "zone.js": 4,
+    "@angular/compiler": 3
+  },
+  "devPackages": {
+    "@angular-devkit/build-angular": 4,
+    "@angular/cli": 4,
+    "@angular/compiler-cli": 4,
+    "@angular/language-service": 4,
+    "@types/jasmine": 4,
+    "@types/jasminewd2": 4,
+    "@types/node": 4,
+    "codelyzer": 4,
+    "jasmine-core": 4,
+    "jasmine-spec-reporter": 4
+  }
+}

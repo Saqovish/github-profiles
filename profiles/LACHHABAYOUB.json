@@ -1,0 +1,108 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/44031876?v=4",
+  "login": "LACHHABAYOUB",
+  "name": "LACHHAB AYOUB",
+  "blog": "https://www.linkedin.com/in/lachhabayoub",
+  "bio": "Software Engineer \r\nLachhabayouub@gmail.com",
+  "public_repos": 51,
+  "total_repos": null,
+  "followers": 6,
+  "following": 5,
+  "url": "https://github.com/LACHHABAYOUB",
+  "repos_url": "https://api.github.com/users/LACHHABAYOUB/repos",
+  "languages": [
+    {
+      "Shell": "0.22"
+    },
+    {
+      "HTML": "3.74"
+    },
+    {
+      "CSS": "25.80"
+    },
+    {
+      "C": "0.00"
+    },
+    {
+      "Smarty": "0.12"
+    },
+    {
+      "JavaScript": "48.36"
+    },
+    {
+      "Java": "2.70"
+    },
+    {
+      "TypeScript": "1.24"
+    },
+    {
+      "C++": "0.08"
+    },
+    {
+      "Ruby": "12.12"
+    },
+    {
+      "Python": "0.02"
+    },
+    {
+      "HCL": "0.01"
+    },
+    {
+      "Dockerfile": "0.01"
+    },
+    {
+      "PureBasic": "0.03"
+    },
+    {
+      "PHP": "5.44"
+    },
+    {
+      "M": "0.01"
+    },
+    {
+      "MATLAB": "0.00"
+    },
+    {
+      "Go": "0.02"
+    },
+    {
+      "Makefile": "0.00"
+    },
+    {
+      "TSQL": "0.06"
+    },
+    {
+      "Vue": "0.00"
+    },
+    {
+      "Hack": "0.02"
+    },
+    {
+      "Rust": "0.00"
+    }
+  ],
+  "packages": {
+    "@angular/common": 3,
+    "@angular/core": 3,
+    "@angular/forms": 3,
+    "@angular/http": 3,
+    "@angular/platform-browser": 3,
+    "@angular/platform-browser-dynamic": 3,
+    "@angular/router": 3,
+    "core-js": 3,
+    "rxjs": 3,
+    "zone.js": 3
+  },
+  "devPackages": {
+    "@angular/cli": 3,
+    "@angular/compiler-cli": 3,
+    "@types/jasmine": 3,
+    "@types/node": 3,
+    "codelyzer": 3,
+    "jasmine-core": 3,
+    "jasmine-spec-reporter": 3,
+    "karma": 3,
+    "karma-chrome-launcher": 3,
+    "karma-coverage-istanbul-reporter": 3
+  }
+}

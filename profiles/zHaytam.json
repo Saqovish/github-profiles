@@ -1,0 +1,41 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/34218324?v=4",
+  "login": "zHaytam",
+  "name": "Haytam Zanid",
+  "blog": "https://blog.zhaytam.com",
+  "bio": "An enthusiastic programmer that enjoys coding, reading code, hunting bugs and writing blog posts.",
+  "public_repos": 41,
+  "total_repos": null,
+  "followers": 28,
+  "following": 15,
+  "url": "https://github.com/zHaytam",
+  "repos_url": "https://api.github.com/users/zHaytam/repos",
+  "languages": [
+    {
+      "Python": "0.68"
+    },
+    {
+      "C#": "63.77"
+    },
+    {
+      "JavaScript": "24.85"
+    },
+    {
+      "CSS": "0.46"
+    },
+    {
+      "HTML": "0.27"
+    },
+    {
+      "TypeScript": "1.68"
+    },
+    {
+      "ShaderLab": "5.24"
+    },
+    {
+      "HLSL": "3.04"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

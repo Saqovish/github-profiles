@@ -1,0 +1,41 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/25710949?v=4",
+  "login": "ziadab",
+  "name": "Ziad Abouelfarah",
+  "blog": "",
+  "bio": "Hey !! \r\nI'm Ziad 18 years old and I'm Software and Backend Developer \r\nPlease Don't Be Shy And Take Look To My Project\r\nTogether We Develop The World",
+  "public_repos": 59,
+  "total_repos": null,
+  "followers": 17,
+  "following": 10,
+  "url": "https://github.com/ziadab",
+  "repos_url": "https://api.github.com/users/ziadab/repos",
+  "languages": [
+    {
+      "Python": "1.74"
+    },
+    {
+      "Jupyter Notebook": "41.83"
+    },
+    {
+      "Java": "55.57"
+    },
+    {
+      "Kotlin": "0.78"
+    },
+    {
+      "Assembly": "0.00"
+    },
+    {
+      "HTML": "0.05"
+    },
+    {
+      "CSS": "0.02"
+    },
+    {
+      "JavaScript": "0.01"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

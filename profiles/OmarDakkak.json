@@ -1,0 +1,74 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/43930902?v=4",
+  "login": "OmarDakkak",
+  "name": "Omar Dakkak",
+  "blog": "",
+  "bio": "I am 21 yo, from the north of Morocco and I am actually studying IT engineering in the National School of Applied Sciences in Al Hoceima.",
+  "public_repos": 13,
+  "total_repos": null,
+  "followers": 8,
+  "following": 26,
+  "url": "https://github.com/OmarDakkak",
+  "repos_url": "https://api.github.com/users/OmarDakkak/repos",
+  "languages": [
+    {
+      "Makefile": "3.86"
+    },
+    {
+      "C++": "3.67"
+    },
+    {
+      "C": "1.24"
+    },
+    {
+      "Shell": "0.88"
+    },
+    {
+      "PHP": "23.26"
+    },
+    {
+      "HTML": "15.30"
+    },
+    {
+      "CSS": "40.58"
+    },
+    {
+      "Java": "0.69"
+    },
+    {
+      "R": "1.70"
+    },
+    {
+      "Jupyter Notebook": "1.22"
+    },
+    {
+      "JavaScript": "6.24"
+    },
+    {
+      "TSQL": "1.28"
+    },
+    {
+      "Vue": "0.08"
+    }
+  ],
+  "packages": {
+    "react": 2,
+    "react-dom": 2,
+    "react-scripts": 2,
+    "styled-components": 1,
+    "react-mdl": 1,
+    "react-router-dom": 1
+  },
+  "devPackages": {
+    "eslint": 1,
+    "eslint-config-airbnb": 1,
+    "eslint-config-prettier": 1,
+    "eslint-config-wesbos": 1,
+    "eslint-plugin-html": 1,
+    "eslint-plugin-import": 1,
+    "eslint-plugin-jsx-a11y": 1,
+    "eslint-plugin-prettier": 1,
+    "eslint-plugin-react": 1,
+    "eslint-plugin-react-hooks": 1
+  }
+}

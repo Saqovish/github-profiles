@@ -1,0 +1,57 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/29286895?v=4",
+  "login": "oubihis",
+  "name": "oubihi said",
+  "blog": "oubihis.com",
+  "bio": "It's fine ...  ",
+  "public_repos": 36,
+  "total_repos": null,
+  "followers": 7,
+  "following": 44,
+  "url": "https://github.com/oubihis",
+  "repos_url": "https://api.github.com/users/oubihis/repos",
+  "languages": [
+    {
+      "Python": "1.51"
+    },
+    {
+      "HTML": "38.76"
+    },
+    {
+      "CSS": "20.17"
+    },
+    {
+      "JavaScript": "4.37"
+    },
+    {
+      "Vue": "3.36"
+    },
+    {
+      "PHP": "31.82"
+    }
+  ],
+  "packages": {
+    "core-js": 2,
+    "vue": 2,
+    "vuetify": 2,
+    "@types/lodash.defaultsdeep": 1,
+    "eslint-utils": 1,
+    "lodash": 1,
+    "axios": 1,
+    "bootstrap": 1,
+    "font-awesome": 1,
+    "fs-extra": 1
+  },
+  "devPackages": {
+    "@fortawesome/fontawesome-free": 2,
+    "@vue/cli-plugin-babel": 2,
+    "@vue/cli-plugin-eslint": 2,
+    "@vue/cli-service": 2,
+    "babel-eslint": 2,
+    "eslint": 2,
+    "eslint-plugin-vue": 2,
+    "stylus": 2,
+    "stylus-loader": 2,
+    "vue-cli-plugin-vuetify": 2
+  }
+}

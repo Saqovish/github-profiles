@@ -1,0 +1,29 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/44452937?v=4",
+  "login": "ourekouch",
+  "name": null,
+  "blog": "mounir.ourekouch@gmail.com",
+  "bio": "Software engineering student. Passionate about Data Science and Machine Learning. I feel better with Python but also I enjoy coding with C and Java. ",
+  "public_repos": 8,
+  "total_repos": null,
+  "followers": 2,
+  "following": 3,
+  "url": "https://github.com/ourekouch",
+  "repos_url": "https://api.github.com/users/ourekouch/repos",
+  "languages": [
+    {
+      "Jupyter Notebook": "97.38"
+    },
+    {
+      "Java": "1.92"
+    },
+    {
+      "C": "0.48"
+    },
+    {
+      "Python": "0.21"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

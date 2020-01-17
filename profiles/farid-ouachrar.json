@@ -1,0 +1,51 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/20015003?v=4",
+  "login": "farid-ouachrar",
+  "name": "Farid Ouachrar",
+  "blog": "",
+  "bio": "Software Engineer @veylinx.",
+  "public_repos": 15,
+  "total_repos": null,
+  "followers": 6,
+  "following": 4,
+  "url": "https://github.com/farid-ouachrar",
+  "repos_url": "https://api.github.com/users/farid-ouachrar/repos",
+  "languages": [
+    {
+      "JavaScript": "88.74"
+    },
+    {
+      "Objective-C": "4.61"
+    },
+    {
+      "Java": "2.73"
+    },
+    {
+      "Python": "2.32"
+    },
+    {
+      "Ruby": "1.59"
+    }
+  ],
+  "packages": {
+    "axios": 1,
+    "react": 1,
+    "react-native": 1,
+    "react-native-admob": 1,
+    "react-native-device-info": 1,
+    "react-native-gesture-handler": 1,
+    "react-native-google-analytics": 1,
+    "react-native-image-picker": 1,
+    "react-native-linear-gradient": 1,
+    "react-native-progress-circle": 1
+  },
+  "devPackages": {
+    "@babel/core": 1,
+    "@babel/runtime": 1,
+    "babel-jest": 1,
+    "jest": 1,
+    "jetifier": 1,
+    "metro-react-native-babel-preset": 1,
+    "react-test-renderer": 1
+  }
+}

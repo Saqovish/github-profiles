@@ -1,0 +1,41 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/45128941?v=4",
+  "login": "HmimssaSoufiane",
+  "name": "Hmimssa Soufiane",
+  "blog": "",
+  "bio": "Software Developer\r\n",
+  "public_repos": 9,
+  "total_repos": null,
+  "followers": 10,
+  "following": 28,
+  "url": "https://github.com/HmimssaSoufiane",
+  "repos_url": "https://api.github.com/users/HmimssaSoufiane/repos",
+  "languages": [
+    {
+      "Hack": "1.45"
+    },
+    {
+      "HTML": "30.79"
+    },
+    {
+      "PHP": "0.32"
+    },
+    {
+      "CSS": "11.14"
+    },
+    {
+      "Java": "17.69"
+    },
+    {
+      "C++": "20.02"
+    },
+    {
+      "C": "16.79"
+    },
+    {
+      "JavaScript": "1.79"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

@@ -1,0 +1,54 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/42141213?v=4",
+  "login": "mozart98",
+  "name": "Assila_Dev",
+  "blog": "https://www.linkedin.com/in/mohamed-assila-bb1058169/",
+  "bio": "Junior application developer",
+  "public_repos": 31,
+  "total_repos": null,
+  "followers": 12,
+  "following": 28,
+  "url": "https://github.com/mozart98",
+  "repos_url": "https://api.github.com/users/mozart98/repos",
+  "languages": [
+    {
+      "TypeScript": "44.99"
+    },
+    {
+      "HTML": "18.39"
+    },
+    {
+      "JavaScript": "11.09"
+    },
+    {
+      "CSS": "0.98"
+    },
+    {
+      "Java": "24.55"
+    }
+  ],
+  "packages": {
+    "@angular/animations": 4,
+    "@angular/common": 4,
+    "@angular/compiler": 4,
+    "@angular/core": 4,
+    "@angular/forms": 4,
+    "@angular/platform-browser": 4,
+    "@angular/platform-browser-dynamic": 4,
+    "@angular/router": 4,
+    "rxjs": 4,
+    "zone.js": 4
+  },
+  "devPackages": {
+    "@angular-devkit/build-angular": 4,
+    "@angular/cli": 4,
+    "@angular/compiler-cli": 4,
+    "@angular/language-service": 4,
+    "@types/jasmine": 4,
+    "@types/jasminewd2": 4,
+    "@types/node": 4,
+    "codelyzer": 4,
+    "jasmine-core": 4,
+    "jasmine-spec-reporter": 4
+  }
+}

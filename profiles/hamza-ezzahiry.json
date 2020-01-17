@@ -1,0 +1,29 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/25698880?v=4",
+  "login": "hamza-ezzahiry",
+  "name": "SpiderX",
+  "blog": "",
+  "bio": "1337 School student,\r\nEx-master student FSDM,\r\nAdmin Competitive Programming Club 1337 (http://www.1337cpc.team)",
+  "public_repos": 25,
+  "total_repos": null,
+  "followers": 26,
+  "following": 24,
+  "url": "https://github.com/hamza-ezzahiry",
+  "repos_url": "https://api.github.com/users/hamza-ezzahiry/repos",
+  "languages": [
+    {
+      "Shell": "0.12"
+    },
+    {
+      "C++": "0.29"
+    },
+    {
+      "C": "96.51"
+    },
+    {
+      "Makefile": "3.07"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

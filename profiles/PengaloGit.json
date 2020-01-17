@@ -1,0 +1,26 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/36376593?v=4",
+  "login": "PengaloGit",
+  "name": "MAADA Loukmane",
+  "blog": "",
+  "bio": "Game lover, coding  enthusiast and meme maker.",
+  "public_repos": 15,
+  "total_repos": null,
+  "followers": 4,
+  "following": 15,
+  "url": "https://github.com/PengaloGit",
+  "repos_url": "https://api.github.com/users/PengaloGit/repos",
+  "languages": [
+    {
+      "C++": "55.23"
+    },
+    {
+      "Java": "43.60"
+    },
+    {
+      "CMake": "1.17"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

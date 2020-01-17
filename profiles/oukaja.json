@@ -1,0 +1,47 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/8881699?v=4",
+  "login": "oukaja",
+  "name": "oukaja",
+  "blog": "https://www.linkedin.com/in/oukaja/",
+  "bio": "Data Science | Business Intelligence | Web & Mobile Development | DevOps",
+  "public_repos": 61,
+  "total_repos": null,
+  "followers": 4,
+  "following": 9,
+  "url": "https://github.com/oukaja",
+  "repos_url": "https://api.github.com/users/oukaja/repos",
+  "languages": [
+    {
+      "Python": "5.22"
+    },
+    {
+      "PHP": "31.85"
+    },
+    {
+      "HTML": "21.12"
+    },
+    {
+      "CSS": "2.29"
+    },
+    {
+      "ApacheConf": "0.61"
+    },
+    {
+      "Shell": "0.31"
+    },
+    {
+      "JavaScript": "33.51"
+    },
+    {
+      "Batchfile": "0.07"
+    },
+    {
+      "Dockerfile": "0.08"
+    },
+    {
+      "Java": "4.95"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

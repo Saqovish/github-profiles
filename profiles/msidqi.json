@@ -1,0 +1,80 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/42954251?v=4",
+  "login": "msidqi",
+  "name": "vmod",
+  "blog": "https://vmod.dev",
+  "bio": "1337 / 42 Network\r\nsidqimouad0@gmail.com",
+  "public_repos": 24,
+  "total_repos": null,
+  "followers": 21,
+  "following": 21,
+  "url": "https://github.com/msidqi",
+  "repos_url": "https://api.github.com/users/msidqi/repos",
+  "languages": [
+    {
+      "ShaderLab": "1.09"
+    },
+    {
+      "C#": "1.40"
+    },
+    {
+      "Rich Text Format": "0.61"
+    },
+    {
+      "HLSL": "0.12"
+    },
+    {
+      "PHP": "21.41"
+    },
+    {
+      "CSS": "0.30"
+    },
+    {
+      "JavaScript": "2.49"
+    },
+    {
+      "HTML": "0.31"
+    },
+    {
+      "TSQL": "0.03"
+    },
+    {
+      "Dockerfile": "0.63"
+    },
+    {
+      "Ruby": "0.13"
+    },
+    {
+      "C": "66.01"
+    },
+    {
+      "Makefile": "0.77"
+    },
+    {
+      "Shell": "0.01"
+    },
+    {
+      "Objective-C": "1.99"
+    },
+    {
+      "Roff": "1.91"
+    },
+    {
+      "Python": "0.26"
+    },
+    {
+      "C++": "0.51"
+    },
+    {
+      "Perl": "0.01"
+    },
+    {
+      "PLSQL": "0.01"
+    },
+    {
+      "CMake": "0.01"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

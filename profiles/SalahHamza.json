@@ -1,0 +1,51 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/24724665?v=4",
+  "login": "SalahHamza",
+  "name": "Hamza",
+  "blog": "https://www.linkedin.com/in/salahhamza/",
+  "bio": "Front-end developer, interested in web tooling, automation and performance. Currently focusing on sharpening my React skills",
+  "public_repos": 26,
+  "total_repos": null,
+  "followers": 11,
+  "following": 28,
+  "url": "https://github.com/SalahHamza",
+  "repos_url": "https://api.github.com/users/SalahHamza/repos",
+  "languages": [
+    {
+      "Python": "3.10"
+    },
+    {
+      "JavaScript": "42.85"
+    },
+    {
+      "HTML": "37.62"
+    },
+    {
+      "CSS": "16.43"
+    }
+  ],
+  "packages": {
+    "@babel/polyfill": 2,
+    "@salahhamza/snackbars": 2,
+    "idb": 2,
+    "react": 2,
+    "react-dom": 2,
+    "react-scripts": 2,
+    "compression": 1,
+    "dotenv": 1,
+    "ejs": 1,
+    "express": 1
+  },
+  "devPackages": {
+    "@babel/core": 3,
+    "@babel/preset-env": 3,
+    "grunt": 2,
+    "grunt-contrib-clean": 2,
+    "grunt-contrib-copy": 2,
+    "grunt-contrib-jshint": 2,
+    "grunt-contrib-uglify": 2,
+    "grunt-markdown": 2,
+    "grunt-mkdir": 2,
+    "babel-loader": 2
+  }
+}

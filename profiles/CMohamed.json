@@ -1,0 +1,63 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/27320911?v=4",
+  "login": "CMohamed",
+  "name": "CMohamed",
+  "blog": "",
+  "bio": "Software Engineer",
+  "public_repos": 44,
+  "total_repos": null,
+  "followers": 10,
+  "following": 31,
+  "url": "https://github.com/CMohamed",
+  "repos_url": "https://api.github.com/users/CMohamed/repos",
+  "languages": [
+    {
+      "TypeScript": "19.88"
+    },
+    {
+      "HTML": "46.87"
+    },
+    {
+      "JavaScript": "22.40"
+    },
+    {
+      "CSS": "2.51"
+    },
+    {
+      "Java": "5.27"
+    },
+    {
+      "Dart": "1.91"
+    },
+    {
+      "Objective-C": "0.89"
+    },
+    {
+      "Python": "0.28"
+    }
+  ],
+  "packages": {
+    "react": 4,
+    "react-dom": 3,
+    "react-scripts": 3,
+    "@angular/animations": 2,
+    "@angular/common": 2,
+    "@angular/compiler": 2,
+    "@angular/core": 2,
+    "@angular/forms": 2,
+    "@angular/http": 2,
+    "@angular/platform-browser": 2
+  },
+  "devPackages": {
+    "@angular-devkit/build-angular": 2,
+    "@angular/cli": 2,
+    "@angular/compiler-cli": 2,
+    "@angular/language-service": 2,
+    "@types/jasmine": 2,
+    "@types/jasminewd2": 2,
+    "@types/node": 2,
+    "codelyzer": 2,
+    "jasmine-core": 2,
+    "jasmine-spec-reporter": 2
+  }
+}

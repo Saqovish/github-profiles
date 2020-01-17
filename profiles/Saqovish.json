@@ -1,0 +1,61 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/34965936?v=4",
+  "login": "Saqovish",
+  "name": "Abdellah SAQ",
+  "blog": "https://www.abdellahsaq.com",
+  "bio": "Full-stack developer, passionate about building products with great UI/UX",
+  "public_repos": 11,
+  "total_private_repos": 21,
+  "total_repos": 32,
+  "followers": 2,
+  "following": 3,
+  "url": "https://github.com/Saqovish",
+  "repos_url": "https://api.github.com/users/Saqovish/repos",
+  "languages": [
+    {
+      "JavaScript": "85.07"
+    },
+    {
+      "HTML": "3.77"
+    },
+    {
+      "CSS": "9.33"
+    },
+    {
+      "PHP": "1.43"
+    },
+    {
+      "Hack": "0.33"
+    },
+    {
+      "Dockerfile": "0.05"
+    },
+    {
+      "Shell": "0.03"
+    }
+  ],
+  "packages": {
+    "express": 2,
+    "react": 2,
+    "react-dom": 2,
+    "react-redux": 2,
+    "redux": 2,
+    "redux-thunk": 2,
+    "styled-components": 2,
+    "body-parser": 1,
+    "netlify-lambda": 1,
+    "serverless-http": 1
+  },
+  "devPackages": {
+    "nodemon": 1,
+    "babel-preset-expo": 1,
+    "@babel/core": 1,
+    "@babel/plugin-proposal-class-properties": 1,
+    "@babel/plugin-syntax-dynamic-import": 1,
+    "@babel/preset-env": 1,
+    "@babel/preset-react": 1,
+    "babel-loader": 1,
+    "css-loader": 1,
+    "file-loader": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/412895?v=4",
+  "login": "kytwb",
+  "name": "Amine 昂明",
+  "blog": "https://twitter.com/kytwb",
+  "bio": "Core @getferdi, contributor of many. I remove my forks once my pull requests are merged. ",
+  "public_repos": 5,
+  "total_repos": null,
+  "followers": 210,
+  "following": 4,
+  "url": "https://github.com/kytwb",
+  "repos_url": "https://api.github.com/users/kytwb/repos",
+  "languages": [
+    {
+      "C++": "19.20"
+    },
+    {
+      "QMake": "0.57"
+    },
+    {
+      "C": "58.71"
+    },
+    {
+      "PHP": "19.95"
+    },
+    {
+      "Makefile": "1.51"
+    },
+    {
+      "Shell": "0.06"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

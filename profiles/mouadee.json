@@ -1,0 +1,55 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/18648094?v=4",
+  "login": "mouadee",
+  "name": "ELAZZAOUI",
+  "blog": "www.filmzwen.com",
+  "bio": "21 Yo moroccan, UI/UX Developer, Experience With Programming Language and Frameworks Like PHP, JS, MySQL, Laravel, Vue JS, Bootstrap, JQuery, HTML, CSS ...",
+  "public_repos": 23,
+  "total_repos": null,
+  "followers": 12,
+  "following": 34,
+  "url": "https://github.com/mouadee",
+  "repos_url": "https://api.github.com/users/mouadee/repos",
+  "languages": [
+    {
+      "PHP": "34.86"
+    },
+    {
+      "HTML": "5.09"
+    },
+    {
+      "Vue": "1.20"
+    },
+    {
+      "CSS": "6.25"
+    },
+    {
+      "JavaScript": "52.39"
+    },
+    {
+      "Hack": "0.22"
+    }
+  ],
+  "packages": {
+    "vue": 7,
+    "vuex": 3,
+    "react": 2,
+    "react-dom": 2,
+    "react-scripts": 2,
+    "vue-router": 2,
+    "imdb-api": 1,
+    "radium": 1
+  },
+  "devPackages": {
+    "vue-template-compiler": 8,
+    "@vue/cli-plugin-babel": 7,
+    "@vue/cli-plugin-eslint": 7,
+    "@vue/cli-service": 7,
+    "babel-eslint": 7,
+    "eslint": 7,
+    "eslint-plugin-vue": 7,
+    "axios": 3,
+    "bootstrap": 3,
+    "popper.js": 3
+  }
+}

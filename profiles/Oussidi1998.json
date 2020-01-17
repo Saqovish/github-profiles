@@ -1,0 +1,71 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/26677300?v=4",
+  "login": "Oussidi1998",
+  "name": "OUSSIDI MOHAMED",
+  "blog": "https://oussidi1998.github.io",
+  "bio": "Mohamed oussidi 21 years old web developer and web designer freelancer since 2017",
+  "public_repos": 19,
+  "total_repos": null,
+  "followers": 13,
+  "following": 35,
+  "url": "https://github.com/Oussidi1998",
+  "repos_url": "https://api.github.com/users/Oussidi1998/repos",
+  "languages": [
+    {
+      "PHP": "0.19"
+    },
+    {
+      "CSS": "3.66"
+    },
+    {
+      "Assembly": "49.12"
+    },
+    {
+      "Java": "20.13"
+    },
+    {
+      "JavaScript": "18.45"
+    },
+    {
+      "C#": "3.82"
+    },
+    {
+      "PowerShell": "0.97"
+    },
+    {
+      "Pascal": "0.64"
+    },
+    {
+      "HTML": "0.58"
+    },
+    {
+      "Puppet": "0.14"
+    },
+    {
+      "ASP": "0.02"
+    },
+    {
+      "TypeScript": "0.03"
+    },
+    {
+      "TSQL": "2.26"
+    }
+  ],
+  "packages": {
+    "react": 5,
+    "react-dom": 5,
+    "react-scripts": 3,
+    "gh-pages": 2,
+    "semantic-ui-react": 2,
+    "gatsby": 2,
+    "gatsby-image": 2,
+    "gatsby-plugin-manifest": 2,
+    "gatsby-plugin-offline": 2,
+    "gatsby-plugin-react-helmet": 2
+  },
+  "devPackages": {
+    "prettier": 2,
+    "@ionic/app-scripts": 1,
+    "typescript": 1
+  }
+}

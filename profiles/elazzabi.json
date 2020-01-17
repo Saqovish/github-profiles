@@ -1,0 +1,44 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/12542046?v=4",
+  "login": "elazzabi",
+  "name": "Ahmed",
+  "blog": "http://elazzabi.com",
+  "bio": "I build things",
+  "public_repos": 20,
+  "total_repos": null,
+  "followers": 17,
+  "following": 4,
+  "url": "https://github.com/elazzabi",
+  "repos_url": "https://api.github.com/users/elazzabi/repos",
+  "languages": [
+    {
+      "JavaScript": "11.36"
+    },
+    {
+      "HTML": "3.30"
+    },
+    {
+      "CSS": "85.34"
+    }
+  ],
+  "packages": {
+    "material-ui": 2,
+    "react": 2,
+    "react-dom": 2,
+    "react-tap-event-plugin": 2,
+    "longest-common-subsequence": 1,
+    "rc-slider": 1,
+    "soundmanager2": 1,
+    "ramda": 1,
+    "axios": 1,
+    "enzyme": 1
+  },
+  "devPackages": {
+    "ava": 5,
+    "xo": 4,
+    "react-scripts": 2,
+    "sw-precache": 1,
+    "babel-cli": 1,
+    "babel-preset-es2015": 1
+  }
+}

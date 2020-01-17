@@ -1,0 +1,87 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/20077848?v=4",
+  "login": "AyoubEd",
+  "name": "AyoubED",
+  "blog": "https://www.linkedin.com/in/ayoub-eddakhly/",
+  "bio": "Software Engineering Student | Self Growth Seeker ~[Software brewer]~\r\n( • - •)",
+  "public_repos": 21,
+  "total_repos": null,
+  "followers": 12,
+  "following": 56,
+  "url": "https://github.com/AyoubEd",
+  "repos_url": "https://api.github.com/users/AyoubEd/repos",
+  "languages": [
+    {
+      "JavaScript": "10.22"
+    },
+    {
+      "HTML": "13.02"
+    },
+    {
+      "CSS": "0.19"
+    },
+    {
+      "C++": "2.72"
+    },
+    {
+      "Shell": "0.95"
+    },
+    {
+      "Python": "0.04"
+    },
+    {
+      "Java": "0.09"
+    },
+    {
+      "Jupyter Notebook": "0.16"
+    },
+    {
+      "Go": "0.26"
+    },
+    {
+      "C": "67.23"
+    },
+    {
+      "Makefile": "2.25"
+    },
+    {
+      "Assembly": "1.53"
+    },
+    {
+      "Perl": "0.47"
+    },
+    {
+      "Objective-C": "0.10"
+    },
+    {
+      "Perl 6": "0.04"
+    },
+    {
+      "TypeScript": "0.74"
+    }
+  ],
+  "packages": {
+    "graphql": 3,
+    "apollo-link-http": 2,
+    "apollo-link-ws": 2,
+    "subscriptions-transport-ws": 2,
+    "@material-ui/core": 2,
+    "@material-ui/icons": 2,
+    "classnames": 2,
+    "react": 2,
+    "react-dom": 2,
+    "react-router-dom": 2
+  },
+  "devPackages": {
+    "jest": 1,
+    "nodemon": 1,
+    "gh-pages": 1,
+    "serverless-offline": 1,
+    "@types/aws-lambda": 1,
+    "@types/node": 1,
+    "serverless-webpack": 1,
+    "ts-loader": 1,
+    "typescript": 1,
+    "webpack": 1
+  }
+}

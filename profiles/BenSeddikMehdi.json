@@ -1,0 +1,38 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/43390471?v=4",
+  "login": "BenSeddikMehdi",
+  "name": "Mehdi",
+  "blog": "https://www.linkedin.com/in/el-mehdi-benseddik-28889a12b/",
+  "bio": "Major Engineer in Electronic & Embedded Systems Design",
+  "public_repos": 37,
+  "total_repos": null,
+  "followers": 7,
+  "following": 7,
+  "url": "https://github.com/BenSeddikMehdi",
+  "repos_url": "https://api.github.com/users/BenSeddikMehdi/repos",
+  "languages": [
+    {
+      "MATLAB": "11.15"
+    },
+    {
+      "C++": "1.11"
+    },
+    {
+      "C": "53.80"
+    },
+    {
+      "Makefile": "17.18"
+    },
+    {
+      "CMake": "14.05"
+    },
+    {
+      "Assembly": "2.03"
+    },
+    {
+      "Batchfile": "0.68"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

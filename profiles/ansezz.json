@@ -1,0 +1,66 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/8946258?v=4",
+  "login": "ansezz",
+  "name": "ANASS EZ-ZOUAINE",
+  "blog": "",
+  "bio": "Lead Web Developer PHP Laravel & VueJs Freelancer.",
+  "public_repos": 19,
+  "total_repos": null,
+  "followers": 19,
+  "following": 21,
+  "url": "https://github.com/ansezz",
+  "repos_url": "https://api.github.com/users/ansezz/repos",
+  "languages": [
+    {
+      "PHP": "38.77"
+    },
+    {
+      "Ruby": "0.48"
+    },
+    {
+      "HTML": "4.11"
+    },
+    {
+      "DIGITAL Command Language": "0.09"
+    },
+    {
+      "Vue": "17.38"
+    },
+    {
+      "CSS": "17.89"
+    },
+    {
+      "Shell": "0.07"
+    },
+    {
+      "M4": "0.06"
+    },
+    {
+      "JavaScript": "21.14"
+    }
+  ],
+  "packages": {
+    "vue-router": 3,
+    "vue-i18n": 3,
+    "axios": 3,
+    "vuex": 2,
+    "nuxt": 2,
+    "vue": 2,
+    "element-ui": 1,
+    "bootstrap": 1,
+    "chartist": 1,
+    "vue-clickaway": 1
+  },
+  "devPackages": {
+    "cross-env": 7,
+    "axios": 5,
+    "bootstrap": 5,
+    "popper.js": 5,
+    "jquery": 5,
+    "laravel-mix": 5,
+    "lodash": 5,
+    "vue": 5,
+    "sass-loader": 5,
+    "babel-eslint": 5
+  }
+}

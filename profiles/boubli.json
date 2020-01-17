@@ -1,0 +1,48 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/26576840?v=4",
+  "login": "boubli",
+  "name": "Youssef Boubli",
+  "blog": "https://boubli.github.io/Youssef-Boubli",
+  "bio": "Youssef 19 Years old ago, Designer and developer, i love Programming :) ",
+  "public_repos": 17,
+  "total_repos": null,
+  "followers": 6,
+  "following": 1,
+  "url": "https://github.com/boubli",
+  "repos_url": "https://api.github.com/users/boubli/repos",
+  "languages": [
+    {
+      "Python": "2.41"
+    },
+    {
+      "HTML": "3.53"
+    },
+    {
+      "CSS": "2.61"
+    },
+    {
+      "PHP": "0.09"
+    },
+    {
+      "C": "71.00"
+    },
+    {
+      "C++": "1.54"
+    },
+    {
+      "JavaScript": "18.17"
+    },
+    {
+      "Ruby": "0.65"
+    }
+  ],
+  "packages": {},
+  "devPackages": {
+    "gulp": 1,
+    "gulp-plumber": 1,
+    "gulp-rename": 1,
+    "gulp-sass": 1,
+    "gulp-sourcemaps": 1,
+    "gulp-uglify": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/5004111?v=4",
+  "login": "mehdibo",
+  "name": "Mehdi Bounya",
+  "blog": "https://stackoverflow.com/users/2595450/mehdi-bounya",
+  "bio": "student@1337.ma\r\n\r\nKeybase: https://keybase.io/mehdibounya\r\n\r\nhttps://twitter.com/bounyamehdi",
+  "public_repos": 30,
+  "total_repos": null,
+  "followers": 33,
+  "following": 3,
+  "url": "https://github.com/mehdibo",
+  "repos_url": "https://api.github.com/users/mehdibo/repos",
+  "languages": [
+    {
+      "Shell": "2.59"
+    },
+    {
+      "C": "4.10"
+    },
+    {
+      "PHP": "82.56"
+    },
+    {
+      "JavaScript": "7.20"
+    },
+    {
+      "HTML": "1.38"
+    },
+    {
+      "CSS": "0.58"
+    },
+    {
+      "Dockerfile": "1.57"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

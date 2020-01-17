@@ -1,0 +1,38 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/42421578?v=4",
+  "login": "aalouaoui",
+  "name": "AALOUAOUI Khalid",
+  "blog": "https://www.fiverr.com/aalouaoui",
+  "bio": "A Mechatronics specialist and JavaScript Front-end Developer.\r\nCurrently, studying Aircraft maintenance and back-end development with NodeJS.",
+  "public_repos": 10,
+  "total_repos": null,
+  "followers": 2,
+  "following": 6,
+  "url": "https://github.com/aalouaoui",
+  "repos_url": "https://api.github.com/users/aalouaoui/repos",
+  "languages": [
+    {
+      "JavaScript": "80.03"
+    },
+    {
+      "HTML": "10.21"
+    },
+    {
+      "CSS": "9.77"
+    }
+  ],
+  "packages": {
+    "react": 5,
+    "react-dom": 5,
+    "react-scripts": 5,
+    "styled-components": 3,
+    "react-router-dom": 1,
+    "date-fns": 1,
+    "moment": 1,
+    "react-datepicker": 1,
+    "hookrouter": 1
+  },
+  "devPackages": {
+    "typescript": 2
+  }
+}

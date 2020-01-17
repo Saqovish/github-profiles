@@ -1,0 +1,50 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/36106226?v=4",
+  "login": "youcef-barhdadi",
+  "name": "youcef barhdadi",
+  "blog": "",
+  "bio": null,
+  "public_repos": 31,
+  "total_repos": null,
+  "followers": 10,
+  "following": 13,
+  "url": "https://github.com/youcef-barhdadi",
+  "repos_url": "https://api.github.com/users/youcef-barhdadi/repos",
+  "languages": [
+    {
+      "C": "25.30"
+    },
+    {
+      "Makefile": "0.59"
+    },
+    {
+      "Java": "0.85"
+    },
+    {
+      "JavaScript": "23.77"
+    },
+    {
+      "HTML": "11.33"
+    },
+    {
+      "C#": "34.76"
+    },
+    {
+      "CSS": "2.34"
+    },
+    {
+      "ASP": "0.58"
+    },
+    {
+      "Assembly": "0.16"
+    },
+    {
+      "Python": "0.05"
+    },
+    {
+      "TSQL": "0.27"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

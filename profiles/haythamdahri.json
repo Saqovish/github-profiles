@@ -1,0 +1,78 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/14081585?v=4",
+  "login": "haythamdahri",
+  "name": "HAYTHAM DAHRI",
+  "blog": "http://www.linkedin.com/in/haytham-dahri",
+  "bio": "Java/JEE Software Developer",
+  "public_repos": 58,
+  "total_repos": null,
+  "followers": 4,
+  "following": 6,
+  "url": "https://github.com/haythamdahri",
+  "repos_url": "https://api.github.com/users/haythamdahri/repos",
+  "languages": [
+    {
+      "TypeScript": "0.22"
+    },
+    {
+      "HTML": "1.48"
+    },
+    {
+      "CSS": "8.41"
+    },
+    {
+      "JavaScript": "22.69"
+    },
+    {
+      "Python": "65.77"
+    },
+    {
+      "C": "0.36"
+    },
+    {
+      "C++": "0.12"
+    },
+    {
+      "Fortran": "0.01"
+    },
+    {
+      "Shell": "0.02"
+    },
+    {
+      "Java": "0.88"
+    },
+    {
+      "GAP": "0.02"
+    },
+    {
+      "Jupyter Notebook": "0.01"
+    },
+    {
+      "PowerShell": "0.00"
+    }
+  ],
+  "packages": {
+    "@angular/animations": 10,
+    "@angular/common": 10,
+    "@angular/compiler": 10,
+    "@angular/core": 10,
+    "@angular/forms": 10,
+    "@angular/platform-browser": 10,
+    "@angular/platform-browser-dynamic": 10,
+    "@angular/router": 10,
+    "bootstrap": 10,
+    "rxjs": 10
+  },
+  "devPackages": {
+    "@angular-devkit/build-angular": 10,
+    "@angular/cli": 10,
+    "@angular/compiler-cli": 10,
+    "@angular/language-service": 10,
+    "@types/jasmine": 10,
+    "@types/jasminewd2": 10,
+    "@types/node": 10,
+    "codelyzer": 10,
+    "jasmine-core": 10,
+    "jasmine-spec-reporter": 10
+  }
+}

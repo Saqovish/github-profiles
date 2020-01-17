@@ -1,0 +1,35 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/27893849?v=4",
+  "login": "kayveen",
+  "name": "Kay Degila",
+  "blog": "",
+  "bio": "Data Enthusiast\r\n\r\nhttps://kevindegila.wordpress.com/",
+  "public_repos": 24,
+  "total_repos": null,
+  "followers": 5,
+  "following": 24,
+  "url": "https://github.com/kayveen",
+  "repos_url": "https://api.github.com/users/kayveen/repos",
+  "languages": [
+    {
+      "Jupyter Notebook": "93.45"
+    },
+    {
+      "HTML": "2.52"
+    },
+    {
+      "Python": "1.94"
+    },
+    {
+      "CSS": "1.89"
+    },
+    {
+      "Ruby": "0.16"
+    },
+    {
+      "Shell": "0.05"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

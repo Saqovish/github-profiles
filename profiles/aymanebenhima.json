@@ -1,0 +1,57 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/17283908?v=4",
+  "login": "aymanebenhima",
+  "name": "AYMANE BENHIMA",
+  "blog": "https://aymane.me",
+  "bio": "$me = {\r\n \"full name\" : \"Aymane Benhima\",\r\n \"age\" : 25,\r\n \"job\" : \"Full Stack Web Developer\",\r\n\"level\" : \"Intermediate\",\r\n\"hobbies\" : \"slaying bugs\"\r\n};",
+  "public_repos": 13,
+  "total_repos": null,
+  "followers": 9,
+  "following": 30,
+  "url": "https://github.com/aymanebenhima",
+  "repos_url": "https://api.github.com/users/aymanebenhima/repos",
+  "languages": [
+    {
+      "TypeScript": "1.27"
+    },
+    {
+      "HTML": "74.59"
+    },
+    {
+      "JavaScript": "1.60"
+    },
+    {
+      "CSS": "8.68"
+    },
+    {
+      "PHP": "13.84"
+    },
+    {
+      "Vue": "0.02"
+    }
+  ],
+  "packages": {
+    "@angular/animations": 2,
+    "@angular/common": 2,
+    "@angular/compiler": 2,
+    "@angular/core": 2,
+    "@angular/forms": 2,
+    "@angular/platform-browser": 2,
+    "@angular/platform-browser-dynamic": 2,
+    "@angular/router": 2,
+    "rxjs": 2,
+    "tslib": 2
+  },
+  "devPackages": {
+    "@angular-devkit/build-angular": 2,
+    "@angular/cli": 2,
+    "@angular/compiler-cli": 2,
+    "@angular/language-service": 2,
+    "@types/node": 2,
+    "@types/jasmine": 2,
+    "@types/jasminewd2": 2,
+    "codelyzer": 2,
+    "jasmine-core": 2,
+    "jasmine-spec-reporter": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/25616982?v=4",
+  "login": "AyoubLa",
+  "name": "Ayoub Lahbali",
+  "blog": "",
+  "bio": "Web developer PHP",
+  "public_repos": 23,
+  "total_repos": null,
+  "followers": 3,
+  "following": 4,
+  "url": "https://github.com/AyoubLa",
+  "repos_url": "https://api.github.com/users/AyoubLa/repos",
+  "languages": [
+    {
+      "JavaScript": "5.45"
+    },
+    {
+      "HTML": "1.92"
+    },
+    {
+      "PHP": "90.34"
+    },
+    {
+      "CSS": "2.16"
+    },
+    {
+      "Shell": "0.13"
+    },
+    {
+      "Hack": "0.00"
+    },
+    {
+      "Java": "0.00"
+    }
+  ],
+  "packages": {
+    "grunt": 1
+  },
+  "devPackages": {
+    "grunt-contrib-sass": 2,
+    "node-sass": 2,
+    "sass-loader": 2,
+    "webpack": 2,
+    "webpack-cli": 2,
+    "@symfony/webpack-encore": 2,
+    "@babel/core": 1,
+    "@babel/preset-env": 1,
+    "babel-loader": 1,
+    "babel-polyfill": 1
+  }
+}

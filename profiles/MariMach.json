@@ -1,0 +1,57 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/39934426?v=4",
+  "login": "MariMach",
+  "name": null,
+  "blog": "",
+  "bio": "I am a Software engineering Student and                    I love learning new and fun ways to write software.",
+  "public_repos": 30,
+  "total_repos": null,
+  "followers": 6,
+  "following": 49,
+  "url": "https://github.com/MariMach",
+  "repos_url": "https://api.github.com/users/MariMach/repos",
+  "languages": [
+    {
+      "TypeScript": "5.68"
+    },
+    {
+      "HTML": "7.14"
+    },
+    {
+      "JavaScript": "7.43"
+    },
+    {
+      "CSS": "1.96"
+    },
+    {
+      "Java": "56.71"
+    },
+    {
+      "C": "21.08"
+    }
+  ],
+  "packages": {
+    "express": 6,
+    "body-parser": 5,
+    "cors": 5,
+    "morgan": 3,
+    "bcrypt": 2,
+    "debug": 2,
+    "lodash": 2,
+    "pug": 2,
+    "mongoose": 2,
+    "nodemon": 2
+  },
+  "devPackages": {
+    "@angular-devkit/build-angular": 1,
+    "@angular/cli": 1,
+    "@angular/compiler-cli": 1,
+    "@angular/language-service": 1,
+    "@types/jasmine": 1,
+    "@types/jasminewd2": 1,
+    "@types/node": 1,
+    "codelyzer": 1,
+    "jasmine-core": 1,
+    "jasmine-spec-reporter": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/23529354?v=4",
+  "login": "yousseffatihi",
+  "name": "Youssef Fatihi",
+  "blog": "",
+  "bio": "My Name Is Youssef Fatihi, 24 Years old.\r\nI'm a Graphic Designer, Photographer And I Started since 2015.",
+  "public_repos": 10,
+  "total_repos": null,
+  "followers": 4,
+  "following": 2,
+  "url": "https://github.com/yousseffatihi",
+  "repos_url": "https://api.github.com/users/yousseffatihi/repos",
+  "languages": [
+    {
+      "C": "0.28"
+    },
+    {
+      "C#": "9.98"
+    },
+    {
+      "HTML": "0.87"
+    },
+    {
+      "Java": "0.69"
+    },
+    {
+      "PHP": "19.58"
+    },
+    {
+      "CSS": "54.08"
+    },
+    {
+      "JavaScript": "12.03"
+    },
+    {
+      "Hack": "2.50"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

@@ -1,0 +1,26 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/5301567?v=4",
+  "login": "SouhailHammou",
+  "name": "Souhail Hammou",
+  "blog": "http://rce4fun.blogspot.com/",
+  "bio": "Reverse engineering, Malware analysis, Windows Internals, and Vulnerability Research.",
+  "public_repos": 13,
+  "total_repos": null,
+  "followers": 123,
+  "following": 124,
+  "url": "https://github.com/SouhailHammou",
+  "repos_url": "https://api.github.com/users/SouhailHammou/repos",
+  "languages": [
+    {
+      "C": "74.39"
+    },
+    {
+      "Python": "23.91"
+    },
+    {
+      "C++": "1.70"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

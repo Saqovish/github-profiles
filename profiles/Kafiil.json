@@ -1,0 +1,75 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/15774583?v=4",
+  "login": "Kafiil",
+  "name": "Kafil",
+  "blog": "http://kafil.xyz",
+  "bio": "I love programming, which makes what I do not only a job but also a passion ",
+  "public_repos": 30,
+  "total_repos": null,
+  "followers": 23,
+  "following": 0,
+  "url": "https://github.com/Kafiil",
+  "repos_url": "https://api.github.com/users/Kafiil/repos",
+  "languages": [
+    {
+      "Java": "4.49"
+    },
+    {
+      "C#": "3.81"
+    },
+    {
+      "JavaScript": "49.19"
+    },
+    {
+      "CSS": "11.81"
+    },
+    {
+      "Python": "4.05"
+    },
+    {
+      "C++": "2.49"
+    },
+    {
+      "Ruby": "0.08"
+    },
+    {
+      "Batchfile": "0.07"
+    },
+    {
+      "PHP": "0.06"
+    },
+    {
+      "TypeScript": "18.53"
+    },
+    {
+      "HTML": "5.38"
+    },
+    {
+      "Dockerfile": "0.03"
+    }
+  ],
+  "packages": {
+    "react": 5,
+    "react-dom": 5,
+    "bootstrap": 5,
+    "font-awesome": 4,
+    "@angular/animations": 3,
+    "@angular/common": 3,
+    "@angular/compiler": 3,
+    "@angular/core": 3,
+    "@angular/forms": 3,
+    "@angular/http": 3
+  },
+  "devPackages": {
+    "nodemon": 4,
+    "@angular/cli": 3,
+    "@angular/compiler-cli": 3,
+    "@angular/language-service": 3,
+    "@types/jasmine": 3,
+    "@types/jasminewd2": 3,
+    "@types/node": 3,
+    "codelyzer": 3,
+    "jasmine-core": 3,
+    "jasmine-spec-reporter": 3
+  }
+}

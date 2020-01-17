@@ -1,0 +1,51 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/5453835?v=4",
+  "login": "yelouafi",
+  "name": "Yassine Elouafi",
+  "blog": "",
+  "bio": null,
+  "public_repos": 42,
+  "total_repos": null,
+  "followers": 767,
+  "following": 0,
+  "url": "https://github.com/yelouafi",
+  "repos_url": "https://api.github.com/users/yelouafi/repos",
+  "languages": [
+    {
+      "JavaScript": "89.72"
+    },
+    {
+      "CSS": "0.28"
+    },
+    {
+      "HTML": "0.61"
+    },
+    {
+      "TypeScript": "9.39"
+    }
+  ],
+  "packages": {
+    "babel-polyfill": 2,
+    "snabbdom": 2,
+    "snabbdom-jsx": 2,
+    "union-type": 2,
+    "es6-promise": 1,
+    "petit-dom": 1,
+    "baobab": 1,
+    "react": 1,
+    "react-dom": 1,
+    "redux": 1
+  },
+  "devPackages": {
+    "tape": 8,
+    "babel-cli": 7,
+    "babel-preset-es2015": 7,
+    "eslint": 7,
+    "babel-preset-stage-2": 6,
+    "babelify": 6,
+    "rimraf": 5,
+    "babel-preset-react": 5,
+    "browserify": 4,
+    "budo": 4
+  }
+}

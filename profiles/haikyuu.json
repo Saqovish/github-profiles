@@ -1,0 +1,51 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/8558836?v=4",
+  "login": "haikyuu",
+  "name": "alaoui abdellah",
+  "blog": "",
+  "bio": "React and React Native developer.\r\nLoves Flow and currently exploring OCaml and ReasonML.\r\nCurious and eager to learn.",
+  "public_repos": 154,
+  "total_repos": null,
+  "followers": 49,
+  "following": 44,
+  "url": "https://github.com/haikyuu",
+  "repos_url": "https://api.github.com/users/haikyuu/repos",
+  "languages": [
+    {
+      "Vim script": "87.34"
+    },
+    {
+      "HTML": "3.05"
+    },
+    {
+      "CSS": "2.72"
+    },
+    {
+      "JavaScript": "6.89"
+    }
+  ],
+  "packages": {
+    "@11ty/eleventy": 2,
+    "@11ty/eleventy-plugin-rss": 2,
+    "@11ty/eleventy-plugin-syntaxhighlight": 2,
+    "@tbranyen/jsdom": 2,
+    "concurrently": 2,
+    "html-minifier": 2,
+    "json-to-scss": 2,
+    "sass": 2,
+    "semver": 2,
+    "slugify": 2
+  },
+  "devPackages": {
+    "prettier": 3,
+    "@erquhart/rollup-plugin-node-builtins": 2,
+    "bl": 2,
+    "chokidar-cli": 2,
+    "cross-env": 2,
+    "make-dir-cli": 2,
+    "rollup": 2,
+    "rollup-plugin-commonjs": 2,
+    "rollup-plugin-json": 2,
+    "rollup-plugin-node-resolve": 2
+  }
+}

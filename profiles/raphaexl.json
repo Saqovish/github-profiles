@@ -1,0 +1,44 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/44092987?v=4",
+  "login": "raphaexl",
+  "name": "raphael X-OR",
+  "blog": "",
+  "bio": "Student at 1337 Khouribga, Morocco",
+  "public_repos": 25,
+  "total_repos": null,
+  "followers": 18,
+  "following": 19,
+  "url": "https://github.com/raphaexl",
+  "repos_url": "https://api.github.com/users/raphaexl/repos",
+  "languages": [
+    {
+      "C": "96.40"
+    },
+    {
+      "C++": "3.34"
+    },
+    {
+      "Objective-C": "0.18"
+    },
+    {
+      "Makefile": "0.07"
+    },
+    {
+      "CMake": "0.00"
+    },
+    {
+      "Assembly": "0.01"
+    },
+    {
+      "Shell": "0.00"
+    },
+    {
+      "GLSL": "0.00"
+    },
+    {
+      "QMake": "0.00"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

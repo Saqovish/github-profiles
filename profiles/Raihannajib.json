@@ -1,0 +1,72 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/49885752?v=4",
+  "login": "Raihannajib",
+  "name": "Najib Raihan",
+  "blog": "www.linkedin.com/in/raihan-najib-8aa77016b",
+  "bio": "Software engineering student\r\n\r\n",
+  "public_repos": 22,
+  "total_repos": null,
+  "followers": 25,
+  "following": 34,
+  "url": "https://github.com/Raihannajib",
+  "repos_url": "https://api.github.com/users/Raihannajib/repos",
+  "languages": [
+    {
+      "CSS": "30.44"
+    },
+    {
+      "PHP": "33.38"
+    },
+    {
+      "HTML": "7.50"
+    },
+    {
+      "JavaScript": "11.52"
+    },
+    {
+      "C": "5.99"
+    },
+    {
+      "CMake": "4.13"
+    },
+    {
+      "Makefile": "2.44"
+    },
+    {
+      "Java": "0.98"
+    },
+    {
+      "Python": "1.11"
+    },
+    {
+      "Vue": "0.07"
+    },
+    {
+      "TypeScript": "2.44"
+    }
+  ],
+  "packages": {
+    "@angular/common": 1,
+    "@angular/compiler": 1,
+    "@angular/core": 1,
+    "@angular/forms": 1,
+    "@angular/http": 1,
+    "@angular/platform-browser": 1,
+    "@angular/platform-browser-dynamic": 1,
+    "@angular/router": 1,
+    "@ionic-native/core": 1,
+    "@ionic-native/splash-screen": 1
+  },
+  "devPackages": {
+    "@symfony/webpack-encore": 1,
+    "core-js": 1,
+    "regenerator-runtime": 1,
+    "webpack-notifier": 1,
+    "@angular-devkit/architect": 1,
+    "@angular-devkit/build-angular": 1,
+    "@angular-devkit/core": 1,
+    "@angular-devkit/schematics": 1,
+    "@angular/cli": 1,
+    "@angular/compiler": 1
+  }
+}

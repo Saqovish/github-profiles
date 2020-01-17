@@ -1,0 +1,35 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/23642511?v=4",
+  "login": "PhyDevs",
+  "name": "Abderrahim Boumhand",
+  "blog": "https://twitter.com/phydevs",
+  "bio": "Self-starter who loves to build original projects from scratch ⚛️, lifelong learner 📚",
+  "public_repos": 8,
+  "total_repos": null,
+  "followers": 5,
+  "following": 9,
+  "url": "https://github.com/PhyDevs",
+  "repos_url": "https://api.github.com/users/PhyDevs/repos",
+  "languages": [
+    {
+      "JavaScript": "26.54"
+    },
+    {
+      "C#": "16.93"
+    },
+    {
+      "CSS": "13.13"
+    },
+    {
+      "HTML": "19.11"
+    },
+    {
+      "PLpgSQL": "0.37"
+    },
+    {
+      "PHP": "23.92"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

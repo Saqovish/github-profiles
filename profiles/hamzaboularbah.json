@@ -1,0 +1,40 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/16169965?v=4",
+  "login": "hamzaboularbah",
+  "name": "Hamza Boularbah",
+  "blog": "https://hamzaboularbah.dev",
+  "bio": "JS Developer",
+  "public_repos": 13,
+  "total_repos": null,
+  "followers": 5,
+  "following": 4,
+  "url": "https://github.com/hamzaboularbah",
+  "repos_url": "https://api.github.com/users/hamzaboularbah/repos",
+  "languages": [
+    {
+      "CSS": "21.88"
+    },
+    {
+      "HTML": "49.22"
+    },
+    {
+      "JavaScript": "28.45"
+    },
+    {
+      "PHP": "0.45"
+    }
+  ],
+  "packages": {
+    "express": 3,
+    "body-parser": 2,
+    "connect-flash": 2,
+    "cookie-parser": 2,
+    "debug": 2,
+    "express-messages": 2,
+    "express-session": 2,
+    "express-validator": 2,
+    "jade": 2,
+    "mongodb": 2
+  },
+  "devPackages": {}
+}

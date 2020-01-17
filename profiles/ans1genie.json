@@ -1,0 +1,32 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/16513804?v=4",
+  "login": "ans1genie",
+  "name": "AIT BAHA Anas",
+  "blog": "",
+  "bio": "Be positive, be great and let's shine together",
+  "public_repos": 59,
+  "total_repos": null,
+  "followers": 50,
+  "following": 196,
+  "url": "https://github.com/ans1genie",
+  "repos_url": "https://api.github.com/users/ans1genie/repos",
+  "languages": [
+    {
+      "Java": "29.65"
+    },
+    {
+      "HTML": "66.92"
+    },
+    {
+      "CSS": "1.37"
+    },
+    {
+      "JavaScript": "1.22"
+    },
+    {
+      "Ruby": "0.84"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

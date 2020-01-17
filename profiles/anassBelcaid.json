@@ -1,0 +1,65 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1475886?v=4",
+  "login": "anassBelcaid",
+  "name": "anass",
+  "blog": "",
+  "bio": null,
+  "public_repos": 25,
+  "total_repos": null,
+  "followers": 5,
+  "following": 10,
+  "url": "https://github.com/anassBelcaid",
+  "repos_url": "https://api.github.com/users/anassBelcaid/repos",
+  "languages": [
+    {
+      "CSS": "0.02"
+    },
+    {
+      "HTML": "0.01"
+    },
+    {
+      "Python": "2.77"
+    },
+    {
+      "Ruby": "0.01"
+    },
+    {
+      "C++": "0.22"
+    },
+    {
+      "CMake": "0.07"
+    },
+    {
+      "Shell": "0.06"
+    },
+    {
+      "MATLAB": "0.19"
+    },
+    {
+      "Java": "0.05"
+    },
+    {
+      "Jupyter Notebook": "88.42"
+    },
+    {
+      "Vim script": "0.19"
+    },
+    {
+      "Vim Snippet": "0.02"
+    },
+    {
+      "TeX": "0.21"
+    },
+    {
+      "Makefile": "0.23"
+    },
+    {
+      "Objective-C++": "7.49"
+    },
+    {
+      "C": "0.04"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

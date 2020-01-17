@@ -1,0 +1,51 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/6149387?v=4",
+  "login": "tamsamani",
+  "name": "tamsamani mohamed",
+  "blog": "",
+  "bio": "Full Stack Developer.\r\nComputer Sciences Engineer.",
+  "public_repos": 28,
+  "total_repos": null,
+  "followers": 3,
+  "following": 10,
+  "url": "https://github.com/tamsamani",
+  "repos_url": "https://api.github.com/users/tamsamani/repos",
+  "languages": [
+    {
+      "HTML": "30.61"
+    },
+    {
+      "JavaScript": "54.23"
+    },
+    {
+      "CSS": "14.92"
+    },
+    {
+      "TypeScript": "0.24"
+    }
+  ],
+  "packages": {
+    "react": 6,
+    "react-dom": 6,
+    "react-scripts": 2,
+    "next": 1,
+    "axios": 1,
+    "bootstrap": 1,
+    "chart.js": 1,
+    "prop-types": 1,
+    "react-bootstrap": 1,
+    "react-router-dom": 1
+  },
+  "devPackages": {
+    "react-scripts": 2,
+    "@babel/core": 1,
+    "@babel/plugin-proposal-class-properties": 1,
+    "@babel/preset-env": 1,
+    "@babel/preset-react": 1,
+    "babel-loader": 1,
+    "copy-webpack-plugin": 1,
+    "css-loader": 1,
+    "path": 1,
+    "style-loader": 1
+  }
+}

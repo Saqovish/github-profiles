@@ -1,0 +1,51 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/9938439?v=4",
+  "login": "yassineim",
+  "name": "Yassine Imounachen",
+  "blog": "https://yassineimounachen.com",
+  "bio": null,
+  "public_repos": 15,
+  "total_repos": null,
+  "followers": 3,
+  "following": 3,
+  "url": "https://github.com/yassineim",
+  "repos_url": "https://api.github.com/users/yassineim/repos",
+  "languages": [
+    {
+      "Python": "0.09"
+    },
+    {
+      "Shell": "0.09"
+    },
+    {
+      "JavaScript": "98.33"
+    },
+    {
+      "Java": "0.83"
+    },
+    {
+      "CSS": "0.24"
+    },
+    {
+      "HTML": "0.42"
+    },
+    {
+      "Ruby": "0.01"
+    }
+  ],
+  "packages": {
+    "node-fetch": 1,
+    "react": 1,
+    "react-dom": 1,
+    "react-table": 1
+  },
+  "devPackages": {
+    "@babel/core": 1,
+    "@babel/preset-env": 1,
+    "@babel/preset-react": 1,
+    "@babel/plugin-proposal-class-properties": 1,
+    "babel-loader": 1,
+    "webpack": 1,
+    "webpack-cli": 1
+  }
+}

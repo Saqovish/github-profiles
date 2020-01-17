@@ -1,0 +1,23 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/7062695?v=4",
+  "login": "MrMugiwara",
+  "name": "Soufiane Boussali",
+  "blog": "https://MrMugiwara.github.io",
+  "bio": "IT Security Analyst & Bug Bounty Hunter",
+  "public_repos": 694,
+  "total_repos": null,
+  "followers": 167,
+  "following": 202,
+  "url": "https://github.com/MrMugiwara",
+  "repos_url": "https://api.github.com/users/MrMugiwara/repos",
+  "languages": [
+    {
+      "Python": "64.10"
+    },
+    {
+      "Shell": "35.90"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

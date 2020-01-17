@@ -1,0 +1,54 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/16257137?v=4",
+  "login": "mbougarne",
+  "name": "Mourad Bougarne",
+  "blog": "https://mbougarne.me/",
+  "bio": "Machine and Gintama lover",
+  "public_repos": 11,
+  "total_repos": null,
+  "followers": 2,
+  "following": 2,
+  "url": "https://github.com/mbougarne",
+  "repos_url": "https://api.github.com/users/mbougarne/repos",
+  "languages": [
+    {
+      "PHP": "75.42"
+    },
+    {
+      "Vue": "3.46"
+    },
+    {
+      "HTML": "16.92"
+    },
+    {
+      "JavaScript": "3.54"
+    },
+    {
+      "CSS": "0.65"
+    }
+  ],
+  "packages": {
+    "bootstrap": 2,
+    "@fortawesome/fontawesome-free": 1,
+    "@shopify/draggable": 1,
+    "interactjs": 1,
+    "jquery-ui-dist": 1,
+    "@nuxtjs/axios": 1,
+    "bootstrap-vue": 1,
+    "cross-env": 1,
+    "css-loader": 1,
+    "express": 1
+  },
+  "devPackages": {
+    "axios": 1,
+    "bootstrap": 1,
+    "browser-sync": 1,
+    "browser-sync-webpack-plugin": 1,
+    "cross-env": 1,
+    "jquery": 1,
+    "laravel-mix": 1,
+    "lodash": 1,
+    "popper.js": 1,
+    "resolve-url-loader": 1
+  }
+}

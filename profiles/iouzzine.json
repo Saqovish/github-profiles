@@ -1,0 +1,46 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/48206360?v=4",
+  "login": "iouzzine",
+  "name": "Ismail Ouzz",
+  "blog": "",
+  "bio": "Web developer Full Stack",
+  "public_repos": 5,
+  "total_repos": null,
+  "followers": 19,
+  "following": 18,
+  "url": "https://github.com/iouzzine",
+  "repos_url": "https://api.github.com/users/iouzzine/repos",
+  "languages": [
+    {
+      "PHP": "10.72"
+    },
+    {
+      "JavaScript": "61.50"
+    },
+    {
+      "CSS": "4.27"
+    },
+    {
+      "HTML": "3.71"
+    },
+    {
+      "Vue": "19.80"
+    }
+  ],
+  "packages": {
+    "express": 3,
+    "axios": 2,
+    "dotenv": 2,
+    "moment": 2,
+    "mongoose": 2,
+    "passport": 2,
+    "passport-42": 2,
+    "passport-google-oauth20": 2,
+    "cors": 2,
+    "jsonwebtoken": 2
+  },
+  "devPackages": {
+    "nodemon": 2,
+    "concurrently": 1
+  }
+}

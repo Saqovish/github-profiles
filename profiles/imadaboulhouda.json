@@ -1,0 +1,72 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/16455123?v=4",
+  "login": "imadaboulhouda",
+  "name": "IMAD ABOULHOUDA",
+  "blog": "https://www.facebook.com/aboulhoudaimad7",
+  "bio": "Développeur Full Stack, Mobile(Hybride,Native)\r\n\r\n",
+  "public_repos": 33,
+  "total_repos": null,
+  "followers": 2,
+  "following": 18,
+  "url": "https://github.com/imadaboulhouda",
+  "repos_url": "https://api.github.com/users/imadaboulhouda/repos",
+  "languages": [
+    {
+      "TypeScript": "14.94"
+    },
+    {
+      "JavaScript": "20.89"
+    },
+    {
+      "HTML": "16.19"
+    },
+    {
+      "CSS": "9.14"
+    },
+    {
+      "Objective-C": "3.96"
+    },
+    {
+      "Ruby": "2.02"
+    },
+    {
+      "Java": "1.93"
+    },
+    {
+      "Python": "1.63"
+    },
+    {
+      "Dart": "1.94"
+    },
+    {
+      "PHP": "27.20"
+    },
+    {
+      "Vue": "0.16"
+    }
+  ],
+  "packages": {
+    "react": 9,
+    "@angular/common": 7,
+    "@angular/core": 7,
+    "@angular/forms": 7,
+    "@angular/platform-browser": 7,
+    "@angular/platform-browser-dynamic": 7,
+    "rxjs": 7,
+    "zone.js": 7,
+    "react-dom": 6,
+    "@angular/compiler": 6
+  },
+  "devPackages": {
+    "typescript": 7,
+    "@angular-devkit/build-angular": 4,
+    "@angular/cli": 4,
+    "@angular/compiler-cli": 4,
+    "@angular/language-service": 4,
+    "@types/jasmine": 4,
+    "@types/jasminewd2": 4,
+    "@types/node": 4,
+    "codelyzer": 4,
+    "jasmine-core": 4
+  }
+}

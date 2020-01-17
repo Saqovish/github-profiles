@@ -1,0 +1,26 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/19275880?v=4",
+  "login": "ElhadiAyoub",
+  "name": "EL-HADI Ayoub",
+  "blog": "",
+  "bio": null,
+  "public_repos": 11,
+  "total_repos": null,
+  "followers": 18,
+  "following": 9,
+  "url": "https://github.com/ElhadiAyoub",
+  "repos_url": "https://api.github.com/users/ElhadiAyoub/repos",
+  "languages": [
+    {
+      "CSS": "30.53"
+    },
+    {
+      "JavaScript": "30.73"
+    },
+    {
+      "HTML": "38.74"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

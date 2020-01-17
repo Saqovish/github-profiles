@@ -1,0 +1,69 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/3237344?v=4",
+  "login": "midrissi",
+  "name": "IDRISSI Mohamed",
+  "blog": "https://www.github.com/midrissi",
+  "bio": null,
+  "public_repos": 152,
+  "total_repos": null,
+  "followers": 58,
+  "following": 32,
+  "url": "https://github.com/midrissi",
+  "repos_url": "https://api.github.com/users/midrissi/repos",
+  "languages": [
+    {
+      "HTML": "5.97"
+    },
+    {
+      "JavaScript": "82.21"
+    },
+    {
+      "CSS": "1.75"
+    },
+    {
+      "Ruby": "0.95"
+    },
+    {
+      "CoffeeScript": "0.91"
+    },
+    {
+      "Erlang": "0.16"
+    },
+    {
+      "PHP": "0.07"
+    },
+    {
+      "Shell": "0.04"
+    },
+    {
+      "TypeScript": "4.51"
+    },
+    {
+      "ApacheConf": "3.44"
+    }
+  ],
+  "packages": {
+    "@angular/animations": 2,
+    "@angular/common": 2,
+    "@angular/compiler": 2,
+    "@angular/core": 2,
+    "@angular/forms": 2,
+    "@angular/http": 2,
+    "@angular/platform-browser": 2,
+    "@angular/platform-browser-dynamic": 2,
+    "@angular/router": 2,
+    "@ngrx/store": 2
+  },
+  "devPackages": {
+    "@angular/cli": 2,
+    "@angular/compiler-cli": 2,
+    "@angular/language-service": 2,
+    "@types/jasmine": 2,
+    "@types/jasminewd2": 2,
+    "@types/node": 2,
+    "codelyzer": 2,
+    "jasmine-core": 2,
+    "jasmine-spec-reporter": 2,
+    "karma": 2
+  }
+}

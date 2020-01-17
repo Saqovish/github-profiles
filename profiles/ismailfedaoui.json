@@ -1,0 +1,41 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/44703725?v=4",
+  "login": "ismailfedaoui",
+  "name": "Ismail Fedaoui",
+  "blog": "http://ismailfedaoui.github.io",
+  "bio": "I am a young talent obsessed with all things related to new technologies. I do what I like that's why all my works are of good quality and creativity.\r\n",
+  "public_repos": 6,
+  "total_repos": null,
+  "followers": 6,
+  "following": 0,
+  "url": "https://github.com/ismailfedaoui",
+  "repos_url": "https://api.github.com/users/ismailfedaoui/repos",
+  "languages": [
+    {
+      "C#": "28.92"
+    },
+    {
+      "TSQL": "1.84"
+    },
+    {
+      "HTML": "2.95"
+    },
+    {
+      "CSS": "10.21"
+    },
+    {
+      "JavaScript": "50.14"
+    },
+    {
+      "ASP": "3.99"
+    },
+    {
+      "PowerShell": "1.72"
+    },
+    {
+      "Pascal": "0.25"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

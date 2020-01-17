@@ -1,0 +1,32 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/32980678?v=4",
+  "login": "mouhcineToumi",
+  "name": "mouhcineToumi",
+  "blog": "https://portfolio-f83f0.web.app/",
+  "bio": "I draw learning paths and follow them.",
+  "public_repos": 4,
+  "total_repos": null,
+  "followers": 13,
+  "following": 18,
+  "url": "https://github.com/mouhcineToumi",
+  "repos_url": "https://api.github.com/users/mouhcineToumi/repos",
+  "languages": [
+    {
+      "C++": "0.48"
+    },
+    {
+      "Jupyter Notebook": "87.38"
+    },
+    {
+      "Python": "7.78"
+    },
+    {
+      "HTML": "0.09"
+    },
+    {
+      "Java": "4.28"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

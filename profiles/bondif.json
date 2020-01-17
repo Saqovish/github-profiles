@@ -1,0 +1,69 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/24433897?v=4",
+  "login": "bondif",
+  "name": "Mohamed BOUKHLIF",
+  "blog": "",
+  "bio": "Coding & swimming",
+  "public_repos": 19,
+  "total_repos": null,
+  "followers": 16,
+  "following": 29,
+  "url": "https://github.com/bondif",
+  "repos_url": "https://api.github.com/users/bondif/repos",
+  "languages": [
+    {
+      "Java": "34.07"
+    },
+    {
+      "CSS": "21.04"
+    },
+    {
+      "TSQL": "0.44"
+    },
+    {
+      "JavaScript": "0.31"
+    },
+    {
+      "HTML": "12.52"
+    },
+    {
+      "PHP": "27.08"
+    },
+    {
+      "Vue": "0.12"
+    },
+    {
+      "C": "0.98"
+    },
+    {
+      "TypeScript": "3.23"
+    },
+    {
+      "Dockerfile": "0.22"
+    }
+  ],
+  "packages": {
+    "@angular/common": 1,
+    "@angular/compiler": 1,
+    "@angular/compiler-cli": 1,
+    "@angular/core": 1,
+    "@angular/forms": 1,
+    "@angular/http": 1,
+    "@angular/platform-browser": 1,
+    "@angular/platform-browser-dynamic": 1,
+    "@ionic-native/core": 1,
+    "@ionic-native/file": 1
+  },
+  "devPackages": {
+    "axios": 2,
+    "cross-env": 2,
+    "jquery": 2,
+    "laravel-mix": 2,
+    "lodash": 2,
+    "vue": 2,
+    "@ionic/app-scripts": 1,
+    "typescript": 1,
+    "bootstrap": 1,
+    "popper.js": 1
+  }
+}

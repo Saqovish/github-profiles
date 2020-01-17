@@ -1,0 +1,57 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/23001735?v=4",
+  "login": "YassineJOUT",
+  "name": "Yassine jout",
+  "blog": "",
+  "bio": null,
+  "public_repos": 19,
+  "total_repos": null,
+  "followers": 7,
+  "following": 7,
+  "url": "https://github.com/YassineJOUT",
+  "repos_url": "https://api.github.com/users/YassineJOUT/repos",
+  "languages": [
+    {
+      "JavaScript": "44.56"
+    },
+    {
+      "Java": "14.20"
+    },
+    {
+      "HTML": "1.23"
+    },
+    {
+      "PHP": "8.99"
+    },
+    {
+      "CSS": "21.08"
+    },
+    {
+      "TypeScript": "9.94"
+    }
+  ],
+  "packages": {
+    "react": 6,
+    "react-dom": 6,
+    "react-scripts": 6,
+    "axios": 4,
+    "react-redux": 4,
+    "redux": 4,
+    "redux-thunk": 4,
+    "lodash": 3,
+    "react-router-dom": 3,
+    "redux-devtools-extension": 3
+  },
+  "devPackages": {
+    "@nestjs/cli": 1,
+    "@nestjs/schematics": 1,
+    "@nestjs/testing": 1,
+    "@types/express": 1,
+    "@types/jest": 1,
+    "@types/node": 1,
+    "@types/supertest": 1,
+    "jest": 1,
+    "prettier": 1,
+    "supertest": 1
+  }
+}

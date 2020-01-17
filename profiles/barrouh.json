@@ -1,0 +1,57 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/25187092?v=4",
+  "login": "barrouh",
+  "name": "Mohamed Barrouh",
+  "blog": "www.barrouh.com",
+  "bio": "Full Stack Java Developer, At Everis - Tetouan , Working on EPO (European Patent Office) project  (External TDA team ) . ",
+  "public_repos": 12,
+  "total_repos": null,
+  "followers": 8,
+  "following": 15,
+  "url": "https://github.com/barrouh",
+  "repos_url": "https://api.github.com/users/barrouh/repos",
+  "languages": [
+    {
+      "Java": "28.39"
+    },
+    {
+      "TypeScript": "1.50"
+    },
+    {
+      "JavaScript": "60.95"
+    },
+    {
+      "HTML": "1.09"
+    },
+    {
+      "CSS": "7.72"
+    },
+    {
+      "TSQL": "0.34"
+    }
+  ],
+  "packages": {
+    "@angular/animations": 1,
+    "@angular/common": 1,
+    "@angular/compiler": 1,
+    "@angular/core": 1,
+    "@angular/forms": 1,
+    "@angular/http": 1,
+    "@angular/platform-browser": 1,
+    "@angular/platform-browser-dynamic": 1,
+    "@angular/router": 1,
+    "core-js": 1
+  },
+  "devPackages": {
+    "@angular-devkit/build-angular": 1,
+    "@angular/cli": 1,
+    "@angular/compiler-cli": 1,
+    "@angular/language-service": 1,
+    "@types/jasmine": 1,
+    "@types/jasminewd2": 1,
+    "@types/node": 1,
+    "codelyzer": 1,
+    "jasmine-core": 1,
+    "jasmine-spec-reporter": 1
+  }
+}

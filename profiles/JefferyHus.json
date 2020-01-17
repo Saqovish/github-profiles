@@ -1,0 +1,37 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/3521144?v=4",
+  "login": "JefferyHus",
+  "name": "Jeffery ThaGintoki",
+  "blog": "https://pentium.live",
+  "bio": "Impossible doesn't exist in a world of conditions.",
+  "public_repos": 95,
+  "total_repos": null,
+  "followers": 68,
+  "following": 107,
+  "url": "https://github.com/JefferyHus",
+  "repos_url": "https://api.github.com/users/JefferyHus/repos",
+  "languages": [
+    {
+      "PHP": "91.28"
+    },
+    {
+      "JavaScript": "8.06"
+    },
+    {
+      "HTML": "0.66"
+    }
+  ],
+  "packages": {},
+  "devPackages": {
+    "@babel/cli": 1,
+    "@babel/core": 1,
+    "@babel/plugin-proposal-class-properties": 1,
+    "@babel/polyfill": 1,
+    "@babel/preset-env": 1,
+    "babel-loader": 1,
+    "cross-env": 1,
+    "mocha": 1,
+    "prettier": 1,
+    "style-loader": 1
+  }
+}

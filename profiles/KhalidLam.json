@@ -1,0 +1,32 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/17090194?v=4",
+  "login": "KhalidLam",
+  "name": "Lamsadi khalid",
+  "blog": "",
+  "bio": null,
+  "public_repos": 87,
+  "total_repos": null,
+  "followers": 3,
+  "following": 6,
+  "url": "https://github.com/KhalidLam",
+  "repos_url": "https://api.github.com/users/KhalidLam/repos",
+  "languages": [
+    {
+      "HTML": "49.24"
+    },
+    {
+      "Java": "10.80"
+    },
+    {
+      "CSS": "36.02"
+    },
+    {
+      "Ruby": "3.02"
+    },
+    {
+      "Shell": "0.92"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

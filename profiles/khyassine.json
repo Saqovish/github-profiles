@@ -1,0 +1,26 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/41210394?v=4",
+  "login": "khyassine",
+  "name": "khatab yassine",
+  "blog": "",
+  "bio": null,
+  "public_repos": 28,
+  "total_repos": null,
+  "followers": 3,
+  "following": 4,
+  "url": "https://github.com/khyassine",
+  "repos_url": "https://api.github.com/users/khyassine/repos",
+  "languages": [
+    {
+      "Perl": "51.74"
+    },
+    {
+      "Shell": "24.12"
+    },
+    {
+      "Java": "24.14"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

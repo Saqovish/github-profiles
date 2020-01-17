@@ -1,0 +1,75 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/24801425?v=4",
+  "login": "fakham",
+  "name": "Mohammed FAKHAM",
+  "blog": "",
+  "bio": null,
+  "public_repos": 34,
+  "total_repos": null,
+  "followers": 15,
+  "following": 10,
+  "url": "https://github.com/fakham",
+  "repos_url": "https://api.github.com/users/fakham/repos",
+  "languages": [
+    {
+      "Java": "10.02"
+    },
+    {
+      "JavaScript": "7.40"
+    },
+    {
+      "CSS": "26.70"
+    },
+    {
+      "HTML": "31.63"
+    },
+    {
+      "PHP": "18.18"
+    },
+    {
+      "Hack": "1.36"
+    },
+    {
+      "Vue": "0.09"
+    },
+    {
+      "C#": "2.53"
+    },
+    {
+      "Python": "1.14"
+    },
+    {
+      "Objective-C": "0.21"
+    },
+    {
+      "C": "0.16"
+    },
+    {
+      "ASP": "0.59"
+    }
+  ],
+  "packages": {
+    "react": 6,
+    "react-dom": 5,
+    "react-scripts": 5,
+    "axios": 3,
+    "react-router-dom": 3,
+    "dotenv": 3,
+    "@material-ui/core": 2,
+    "@material-ui/icons": 2,
+    "body-parser": 2,
+    "express": 2
+  },
+  "devPackages": {
+    "axios": 3,
+    "bootstrap": 3,
+    "popper.js": 3,
+    "cross-env": 3,
+    "jquery": 3,
+    "laravel-mix": 3,
+    "lodash": 3,
+    "vue": 3,
+    "eslint": 1,
+    "eslint-config-loopback": 1
+  }
+}

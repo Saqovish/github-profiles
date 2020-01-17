@@ -1,0 +1,72 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/5727787?v=4",
+  "login": "charaneadam",
+  "name": "Adam Charane",
+  "blog": "",
+  "bio": null,
+  "public_repos": 38,
+  "total_repos": null,
+  "followers": 5,
+  "following": 10,
+  "url": "https://github.com/charaneadam",
+  "repos_url": "https://api.github.com/users/charaneadam/repos",
+  "languages": [
+    {
+      "Python": "1.98"
+    },
+    {
+      "CSS": "19.59"
+    },
+    {
+      "HTML": "2.21"
+    },
+    {
+      "JavaScript": "29.46"
+    },
+    {
+      "TypeScript": "0.62"
+    },
+    {
+      "Java": "3.50"
+    },
+    {
+      "C++": "1.48"
+    },
+    {
+      "CMake": "0.00"
+    },
+    {
+      "PHP": "0.29"
+    },
+    {
+      "Jupyter Notebook": "40.85"
+    },
+    {
+      "C#": "0.04"
+    }
+  ],
+  "packages": {
+    "@angular/common": 1,
+    "@angular/core": 1,
+    "@angular/forms": 1,
+    "@angular/http": 1,
+    "@angular/platform-browser": 1,
+    "@angular/platform-browser-dynamic": 1,
+    "@angular/router": 1,
+    "@capacitor/android": 1,
+    "@capacitor/cli": 1,
+    "@capacitor/core": 1
+  },
+  "devPackages": {
+    "@angular-devkit/architect": 1,
+    "@angular-devkit/build-angular": 1,
+    "@angular-devkit/core": 1,
+    "@angular-devkit/schematics": 1,
+    "@angular/cli": 1,
+    "@angular/compiler": 1,
+    "@angular/compiler-cli": 1,
+    "@angular/language-service": 1,
+    "@ionic/angular-toolkit": 1,
+    "@types/node": 1
+  }
+}

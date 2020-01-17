@@ -1,0 +1,56 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/44241862?v=4",
+  "login": "zamazzal",
+  "name": "Zouhair AMAZZAL",
+  "blog": "",
+  "bio": "I am a rigorous person who loves team work and challenge",
+  "public_repos": 14,
+  "total_repos": null,
+  "followers": 8,
+  "following": 4,
+  "url": "https://github.com/zamazzal",
+  "repos_url": "https://api.github.com/users/zamazzal/repos",
+  "languages": [
+    {
+      "C": "74.86"
+    },
+    {
+      "Makefile": "3.36"
+    },
+    {
+      "HTML": "11.55"
+    },
+    {
+      "CSS": "5.00"
+    },
+    {
+      "Dockerfile": "0.69"
+    },
+    {
+      "JavaScript": "0.52"
+    },
+    {
+      "Shell": "0.10"
+    },
+    {
+      "PHP": "1.14"
+    },
+    {
+      "TSQL": "0.00"
+    },
+    {
+      "Vim script": "1.67"
+    },
+    {
+      "Prolog": "0.61"
+    },
+    {
+      "Emacs Lisp": "0.35"
+    },
+    {
+      "C++": "0.14"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

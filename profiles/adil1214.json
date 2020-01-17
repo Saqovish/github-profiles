@@ -1,0 +1,57 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/22710910?v=4",
+  "login": "adil1214",
+  "name": "ADIL ",
+  "blog": "",
+  "bio": null,
+  "public_repos": 32,
+  "total_repos": null,
+  "followers": 13,
+  "following": 70,
+  "url": "https://github.com/adil1214",
+  "repos_url": "https://api.github.com/users/adil1214/repos",
+  "languages": [
+    {
+      "JavaScript": "90.12"
+    },
+    {
+      "HTML": "2.83"
+    },
+    {
+      "CSS": "5.45"
+    },
+    {
+      "Batchfile": "0.08"
+    },
+    {
+      "AutoIt": "0.87"
+    },
+    {
+      "C++": "0.65"
+    }
+  ],
+  "packages": {
+    "express": 7,
+    "validator": 4,
+    "body-parser": 3,
+    "concurrently": 3,
+    "mongoose": 3,
+    "moment": 3,
+    "react": 3,
+    "react-dom": 3,
+    "lodash": 3,
+    "bcryptjs": 2
+  },
+  "devPackages": {
+    "nodemon": 2,
+    "expect": 2,
+    "mocha": 2,
+    "cross-env": 1,
+    "dotenv": 1,
+    "enzyme": 1,
+    "enzyme-to-json": 1,
+    "jest": 1,
+    "react-test-renderer": 1,
+    "webpack-dev-server": 1
+  }
+}

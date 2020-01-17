@@ -1,0 +1,47 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/15163998?v=4",
+  "login": "abdelkebir",
+  "name": "El Harfali Abdelkebir",
+  "blog": "https://www.upwork.com/fl/godogi",
+  "bio": "Expert Magento Developer",
+  "public_repos": 58,
+  "total_repos": null,
+  "followers": 4,
+  "following": 0,
+  "url": "https://github.com/abdelkebir",
+  "repos_url": "https://api.github.com/users/abdelkebir/repos",
+  "languages": [
+    {
+      "HTML": "21.10"
+    },
+    {
+      "Shell": "0.14"
+    },
+    {
+      "PHP": "69.61"
+    },
+    {
+      "Vue": "0.14"
+    },
+    {
+      "Hack": "0.57"
+    },
+    {
+      "JavaScript": "6.34"
+    },
+    {
+      "CSS": "2.08"
+    }
+  ],
+  "packages": {},
+  "devPackages": {
+    "axios": 1,
+    "bootstrap": 1,
+    "cross-env": 1,
+    "jquery": 1,
+    "laravel-mix": 1,
+    "lodash": 1,
+    "popper.js": 1,
+    "vue": 1
+  }
+}

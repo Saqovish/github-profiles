@@ -1,0 +1,23 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/40843093?v=4",
+  "login": "alk99-abderrahman",
+  "name": null,
+  "blog": "",
+  "bio": "im soyalk",
+  "public_repos": 6,
+  "total_repos": null,
+  "followers": 3,
+  "following": 1,
+  "url": "https://github.com/alk99-abderrahman",
+  "repos_url": "https://api.github.com/users/alk99-abderrahman/repos",
+  "languages": [
+    {
+      "1C Enterprise": "95.96"
+    },
+    {
+      "Shell": "4.04"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

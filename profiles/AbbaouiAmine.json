@@ -1,0 +1,87 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/27635596?v=4",
+  "login": "AbbaouiAmine",
+  "name": "Abbaoui",
+  "blog": "http://pragmacoding.com",
+  "bio": "I'm a full-stack developer.",
+  "public_repos": 42,
+  "total_repos": null,
+  "followers": 4,
+  "following": 10,
+  "url": "https://github.com/AbbaouiAmine",
+  "repos_url": "https://api.github.com/users/AbbaouiAmine/repos",
+  "languages": [
+    {
+      "CSS": "16.89"
+    },
+    {
+      "JavaScript": "71.57"
+    },
+    {
+      "HTML": "4.17"
+    },
+    {
+      "TypeScript": "0.93"
+    },
+    {
+      "Java": "2.21"
+    },
+    {
+      "Python": "0.20"
+    },
+    {
+      "C++": "0.18"
+    },
+    {
+      "C#": "2.19"
+    },
+    {
+      "PHP": "0.99"
+    },
+    {
+      "CoffeeScript": "0.33"
+    },
+    {
+      "Objective-C": "0.25"
+    },
+    {
+      "PowerShell": "0.02"
+    },
+    {
+      "Shell": "0.01"
+    },
+    {
+      "C": "0.00"
+    },
+    {
+      "MATLAB": "0.05"
+    },
+    {
+      "M": "0.00"
+    }
+  ],
+  "packages": {
+    "@angular/animations": 4,
+    "@angular/common": 4,
+    "@angular/compiler": 4,
+    "@angular/core": 4,
+    "@angular/forms": 4,
+    "@angular/platform-browser": 4,
+    "@angular/platform-browser-dynamic": 4,
+    "rxjs": 4,
+    "zone.js": 4,
+    "@angular/router": 3
+  },
+  "devPackages": {
+    "typescript": 4,
+    "@angular-devkit/build-angular": 3,
+    "@angular/cli": 3,
+    "@angular/compiler-cli": 3,
+    "@types/jasmine": 3,
+    "@types/node": 3,
+    "codelyzer": 3,
+    "jasmine-core": 3,
+    "jasmine-spec-reporter": 3,
+    "karma": 3
+  }
+}

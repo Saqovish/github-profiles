@@ -1,0 +1,84 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/11833776?v=4",
+  "login": "MouadKH9",
+  "name": "Mouad Khchich",
+  "blog": "http://mouadk.online",
+  "bio": "An ambitious young developer ready to conquer the world.",
+  "public_repos": 18,
+  "total_repos": null,
+  "followers": 4,
+  "following": 3,
+  "url": "https://github.com/MouadKH9",
+  "repos_url": "https://api.github.com/users/MouadKH9/repos",
+  "languages": [
+    {
+      "HTML": "0.67"
+    },
+    {
+      "JavaScript": "91.83"
+    },
+    {
+      "CSS": "3.58"
+    },
+    {
+      "C": "0.18"
+    },
+    {
+      "Objective-C": "0.01"
+    },
+    {
+      "C++": "0.48"
+    },
+    {
+      "PHP": "2.19"
+    },
+    {
+      "TypeScript": "0.71"
+    },
+    {
+      "TSQL": "0.03"
+    },
+    {
+      "Python": "0.01"
+    },
+    {
+      "QMake": "0.02"
+    },
+    {
+      "MATLAB": "0.06"
+    },
+    {
+      "Java": "0.22"
+    },
+    {
+      "Hack": "0.00"
+    },
+    {
+      "Vue": "0.00"
+    }
+  ],
+  "packages": {
+    "axios": 3,
+    "body-parser": 3,
+    "express": 3,
+    "mongoose": 3,
+    "connect-mongodb-session": 2,
+    "cookie-parser": 2,
+    "express-session": 2,
+    "mongodb": 2,
+    "ejs": 1,
+    "antd": 1
+  },
+  "devPackages": {
+    "babel-plugin-import": 1,
+    "@angular-devkit/build-angular": 1,
+    "@angular/cli": 1,
+    "@angular/compiler-cli": 1,
+    "@angular/language-service": 1,
+    "@types/node": 1,
+    "@types/jasmine": 1,
+    "@types/jasminewd2": 1,
+    "codelyzer": 1,
+    "jasmine-core": 1
+  }
+}

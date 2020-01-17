@@ -1,0 +1,54 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/45264848?v=4",
+  "login": "MohamedElidrissi",
+  "name": "Mohamed ELIDRISSI",
+  "blog": "",
+  "bio": "21, self-taught full-stack web dev, future entrepreneur.",
+  "public_repos": 18,
+  "total_repos": null,
+  "followers": 4,
+  "following": 1,
+  "url": "https://github.com/MohamedElidrissi",
+  "repos_url": "https://api.github.com/users/MohamedElidrissi/repos",
+  "languages": [
+    {
+      "Kotlin": "21.32"
+    },
+    {
+      "Java": "11.65"
+    },
+    {
+      "JavaScript": "43.69"
+    },
+    {
+      "CSS": "14.65"
+    },
+    {
+      "HTML": "8.70"
+    }
+  ],
+  "packages": {
+    "@primer/components": 1,
+    "react": 1,
+    "react-dom": 1,
+    "react-router": 1,
+    "react-router-dom": 1,
+    "react-scripts": 1,
+    "styled-components": 1,
+    "uuid": 1,
+    "axios": 1,
+    "bcrypt": 1
+  },
+  "devPackages": {
+    "gulp": 4,
+    "gulp-cli": 4,
+    "gulp-csso": 4,
+    "gulp-sass": 2,
+    "@types/jest": 1,
+    "css-loader": 1,
+    "jest": 1,
+    "style-loader": 1,
+    "webpack": 1,
+    "webpack-cli": 1
+  }
+}

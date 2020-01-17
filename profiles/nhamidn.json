@@ -1,0 +1,50 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/20777717?v=4",
+  "login": "nhamidn",
+  "name": "Noureddine Hamid",
+  "blog": "",
+  "bio": "Student at 1337",
+  "public_repos": 9,
+  "total_repos": null,
+  "followers": 7,
+  "following": 7,
+  "url": "https://github.com/nhamidn",
+  "repos_url": "https://api.github.com/users/nhamidn/repos",
+  "languages": [
+    {
+      "PHP": "18.11"
+    },
+    {
+      "JavaScript": "0.76"
+    },
+    {
+      "Hack": "0.19"
+    },
+    {
+      "C": "67.85"
+    },
+    {
+      "Makefile": "1.77"
+    },
+    {
+      "Dockerfile": "0.31"
+    },
+    {
+      "HTML": "6.83"
+    },
+    {
+      "CSS": "1.61"
+    },
+    {
+      "TSQL": "1.09"
+    },
+    {
+      "Roff": "1.40"
+    },
+    {
+      "Perl": "0.09"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

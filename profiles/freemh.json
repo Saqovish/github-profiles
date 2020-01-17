@@ -1,0 +1,66 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2392987?v=4",
+  "login": "freemh",
+  "name": "Arbaoui Mehdi",
+  "blog": "https://codepen.io/arbaoui_mehdi",
+  "bio": null,
+  "public_repos": 75,
+  "total_repos": null,
+  "followers": 50,
+  "following": 2,
+  "url": "https://github.com/freemh",
+  "repos_url": "https://api.github.com/users/freemh/repos",
+  "languages": [
+    {
+      "CSS": "76.36"
+    },
+    {
+      "Ruby": "5.87"
+    },
+    {
+      "JavaScript": "6.64"
+    },
+    {
+      "HTML": "7.57"
+    },
+    {
+      "Shell": "0.13"
+    },
+    {
+      "PHP": "1.83"
+    },
+    {
+      "TypeScript": "1.40"
+    },
+    {
+      "Vim script": "0.19"
+    },
+    {
+      "CoffeeScript": "0.02"
+    }
+  ],
+  "packages": {
+    "bootstrap": 3,
+    "jquery": 3,
+    "popper.js": 3,
+    "gatsby": 2,
+    "gatsby-plugin-react-helmet": 2,
+    "gatsby-source-filesystem": 2,
+    "react": 2,
+    "react-dom": 2,
+    "react-helmet": 2,
+    "line-awesome": 1
+  },
+  "devPackages": {
+    "browser-sync": 3,
+    "webpack-merge": 3,
+    "autoprefixer": 2,
+    "browsersync-webpack-plugin": 2,
+    "bs-html-injector": 2,
+    "buble-loader": 2,
+    "cache-loader": 2,
+    "clean-webpack-plugin": 2,
+    "copy-globs-webpack-plugin": 2,
+    "css-loader": 2
+  }
+}

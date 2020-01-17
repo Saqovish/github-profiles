@@ -1,0 +1,44 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/48126333?v=4",
+  "login": "Vvoox",
+  "name": "Khalil Daoulat",
+  "blog": "",
+  "bio": "\r\nI think | I create | I like | I share      ",
+  "public_repos": 30,
+  "total_repos": null,
+  "followers": 7,
+  "following": 18,
+  "url": "https://github.com/Vvoox",
+  "repos_url": "https://api.github.com/users/Vvoox/repos",
+  "languages": [
+    {
+      "Java": "5.05"
+    },
+    {
+      "JavaScript": "88.88"
+    },
+    {
+      "Python": "3.25"
+    },
+    {
+      "PowerShell": "0.11"
+    },
+    {
+      "Batchfile": "0.10"
+    },
+    {
+      "CSS": "1.09"
+    },
+    {
+      "C++": "1.35"
+    },
+    {
+      "QMake": "0.06"
+    },
+    {
+      "HTML": "0.10"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

@@ -1,0 +1,52 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/30134218?v=4",
+  "login": "yassine5505",
+  "name": "Mohammed Yassine CHRAIBI",
+  "blog": "https://www.linkedin.com/in/mohammed-yassine-chraibi-89a332133/",
+  "bio": "Junior Web Developer/Freelancer.\r\nLove web design and development.\r\n",
+  "public_repos": 8,
+  "total_repos": null,
+  "followers": 3,
+  "following": 16,
+  "url": "https://github.com/yassine5505",
+  "repos_url": "https://api.github.com/users/yassine5505/repos",
+  "languages": [
+    {
+      "PHP": "36.08"
+    },
+    {
+      "CSS": "25.41"
+    },
+    {
+      "HTML": "15.42"
+    },
+    {
+      "JavaScript": "9.29"
+    },
+    {
+      "Hack": "0.14"
+    },
+    {
+      "TypeScript": "13.60"
+    },
+    {
+      "Vue": "0.06"
+    }
+  ],
+  "packages": {
+    "react": 2,
+    "react-dom": 2,
+    "react-scripts": 2,
+    "bootstrap": 1,
+    "font-awesome": 1,
+    "jquery": 1,
+    "popper.js": 1,
+    "react-keyboard-event-handler": 1
+  },
+  "devPackages": {
+    "browser-sync": 1,
+    "gulp": 1,
+    "gulp-sass": 1,
+    "gh-pages": 1
+  }
+}

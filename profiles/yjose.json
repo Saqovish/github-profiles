@@ -1,0 +1,48 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/11137944?v=4",
+  "login": "yjose",
+  "name": "Youssouf EL AZIZI",
+  "blog": "https://elazizi.com",
+  "bio": "Human first 🙌, Full stack developer,⚡️ Reactjs ⚡️",
+  "public_repos": 57,
+  "total_repos": null,
+  "followers": 173,
+  "following": 25,
+  "url": "https://github.com/yjose",
+  "repos_url": "https://api.github.com/users/yjose/repos",
+  "languages": [
+    {
+      "HTML": "1.43"
+    },
+    {
+      "JavaScript": "87.55"
+    },
+    {
+      "CSS": "11.02"
+    }
+  ],
+  "packages": {
+    "react": 4,
+    "react-dom": 4,
+    "prismjs": 2,
+    "react-helmet": 2,
+    "reactjs-popup": 2,
+    "react-scripts": 2,
+    "axios": 1,
+    "babel-plugin-universal-import": 1,
+    "markdown-to-jsx": 1,
+    "react-router": 1
+  },
+  "devPackages": {
+    "eslint-config-react-tools": 1,
+    "front-matter": 1,
+    "front-matter-loader": 1,
+    "json-loader": 1,
+    "raw-loader": 1,
+    "react-universal-component": 1,
+    "serve": 1,
+    "webpack-flush-chunks": 1,
+    "babel-preset-gatsby": 1,
+    "typescript": 1
+  }
+}

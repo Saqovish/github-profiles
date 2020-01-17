@@ -1,0 +1,63 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/28781942?v=4",
+  "login": "MouadBH",
+  "name": "Mouad Boulahdoud",
+  "blog": "www.mouadbh.me",
+  "bio": "Mint tea.",
+  "public_repos": 25,
+  "total_repos": null,
+  "followers": 15,
+  "following": 77,
+  "url": "https://github.com/MouadBH",
+  "repos_url": "https://api.github.com/users/MouadBH/repos",
+  "languages": [
+    {
+      "Jupyter Notebook": "27.71"
+    },
+    {
+      "PHP": "12.05"
+    },
+    {
+      "CSS": "12.47"
+    },
+    {
+      "JavaScript": "1.23"
+    },
+    {
+      "HTML": "46.22"
+    },
+    {
+      "Hack": "0.11"
+    },
+    {
+      "Vue": "0.01"
+    },
+    {
+      "TypeScript": "0.20"
+    }
+  ],
+  "packages": {
+    "react-router-dom": 3,
+    "express": 2,
+    "jquery": 2,
+    "moment": 2,
+    "react-notify-toast": 1,
+    "webpack": 1,
+    "base64-img": 1,
+    "body-parser": 1,
+    "multer": 1,
+    "@date-io/date-fns": 1
+  },
+  "devPackages": {
+    "axios": 4,
+    "cross-env": 4,
+    "laravel-mix": 4,
+    "lodash": 4,
+    "@babel/preset-react": 3,
+    "bootstrap": 3,
+    "jquery": 3,
+    "popper.js": 3,
+    "react": 3,
+    "react-dom": 3
+  }
+}

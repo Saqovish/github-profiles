@@ -1,0 +1,66 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/34815204?v=4",
+  "login": "jamalhassouni",
+  "name": "jamal hassouni",
+  "blog": "https://linktr.ee/jamal_hassouni",
+  "bio": "I am an experienced full stack web developer, I have excellent coding skills, as well as ability to convert client requirements into exciting online application",
+  "public_repos": 47,
+  "total_repos": null,
+  "followers": 10,
+  "following": 27,
+  "url": "https://github.com/jamalhassouni",
+  "repos_url": "https://api.github.com/users/jamalhassouni/repos",
+  "languages": [
+    {
+      "TypeScript": "1.58"
+    },
+    {
+      "JavaScript": "44.42"
+    },
+    {
+      "HTML": "10.89"
+    },
+    {
+      "CSS": "5.16"
+    },
+    {
+      "Objective-C": "1.18"
+    },
+    {
+      "Python": "0.52"
+    },
+    {
+      "Java": "0.48"
+    },
+    {
+      "PHP": "35.56"
+    },
+    {
+      "Vue": "0.22"
+    }
+  ],
+  "packages": {
+    "react": 6,
+    "react-native": 4,
+    "axios": 2,
+    "prop-types": 2,
+    "react-navigation": 2,
+    "react-native-vector-icons": 2,
+    "@fortawesome/fontawesome-free": 2,
+    "react-redux": 2,
+    "redux": 2,
+    "redux-thunk": 2
+  },
+  "devPackages": {
+    "babel-jest": 3,
+    "jest": 3,
+    "metro-react-native-babel-preset": 3,
+    "react-test-renderer": 3,
+    "axios": 3,
+    "cross-env": 3,
+    "jquery": 3,
+    "laravel-mix": 3,
+    "lodash": 3,
+    "resolve-url-loader": 3
+  }
+}

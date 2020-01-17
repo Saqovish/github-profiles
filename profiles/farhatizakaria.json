@@ -1,0 +1,26 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/52662349?v=4",
+  "login": "farhatizakaria",
+  "name": "Zakaria Farhati",
+  "blog": "",
+  "bio": "I'm a developer at C#, Python and Java, electrical technician, Data science, Machine learning, scientific research student.",
+  "public_repos": 12,
+  "total_repos": null,
+  "followers": 6,
+  "following": 13,
+  "url": "https://github.com/farhatizakaria",
+  "repos_url": "https://api.github.com/users/farhatizakaria/repos",
+  "languages": [
+    {
+      "C#": "10.48"
+    },
+    {
+      "Python": "80.88"
+    },
+    {
+      "Java": "8.64"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

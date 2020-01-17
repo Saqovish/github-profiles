@@ -1,0 +1,32 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/20033279?v=4",
+  "login": "malohtie",
+  "name": "Mohamed Amine EL ATTABI",
+  "blog": "linkedin.com/in/mohamedamineelattabi",
+  "bio": "what's done cannot be undone",
+  "public_repos": 10,
+  "total_repos": null,
+  "followers": 3,
+  "following": 1,
+  "url": "https://github.com/malohtie",
+  "repos_url": "https://api.github.com/users/malohtie/repos",
+  "languages": [
+    {
+      "Python": "0.44"
+    },
+    {
+      "JavaScript": "0.53"
+    },
+    {
+      "Ruby": "1.50"
+    },
+    {
+      "C#": "85.17"
+    },
+    {
+      "PHP": "12.36"
+    }
+  ],
+  "packages": {},
+  "devPackages": {}
+}

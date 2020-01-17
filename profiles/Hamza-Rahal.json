@@ -1,0 +1,66 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/43707351?v=4",
+  "login": "Hamza-Rahal",
+  "name": null,
+  "blog": "https://www.linkedin.com/in/hamza-rahal-0291b9167/",
+  "bio": "Software engineering student",
+  "public_repos": 25,
+  "total_repos": null,
+  "followers": 6,
+  "following": 84,
+  "url": "https://github.com/Hamza-Rahal",
+  "repos_url": "https://api.github.com/users/Hamza-Rahal/repos",
+  "languages": [
+    {
+      "Java": "25.78"
+    },
+    {
+      "CMake": "0.16"
+    },
+    {
+      "C++": "0.03"
+    },
+    {
+      "Kotlin": "3.27"
+    },
+    {
+      "PHP": "12.63"
+    },
+    {
+      "HTML": "5.59"
+    },
+    {
+      "Vue": "11.59"
+    },
+    {
+      "CSS": "37.97"
+    },
+    {
+      "JavaScript": "2.99"
+    }
+  ],
+  "packages": {
+    "pagedown-editor": 1,
+    "tiptap": 1,
+    "tiptap-extensions": 1,
+    "ajv": 1,
+    "bulma": 1,
+    "css-loader": 1,
+    "froala-editor": 1,
+    "postcss-loader": 1,
+    "vue-froala-wysiwyg": 1,
+    "vue-multi-select": 1
+  },
+  "devPackages": {
+    "cross-env": 2,
+    "tailwindcss": 2,
+    "vue": 2,
+    "vue-template-compiler": 1,
+    "vue-loader": 1,
+    "autoprefixer": 1,
+    "css-loader": 1,
+    "extract-text-webpack-plugin": 1,
+    "html-webpack-plugin": 1,
+    "postcss": 1
+  }
+}

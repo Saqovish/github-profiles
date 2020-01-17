@@ -1,0 +1,62 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/11875804?v=4",
+  "login": "ayoubensalem",
+  "name": "Ayoub Ed-dafali",
+  "blog": "ayoubensalem.github.io",
+  "bio": " Software  Engineer, DevOps Practitioner",
+  "public_repos": 97,
+  "total_repos": null,
+  "followers": 25,
+  "following": 115,
+  "url": "https://github.com/ayoubensalem",
+  "repos_url": "https://api.github.com/users/ayoubensalem/repos",
+  "languages": [
+    {
+      "C++": "31.02"
+    },
+    {
+      "C": "2.93"
+    },
+    {
+      "Java": "25.92"
+    },
+    {
+      "JavaScript": "17.27"
+    },
+    {
+      "HTML": "2.22"
+    },
+    {
+      "CSS": "2.53"
+    },
+    {
+      "Batchfile": "0.72"
+    },
+    {
+      "Jupyter Notebook": "4.40"
+    },
+    {
+      "Python": "1.16"
+    },
+    {
+      "XSLT": "9.38"
+    },
+    {
+      "Shell": "2.16"
+    },
+    {
+      "Scala": "0.24"
+    },
+    {
+      "Makefile": "0.05"
+    }
+  ],
+  "packages": {
+    "globule": 1
+  },
+  "devPackages": {
+    "gulp": 1,
+    "gulp-util": 1,
+    "gulp-webserver": 1
+  }
+}

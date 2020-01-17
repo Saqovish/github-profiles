@@ -1,0 +1,45 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/46430033?v=4",
+  "login": "ennbou",
+  "name": "ennakr bouchaib",
+  "blog": "",
+  "bio": "Student at Higher School of Technical Education of Mohammedia city. University of Hassan II Casablanca Morocco.\r\nEngineering software and Developer sites WEB. ",
+  "public_repos": 10,
+  "total_repos": null,
+  "followers": 3,
+  "following": 14,
+  "url": "https://github.com/ennbou",
+  "repos_url": "https://api.github.com/users/ennbou/repos",
+  "languages": [
+    {
+      "PHP": "39.58"
+    },
+    {
+      "CSS": "9.61"
+    },
+    {
+      "Hack": "0.76"
+    },
+    {
+      "HTML": "16.63"
+    },
+    {
+      "Ruby": "1.73"
+    },
+    {
+      "Java": "24.91"
+    },
+    {
+      "Python": "2.54"
+    },
+    {
+      "JavaScript": "4.25"
+    }
+  ],
+  "packages": {
+    "bootstrap": 1,
+    "jquery": 1,
+    "popper": 1
+  },
+  "devPackages": {}
+}

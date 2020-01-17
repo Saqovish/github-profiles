@@ -1,0 +1,40 @@
+{
+  "avatar_url": "https://avatars1.githubusercontent.com/u/9772227?v=4",
+  "login": "Sadhr",
+  "name": "Saad HARAKAT",
+  "blog": "",
+  "bio": null,
+  "public_repos": 61,
+  "total_repos": null,
+  "followers": 2,
+  "following": 9,
+  "url": "https://github.com/Sadhr",
+  "repos_url": "https://api.github.com/users/Sadhr/repos",
+  "languages": [
+    {
+      "JavaScript": "71.63"
+    },
+    {
+      "HTML": "17.97"
+    },
+    {
+      "CSS": "6.61"
+    },
+    {
+      "Python": "3.78"
+    }
+  ],
+  "packages": {
+    "express": 7,
+    "cors": 6,
+    "body-parser": 5,
+    "mongodb": 4,
+    "chai": 3,
+    "chai-http": 3,
+    "mocha": 3,
+    "zombie": 3,
+    "helmet": 3,
+    "mongoose": 2
+  },
+  "devPackages": {}
+}

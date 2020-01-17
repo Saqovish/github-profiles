@@ -1,0 +1,55 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1578005?v=4",
+  "login": "youssefhabri",
+  "name": "Youssef Habri",
+  "blog": "",
+  "bio": "Computer Science Student. Robotics & Electronics hobbyist.",
+  "public_repos": 22,
+  "total_repos": null,
+  "followers": 18,
+  "following": 103,
+  "url": "https://github.com/youssefhabri",
+  "repos_url": "https://api.github.com/users/youssefhabri/repos",
+  "languages": [
+    {
+      "Rust": "74.67"
+    },
+    {
+      "Python": "5.13"
+    },
+    {
+      "Vue": "1.40"
+    },
+    {
+      "TypeScript": "17.12"
+    },
+    {
+      "HTML": "1.05"
+    },
+    {
+      "JavaScript": "0.04"
+    },
+    {
+      "PLpgSQL": "0.45"
+    },
+    {
+      "TSQL": "0.14"
+    }
+  ],
+  "packages": {
+    "discord.js": 1,
+    "dotenv": 1,
+    "firebase-admin": 1,
+    "grpc": 1,
+    "klasa": 1,
+    "node-fetch": 1,
+    "striptags": 1
+  },
+  "devPackages": {
+    "@types/node": 1,
+    "@types/node-fetch": 1,
+    "eslint-config-klasa": 1,
+    "nodemon": 1,
+    "typescript": 1
+  }
+}

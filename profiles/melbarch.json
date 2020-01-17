@@ -1,0 +1,34 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/12951727?v=4",
+  "login": "melbarch",
+  "name": "Mohamed ELBARCHANY",
+  "blog": "https://melbarch.com",
+  "bio": null,
+  "public_repos": 18,
+  "total_repos": null,
+  "followers": 19,
+  "following": 36,
+  "url": "https://github.com/melbarch",
+  "repos_url": "https://api.github.com/users/melbarch/repos",
+  "languages": [
+    {
+      "JavaScript": "15.18"
+    },
+    {
+      "CSS": "71.54"
+    },
+    {
+      "HTML": "10.33"
+    },
+    {
+      "C#": "2.95"
+    }
+  ],
+  "packages": {
+    "chalk": 1,
+    "commander": 1
+  },
+  "devPackages": {
+    "eslint": 2
+  }
+}

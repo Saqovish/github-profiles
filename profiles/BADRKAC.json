@@ -1,0 +1,69 @@
+{
+  "avatar_url": "https://avatars0.githubusercontent.com/u/31140256?v=4",
+  "login": "BADRKAC",
+  "name": "BADR KACIMI",
+  "blog": "https://badrkac.github.io",
+  "bio": "Java enthusiast having some major romance with JavaScript and major nostalgia with Cobol\r\n",
+  "public_repos": 52,
+  "total_repos": null,
+  "followers": 3,
+  "following": 4,
+  "url": "https://github.com/BADRKAC",
+  "repos_url": "https://api.github.com/users/BADRKAC/repos",
+  "languages": [
+    {
+      "CSS": "25.89"
+    },
+    {
+      "HTML": "19.25"
+    },
+    {
+      "JavaScript": "10.05"
+    },
+    {
+      "PHP": "1.37"
+    },
+    {
+      "Python": "0.05"
+    },
+    {
+      "Java": "26.87"
+    },
+    {
+      "Dockerfile": "0.04"
+    },
+    {
+      "Shell": "0.53"
+    },
+    {
+      "Batchfile": "0.40"
+    },
+    {
+      "TypeScript": "15.55"
+    }
+  ],
+  "packages": {
+    "@angular/common": 2,
+    "@angular/compiler": 2,
+    "@angular/core": 2,
+    "@angular/forms": 2,
+    "@angular/platform-browser": 2,
+    "@angular/platform-browser-dynamic": 2,
+    "@angular/router": 2,
+    "bootstrap": 2,
+    "core-js": 2,
+    "rxjs": 2
+  },
+  "devPackages": {
+    "@angular/cli": 2,
+    "@angular/compiler-cli": 2,
+    "@types/node": 2,
+    "codelyzer": 2,
+    "tslint": 2,
+    "typescript": 2,
+    "@angular/language-service": 1,
+    "@types/jasmine": 1,
+    "@types/jasminewd2": 1,
+    "jasmine-core": 1
+  }
+}

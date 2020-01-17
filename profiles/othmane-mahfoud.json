@@ -1,0 +1,50 @@
+{
+  "avatar_url": "https://avatars2.githubusercontent.com/u/34869530?v=4",
+  "login": "othmane-mahfoud",
+  "name": "Othmane Mahfoud",
+  "blog": "mahfoud.othmane97@gmail.com",
+  "bio": "Eager to learn.",
+  "public_repos": 13,
+  "total_repos": null,
+  "followers": 20,
+  "following": 34,
+  "url": "https://github.com/othmane-mahfoud",
+  "repos_url": "https://api.github.com/users/othmane-mahfoud/repos",
+  "languages": [
+    {
+      "JavaScript": "41.28"
+    },
+    {
+      "CSS": "3.94"
+    },
+    {
+      "HTML": "6.53"
+    },
+    {
+      "C++": "16.25"
+    },
+    {
+      "Java": "23.60"
+    },
+    {
+      "Swift": "8.14"
+    },
+    {
+      "Ruby": "0.03"
+    },
+    {
+      "Python": "0.24"
+    }
+  ],
+  "packages": {
+    "@oracle/oraclejet": 1
+  },
+  "devPackages": {
+    "grunt": 1,
+    "@oracle/grunt-oraclejet": 1,
+    "load-grunt-config": 1,
+    "@oracle/oraclejet-tooling": 1,
+    "qunit-reporter-junit": 1,
+    "qunit": 1
+  }
+}

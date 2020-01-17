@@ -1,0 +1,47 @@
+{
+  "avatar_url": "https://avatars3.githubusercontent.com/u/15928054?v=4",
+  "login": "gouzal",
+  "name": "Larbi Gouzal",
+  "blog": "https://www.linkedin.com/in/larbi-gouzal/",
+  "bio": "a Java and PHP developer ^^.",
+  "public_repos": 15,
+  "total_repos": null,
+  "followers": 304,
+  "following": 8,
+  "url": "https://github.com/gouzal",
+  "repos_url": "https://api.github.com/users/gouzal/repos",
+  "languages": [
+    {
+      "Jupyter Notebook": "2.94"
+    },
+    {
+      "PHP": "35.28"
+    },
+    {
+      "TSQL": "32.80"
+    },
+    {
+      "Java": "12.01"
+    },
+    {
+      "HTML": "0.70"
+    },
+    {
+      "CSS": "16.20"
+    },
+    {
+      "Vue": "0.06"
+    }
+  ],
+  "packages": {},
+  "devPackages": {
+    "axios": 1,
+    "bootstrap": 1,
+    "popper.js": 1,
+    "cross-env": 1,
+    "jquery": 1,
+    "laravel-mix": 1,
+    "lodash": 1,
+    "vue": 1
+  }
+}
